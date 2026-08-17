@@ -108,7 +108,7 @@
 
 **0.64 aka 0.64.0 (14.05.2002):**
 
-- Added map Atlans.<sup><a id="cite13"></a>[[13]](#ref13)</sup>
+- Added map Atlans. Entry level requirement of 100.<sup><a id="cite13"></a>[[13]](#ref13), <a id="cite448"></a>[[448]](#ref448)</sup>
 
 - Added Crystal Sword, Crystal Morning Star, Aquagold Crossbow, Bluewing Crossbow (Legend Crossbow), Staff of Resurrection.<sup><a id="cite13"></a>[[13]](#ref13)</sup>
 
@@ -128,6 +128,7 @@
 
 - Added map Arena and Battle Soccer stadium.<sup><a id="cite38"></a>[[38]](#ref38)</sup>
   - Interestingly, Battle Soccer was introduced to commemorate the 2002 FIFA World Cup, which took place in South Korea and Japan.<sup><a id="cite434"></a>[[434]](#ref434)</sup>
+  - Interestingly, Webzen had planned to release 'Dark Wolf', a unique pet for the Dark Knight (DK). However, it was never implemented. Traces of it still exist in decompiled code from early game versions. Some speculate it was later reworked into Fenrir, the pet released for the Dark Lord (DL).<sup><a id="cite445"></a>[[445]](#ref445)</sup>
   
 - Added macro function /1 /….<sup><a id="cite38"></a>[[38]](#ref38)</sup>
 
@@ -195,7 +196,7 @@
 
 **0.84 aka 0.84.0 (07.01.2003):**
 
-- Added map Tarkan.<sup><a id="cite16"></a>[[16]](#ref16)</sup>
+  - Added map Tarkan. Entry level requirement of 140.<sup><a id="cite16"></a>[[16]](#ref16), <a id="cite46"></a>[[446]](#ref446)</sup>
 
 - Introduction of Excellent items. Maximum 2 options.<sup><a id="cite16"></a>[[16]](#ref16)</sup>
 
@@ -243,7 +244,9 @@
 
 - Introduction of Rena and Golden Archer NPC. You would collect Rena and hand them in (in batches of 10) to the Golden Archer NPC who would tell you a bit of lore about the upcoming new content (0.95k update) that was revealed at the MU Level Up 2003 event at the COEX Convention & Exhibition Center in Seoul, South Korea on June 6 and June 7, 2003. Golden Archer NPC also gave you codes that you could register to use at the MU Level Up 2003 event.<sup><a id="cite20"></a>[[20]](#ref20), <a id="cite73"></a>[[73]](#ref73), <a id="cite74"></a>[[74]](#ref74), <a id="cite19"></a>[[19]](#ref19)</sup>
 
-- Added map Icarus.<sup><a id="cite19"></a>[[19]](#ref19), <a id="cite20"></a>[[20]](#ref20), <a id="cite62"></a>[[62]](#ref62)</sup>
+- Added map Icarus. Entry level requirement of 160.<sup><a id="cite19"></a>[[19]](#ref19), <a id="cite20"></a>[[20]](#ref20), <a id="cite62"></a>[[62]](#ref62), <a id="cite448"></a>[[448]](#ref448)</sup>
+
+- Entry level requirement for Tarkan lowered from 140 to 130. Entry level requirement for Atlans lowered from 100 to 70.<sup><a id="cite448"></a>[[448]](#ref448)</sup>
 
 - Introduction of Jewel of Creation (JoC).<sup><a id="cite36"></a>[[36]](#ref36), <a id="cite62"></a>[[62]](#ref62)</sup>
 
@@ -255,7 +258,7 @@
 
 **0.9? (20.06.2003):**
 
-- Introduction of seal Tama-chan for the Japanese version of MU Online only. Located in the river-ditch at the Southern bridge of Lorencia.<sup><a id="cite28"></a>[[28]](#ref28), <a id="cite37"></a>[[37]](#ref37)</sup>
+- Introduction of seal Tama-chan for the Japanese version of MU Online only. Located in the river-ditch at the Southern bridge of Lorencia.<sup><a id="cite28"></a>[[28]](#ref28), <a id="cite37"></a>[[37]](#ref37), <a id="cite447"></a>[[447]](#ref447)</sup>
   - Tama-chan seal was added to Atlans on 20.07.2003.<sup><a id="cite28"></a>[[28]](#ref28)</sup>
   - Tama-chan seal is based on a real story about a male bearded seal which was first spotted on August 7, 2002 near Maruko Bridge on Tama River in Tokyo. It became a national celebrity in Japan.<sup><a id="cite432"></a>[[432]](#ref432)</sup>
   
@@ -2176,3 +2179,19 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 444. <a id="ref444"></a>[^](#cite444) https://company.webzen.com/ko/presscenter/press/pressview?page=551&seq=2206
 
 - Wayback Machine - Internet Archive: https://web.archive.org/web/20260806182828/https://company.webzen.com/ko/presscenter/press/pressview?page=551&seq=2206
+
+445. <a id="ref445"></a>[^](#cite445) https://company.webzen.com/ko/presscenter/press/pressview?page=571&seq=2102
+
+- Wayback Machine - Internet Archive: 
+
+446. <a id="ref446"></a>[^](#cite446) https://company.webzen.com/ko/presscenter/press/pressview?page=570&seq=2109
+
+- Wayback Machine - Internet Archive:
+
+447. <a id="ref447"></a>[^](#cite447) https://company.webzen.com/ko/presscenter/press/pressview?page=564&seq=2141
+
+- Wayback Machine - Internet Archive:
+
+448. <a id="ref448"></a>[^](#cite448) https://company.webzen.com/ko/presscenter/press/pressview?page=562&seq=2147
+
+- Wayback Machine - Internet Archive: 
