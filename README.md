@@ -71,7 +71,7 @@
 **19.11.2001:** 
 
 - 'Commercial launch' (Grand Opening) of MU Online in South Korea.<sup><a id="cite42"></a>[[42]](#ref42), <a id="cite2"></a>[[2]](#ref2), <a id="cite454"></a>[[454]](#ref454)</sup>
-  - Webzen does not specify what version was considered as the commercial launch of MU Online. However, knowing the timeline and patches announced, we can safely assume that the version 0.45 or 0.46 is the version when MU Online was launched comercially. Everything until that can be considered Open BETA.
+  - Webzen does not specify what version was considered as the commercial launch of MU Online. However, knowing the timeline and patches announced, we can safely assume that the version 0.45 or 0.46 is the version when MU Online was launched officially. Everything until then was Open BETA.
 
 **0.47 aka 0.47.0 (11.12.2001):**
 
