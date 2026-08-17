@@ -476,11 +476,11 @@
 
 # **Season 1 (17.08.2005 - 29.08.2006):**
 
-- Season 1 officially begins with the 1.01b KOR aka 1.01.2 KOR patch. The end of 'Season 0' era.<sup><sup><a id="cite105"></a>[[105]](#ref105), <a id="cite72"></a>[[72]](#ref72), <a id="cite75"></a>[[75]](#ref75), <a id="cite121"></a>[[121]](#ref121)</sup><sup<a id="cite436"></a>[[436]](#ref436)</sup>
+- Season 1 officially begins with the 1.01b KOR aka 1.01.2 KOR patch. The end of 'Season 0' era.<sup><sup><a id="cite105"></a>[[105]](#ref105), <a id="cite72"></a>[[72]](#ref72), <a id="cite75"></a>[[75]](#ref75), <a id="cite121"></a>[[121]](#ref121), <a id="cite436"></a>[[436]](#ref436)</sup>
 - Introduction of map Aida.<sup><a id="cite105"></a>[[105]](#ref105), <a id="cite72"></a>[[72]](#ref72), <a id="cite75"></a>[[75]](#ref75), <a id="cite121"></a>[[121]](#ref121), <a id="cite112"></a>[[112]](#ref112)</sup>
-  - For 7 days no entry level requirement was applied.<sup<a id="cite436"></a>[[436]](#ref436)</sup>
+  - For 7 days no entry level requirement was applied.<sup><a id="cite436"></a>[[436]](#ref436)</sup>
 - Introduction of map Crywolf. Entry level requirement of 300.<sup><a id="cite105"></a>[[105]](#ref105), <a id="cite72"></a>[[72]](#ref72), <a id="cite75"></a>[[75]](#ref75), <a id="cite121"></a>[[121]](#ref121), <a id="cite112"></a>[[112]](#ref112)</sup>
-  - For 7 days no entry level requirement was applied.<sup<a id="cite436"></a>[[436]](#ref436)</sup>
+  - For 7 days no entry level requirement was applied.<sup><a id="cite436"></a>[[436]](#ref436)</sup>
 - Introduction of map Kalima 7. Entry level requirement of 380.<sup><a id="cite105"></a>[[105]](#ref105), <a id="cite72"></a>[[72]](#ref72), <a id="cite121"></a>[[121]](#ref121), <a id="cite112"></a>[[112]](#ref112)</sup>
 - Introduction of Guild Master-specific Castle Siege Skills: Stun, Cancel Stun, Swell Mana, Invisibility, Cancel Invisibility, Abolish Magic.<sup><a id="cite113"></a>[[113]](#ref113), <a id="cite105"></a>[[105]](#ref105), <a id="cite72"></a>[[72]](#ref72)</sup>
 
