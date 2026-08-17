@@ -264,7 +264,7 @@
   
 **0.95.? (06.08.2003):**
 
-- Added Golden Dragon Invasion (Box of Kundun) event. Box of Kundun +5 drops Dragon set, Guardian set, Legendary set, Dragon Shield, weapons and accessories.<sup><a id="cite49"></a>[[49]](#ref49), <a id="cite59"></a>[[59]](#ref59)</sup>
+- Added Golden Dragon Invasion (Box of Kundun) event. Box of Kundun +5 drops Dragon set, Guardian set, Legendary set, Dragon Shield, weapons and accessories.<sup><a id="cite49"></a>[[49]](#ref49), <a id="cite59"></a>[[59]](#ref59), <a id="cite449"></a>[[449]](#ref449)</sup>
 
 - Party level gap increased from 120 to 130.<sup><a id="cite49"></a>[[49]](#ref49), <a id="cite59"></a>[[59]](#ref59)</sup>
 
@@ -302,13 +302,14 @@
 
 **0.96.? (04.09.2003):**
 
-- Introduction of Blood Castle (BC) 1-6.<sup><a id="cite24"></a>[[24]](#ref24), <a id="cite25"></a>[[25]](#ref25), <a id="cite26"></a>[[26]](#ref26), <a id="cite37"></a>[[37]](#ref37)</sup>
-
+- Introduction of Blood Castle (BC) 1-6.<sup><a id="cite24"></a>[[24]](#ref24), <a id="cite25"></a>[[25]](#ref25), <a id="cite26"></a>[[26]](#ref26), <a id="cite37"></a>[[37]](#ref37), <a id="cite450"></a>[[450]](#ref450)</sup>
+  - Webzen were inspired by the movie 'The Lord of the Rings: The Two Towers' when they developed Blood Castle (BC). Full story can be read in the reference link.<sup><a id="cite450"></a>[[450]](#ref450)</sup>
+  
 - Added Divine Archangel weapons: Divine Sword of Archangel, Divine Staff of Archangel and Divine Crossbow of Archangel.<sup><a id="cite24"></a>[[24]](#ref24), <a id="cite25"></a>[[25]](#ref25), <a id="cite26"></a>[[26]](#ref26)</sup>
 
 **06.10.2003:**
 
-- Global MU Online (GMO) launched for Europe and the Americas. Version 0.95.0. First server Maya was launched on 6<sup>th</sup> October, 2003. Second server Wigle was launched on 3<sup>rd</sup> December, 2003.<sup><a id="cite27"></a>[[27]](#ref27), <a id="cite76"></a>[[76]](#ref76)</sup>
+- Global MU Online (GMO) Open BETA launched for Europe and the Americas. Version 0.95.0. First server Maya was launched on 13<sup>th</sup> October, 2003. Second server Wigle was launched on 3<sup>rd</sup> December, 2003.<sup><a id="cite27"></a>[[27]](#ref27), <a id="cite451"></a>[[451]](#ref451), <a id="cite76"></a>[[76]](#ref76)</sup>
 
 **0.96y aka 0.96.25 (27.10.2003):**
 
@@ -320,23 +321,23 @@
 
 **0.97p aka 0.97.16 (11.12.2003):**
 
-- Introduction of Marlon's Quest.<sup><a id="cite52"></a>[[52]](#ref52), <a id="cite64"></a>[[64]](#ref64)</sup>
+- Introduction of Marlon's Quest.<sup><a id="cite52"></a>[[52]](#ref52), <a id="cite64"></a>[[64]](#ref64), <a id="cite452"></a>[[452]](#ref452)</sup>
 
-- Added Duel System.<sup><a id="cite52"></a>[[52]](#ref52), <a id="cite64"></a>[[64]](#ref64)</sup>
+- Added Duel System.<sup><a id="cite52"></a>[[52]](#ref52), <a id="cite64"></a>[[64]](#ref64), <a id="cite452"></a>[[452]](#ref452)</sup>
 
-- Added Combo Skill System for Blade Knight (BK).<sup><a id="cite52"></a>[[52]](#ref52), <a id="cite64"></a>[[64]](#ref64)</sup>
+- Added Combo Skill System for Blade Knight (BK).<sup><a id="cite52"></a>[[52]](#ref52), <a id="cite64"></a>[[64]](#ref64), <a id="cite452"></a>[[452]](#ref452)</sup>
 
-- Added Scroll of Nova for Soul Master (SM).<sup><a id="cite52"></a>[[52]](#ref52)</sup>
+- Added Scroll of Nova for Soul Master (SM).<sup><a id="cite52"></a>[[52]](#ref52), <a id="cite452"></a>[[452]](#ref452)</sup>
 
-- Added Scroll of Decay for Soul Master (SM).<sup><a id="cite52"></a>[[52]](#ref52), <a id="cite64"></a>[[64]](#ref64)</sup>
+- Added Scroll of Decay for Soul Master (SM).<sup><a id="cite52"></a>[[52]](#ref52), <a id="cite64"></a>[[64]](#ref64), <a id="cite452"></a>[[452]](#ref452)</sup>
 
-- Added Scroll of Ice Storm for Soul Master (SM).<sup><a id="cite52"></a>[[52]](#ref52), <a id="cite64"></a>[[64]](#ref64)</sup>
+- Added Scroll of Ice Storm for Soul Master (SM).<sup><a id="cite52"></a>[[52]](#ref52), <a id="cite64"></a>[[64]](#ref64), <a id="cite452"></a>[[452]](#ref452)</sup>
 
 - Maximum level limit raised from 350 to 400.<sup><a id="cite52"></a>[[52]](#ref52)</sup>
 
 - Added pick-up function of 'Spacebar'.<sup><a id="cite52"></a>[[52]](#ref52)</sup>
 
-- Added Great Reign Crossbow.<sup><a id="cite52"></a>[[52]](#ref52)</sup>
+- Added Great Reign Crossbow.<sup><a id="cite52"></a>[[52]](#ref52), <a id="cite452"></a>[[452]](#ref452)</sup>
 
 - Updated graphics of original Divine set, Grand Soul set and Wings of Dragon (Devil Wings).<sup><a id="cite52"></a>[[52]](#ref52)</sup>
 
@@ -414,9 +415,9 @@
 
 **0.99.? (24.08.2004):**
 
-- Introduction of 5<sup>th</sup> character: Dark Lord (DL).<sup><a id="cite99"></a>[[99]](#ref99), <a id="cite100"></a>[[100]](#ref100), <a id="cite70"></a>[[70]](#ref70)</sup>
+- Introduction of 5<sup>th</sup> character: Dark Lord (DL).<sup><a id="cite99"></a>[[99]](#ref99), <a id="cite100"></a>[[100]](#ref100), <a id="cite70"></a>[[70]](#ref70), <a id="cite453"></a>[[453]](#ref453)</sup>
 
-- Added Dark Raven and Dark Horse for Dark Lord (DL).<sup><a id="cite99"></a>[[99]](#ref99), <a id="cite100"></a>[[100]](#ref100), <a id="cite70"></a>[[70]](#ref70)</sup>
+- Added Dark Raven and Dark Horse for Dark Lord (DL).<sup><a id="cite99"></a>[[99]](#ref99), <a id="cite100"></a>[[100]](#ref100), <a id="cite70"></a>[[70]](#ref70), <a id="cite453"></a>[[453]](#ref453)</sup>
 
 **0.99.? (21.09.2004):**
 
@@ -2193,5 +2194,25 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 - Wayback Machine - Internet Archive:
 
 448. <a id="ref448"></a>[^](#cite448) https://company.webzen.com/ko/presscenter/press/pressview?page=562&seq=2147
+
+- Wayback Machine - Internet Archive:
+
+449. <a id="ref449"></a>[^](#cite449) https://company.webzen.com/ko/presscenter/press/pressview?page=561&seq=2156
+
+- Wayback Machine - Internet Archive:
+
+450. <a id="ref450"></a>[^](#cite450) https://company.webzen.com/ko/presscenter/press/pressview?page=560&seq=2159
+
+- Wayback Machine - Internet Archive:
+
+451. <a id="ref451"></a>[^](#cite451) https://company.webzen.com/ko/presscenter/press/pressview?page=559&seq=2163
+
+- Wayback Machine - Internet Archive:
+
+452. <a id="ref452"></a>[^](#cite452) https://company.webzen.com/ko/presscenter/press/pressview?page=558&seq=2171
+
+- Wayback Machine - Internet Archive:
+
+453. <a id="ref453"></a>[^](#cite453) https://company.webzen.com/ko/presscenter/press/pressview?page=551&seq=2204
 
 - Wayback Machine - Internet Archive: 
