@@ -283,7 +283,7 @@
 
 - Introduction of 2<sup>nd</sup> Level Wings (Wings of Dragon, Wings of Spirit, Wings of Soul, Cape of Lord).<sup><a id="cite21"></a>[[21]](#ref21), <a id="cite63"></a>[[63]](#ref63)</sup>
 
-- Added Dark Phoenix set, Spirit Sword (Dark Breaker), Divine set, Celestial Bow, Crystal Staff (Dragon Soul Staff), Grand Soul set, Thunder set, Thunder Blade.<sup><a id="cite39"></a>[[39]](#ref39)</sup>
+- Added Dark Phoenix set, Dark Breaker (Spirit Sword), Divine set, Celestial Bow, Crystal Staff (Dragon Soul Staff), Grand Soul set, Thunder set, Thunder Blade.<sup><a id="cite39"></a>[[39]](#ref39)</sup>
 
 - Added Impale skill (Horn of Uniria + Spear weapon for Dark Knight).<sup><a id="cite23"></a>[[23]](#ref23)</sup>
 
