@@ -1239,12 +1239,14 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 - Increased Socket Item enhancement probability rates.<sup><a id="cite427"></a>[[427]](#ref427)</sup>
 - Various gameplay improvements. Changes to event entry level requirements. Changes to Boss Battle Together event monster stats. Changes to Monster Soul Converter level brackets and requirements. Horn of Uniria, Satan and Guardian Angel are removed as monster drops and quest rewards.<sup><a id="cite428"></a>[[428]](#ref428)</sup>
 
-# **Season 21 Part 2-3 (09.06.2026 - …):**
+# **Season 21 Part 2-3 (09.06.2026 - ??.09.2026):**
 
 - Introduction of 8<sup>th</sup> Guardian Mount: Rhino (level 1500).<sup><a id="cite429"></a>[[429]](#ref429)</sup>
 - Added Elite Zone in map Lacleon of Oblivion (Raklion of Oblivion) and Elite monsters Giant Mammoth of Oblivion, Giant of Oblivion, Iron Knight of Oblivion. Removal of Elite Zone and its monsters in map Aquilas Temple.<sup><a id="cite430"></a>[[430]](#ref430)</sup>
 - Introduction of 2<sup>nd</sup> Legendary Weapon and Shield - Imperial (level 1600) for Crusader.<sup><a id="cite431"></a>[[431]](#ref431)</sup>
 - Introduction of 2<sup>nd</sup> Legendary Set - Imperial (level 1600) for Crusader.<sup><a id="cite431"></a>[[431]](#ref431)</sup>
+
+# **Season 22 Part 1-1 (??.09.2026 - …):**
 
 # **REFERENCES:**
 1. <a id="ref1"></a>[^](#cite1) https://web.archive.org/web/20010331044810/http://www.muonline.co.kr/faq/faq.htm
