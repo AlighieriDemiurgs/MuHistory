@@ -2345,4 +2345,4 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 479. <a id="ref479"></a>[^](#cite479) https://company.webzen.com/ko/presscenter/press/pressview?page=455&seq=2693
 
-- Wayback Machine - Internet Archive: 
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260826150147/https://company.webzen.com/ko/presscenter/press/pressview?page=455&seq=2693
