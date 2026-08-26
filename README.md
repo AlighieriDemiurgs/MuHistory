@@ -644,12 +644,16 @@ MU Korea (muonline.co.kr) did not use this terminology. These were just two upda
 - Added map Vulcanus (incl. Duel Arena aka the Colosseum, Gladiator's Honor buff). Entry level requirement of 30.<sup><a id="cite157"></a>[[157]](#ref157), <a id="cite468"></a>[[468]](#ref468)</sup>
 - Introduction of the new Duel System: all Duels between players automatically now take place in Dual Arena aka the Colosesum.<sup><a id="cite157"></a>[[157]](#ref157)</sup>
 
-# **Season 5 Part 1 (20.08.2009 - 27.10.2009):**
+**Additional update #1 for Season 4.5 (11.06.2008):**
+- Stat modification to Divine Archangel weapons. Changes to Chaos Castle rewards. Jewel of Chaos added as a drop in map Vulcanus.<sup><a id="cite469"></a>[[469]](#ref469)</sup>
+- PC/HWID limit removed, allowing players to run multi-clients.<sup><a id="cite469"></a>[[469]](#ref469)</sup>
 
-- Introduction of new Ancient Set items (Anonymous Leather set, Anonymous Large Round shield, Mist Bronze set, Berserker Scale set, Cloud Brass set, Rave Plate set, Barnake Pad set, Sylion Bone set, Minet Sphinx set, Drake Vine set, Fase Silk set, Elvian Wind set, Karis Spirit set).<sup><a id="cite162"></a>[[162]](#ref162)</sup>
-- Added Fortress of Imperial Guardian: Varka event.<sup><a id="cite159"></a>[[159]](#ref159)</sup>
-- Added Doppelganger (Double Goer) event.<sup><a id="cite160"></a>[[160]](#ref160)</sup>
-- Adjustments to Quest Window 'T'. Introduction of Tutorial Quest.<sup><a id="cite161"></a>[[161]](#ref161)</sup>
+# **Season 5 Part 1 (27.08.2009 - 27.10.2009):**
+
+- Introduction of new Ancient Set items (Anonymous Leather set, Anonymous Large Round shield, Mist Bronze set, Berserker Scale set, Cloud Brass set, Rave Plate set, Barnake Pad set, Sylion Bone set, Minet Sphinx set, Drake Vine set, Fase Silk set, Elvian Wind set, Karis Spirit set).<sup><a id="cite162"></a>[[162]](#ref162), <a id="cite471"></a>[[471]](#ref471)</sup>
+- Added Fortress of Imperial Guardian: Varka event.<sup><a id="cite159"></a>[[159]](#ref159), <a id="cite470"></a>[[470]](#ref470)</sup>
+- Added Doppelganger (Double Goer) event.<sup><a id="cite160"></a>[[160]](#ref160), <a id="cite470"></a>[[470]](#ref470)</sup>
+- Adjustments to Quest Window 'T'. Introduction of Tutorial Quest.<sup><a id="cite161"></a>[[161]](#ref161), <a id="cite471"></a>[[471]](#ref471)</sup>
 - Introduction of Elf Soldier (Shadow Phantom Soldier) beginner quests.<sup><a id="cite161"></a>[[161]](#ref161)</sup>
 
 # **Season 5 Part 2 (27.10.2009 - 04.02.2010):**
@@ -2298,3 +2302,15 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 468. <a id="ref468"></a>[^](#cite468) https://company.webzen.com/ko/presscenter/press/pressview?page=485&seq=2539
 
 - Wayback Machine - Internet Archive: https://web.archive.org/web/20260826120752/https://company.webzen.com/ko/presscenter/press/pressview?page=485&seq=2539
+
+469. <a id="ref469"></a>[^](#cite469) https://company.webzen.com/ko/presscenter/press/pressview?page=482&seq=2552
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260826121511/https://company.webzen.com/ko/presscenter/press/pressview?page=482&seq=2552
+
+470. <a id="ref470"></a>[^](#cite470) https://company.webzen.com/ko/presscenter/press/pressview?page=480&seq=2562
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260826122244/https://company.webzen.com/ko/presscenter/press/pressview?page=480&seq=2562
+
+471. <a id="ref470"></a>[^](#cite470) https://company.webzen.com/ko/presscenter/press/pressview?page=480&seq=2561
+
+- Wayback Machine - Internet Archive: https://web.archive.org/save/https://company.webzen.com/ko/presscenter/press/pressview?page=480&seq=2561
