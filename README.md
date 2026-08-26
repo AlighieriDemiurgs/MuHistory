@@ -507,7 +507,7 @@
 
 **Additional update #3 for Season 1 (08.11.2005):**
 
-- Adjustments to Castle Siege.<sup><a id="cite124"></a>[[124]](#ref124)</sup>
+- Adjustments to Castle Siege.<sup><a id="cite124"></a>[[124]](#ref124), <a id="cite456"></a>[[456]](#ref456)</sup>
 
 **Additional update #4 for Season 1 (06.12.2005):**
 
@@ -541,8 +541,8 @@
 # **Season 2 (29.08.2006 - 06.12.2007):**
 
 - Introduction of level 380 Item Options.<sup><a id="cite131"></a>[[131]](#ref131)</sup>
-- Introduction of Gemstones, Jewel of Harmony (JoH) and Refining Stone. Introduction of Harmony Options.<sup><a id="cite132"></a>[[132]](#ref132), <a id="cite131"></a>[[131]](#ref131)</sup>
-- Introduction of map Kanturu Ruins and Kanturu event. Entry level requirement of 150.<sup><a id="cite132"></a>[[132]](#ref132)</sup>
+- Introduction of Gemstones, Jewel of Harmony (JoH) and Refining Stone. Introduction of Harmony Options.<sup><a id="cite132"></a>[[132]](#ref132), <a id="cite131"></a>[[131]](#ref131), <a id="cite457"></a>[[457]](#ref457)</sup>
+- Introduction of map Kanturu Ruins and Kanturu event. Entry level requirement of 150.<sup><a id="cite132"></a>[[132]](#ref132), <a id="cite457"></a>[[457]](#ref457)</sup>
 - Introduction of new items: Daybreak, Platina Staff, Albatross Bow, Sword Dancer, Shining Scepter, Ashcrow set, Eclipse set, Iris set, Valiant set, Glorious set.<sup><a id="cite131"></a>[[131]](#ref131)</sup>
 - Added Scroll of Fire Scream for Dark Lord (DL).<sup><a id="cite131"></a>[[131]](#ref131)</sup>
 - Adjustments to stat Fruit system.<sup><a id="cite131"></a>[[131]](#ref131)</sup>
@@ -551,9 +551,9 @@
 
 **Additional update #1 for Season 2 (05.12.2006):**
 
-- Expansion of Land of Trials.<sup><a id="cite133"></a>[[133]](#ref133)</sup>
-- Adjustments to Castle Siege.<sup><a id="cite133"></a>[[133]](#ref133)</sup>
-- Changes to NPC Senior item combination list in Valley of Loren.<sup><a id="cite133"></a>[[133]](#ref133)</sup>
+- Expansion of Land of Trials.<sup><a id="cite133"></a>[[133]](#ref133), <a id="cite458"></a>[[458]](#ref458)</sup>
+- Adjustments to Castle Siege.<sup><a id="cite133"></a>[[133]](#ref133), <a id="cite458"></a>[[458]](#ref458)</sup>
+- Changes to NPC Senior item combination list in Valley of Loren.<sup><a id="cite133"></a>[[133]](#ref133), <a id="cite458"></a>[[458]](#ref458)</sup>
 
 **Additional update #2 for Season 2 (30.01.2007):**
 
@@ -581,34 +581,41 @@
 
 **Additional update #5 for Season 2 (28.06.2007):**
 
-- Introduction of 3<sup>rd</sup> Class Quests (Blade Master, Grand Master, High Elf, Duel Master and Lord Emperor).<sup><a id="cite139"></a>[[139]](#ref139)</sup>
-- Introduction of 3<sup>rd</sup> Level Wings (Wings of Storm, Wings of Illusion, Eternal Wings, Wings of Ruin) and Emperor's Cape.<sup><a id="cite140"></a>[[140]](#ref140)</sup>
+- Introduction of 3<sup>rd</sup> Class Quests (Blade Master, Grand Master, High Elf, Duel Master and Lord Emperor).<sup><a id="cite139"></a>[[139]](#ref139), <a id="cite460"></a>[[460]](#ref460)</sup>
+- Introduction of 3<sup>rd</sup> Level Wings (Wings of Storm, Wings of Illusion, Eternal Wings, Wings of Ruin) and Emperor's Cape.<sup><a id="cite140"></a>[[140]](#ref140), <a id="cite460"></a>[[460]](#ref460)</sup>
 - Introduction of Balgass Barracks and Refuge of Balgass.<sup><a id="cite139"></a>[[139]](#ref139)</sup>
 
 **Additional update #6 for Season 2 (11.07.2007):**
 
-- Introduction of Illusion Temple event.<sup><a id="cite141"></a>[[141]](#ref141)</sup>
+- Introduction of Illusion Temple event.<sup><a id="cite141"></a>[[141]](#ref141), <a id="cite459"></a>[[459]](#ref459)</sup>
+
+**Additional update #7 for Season 2 (30.10.2007):**
+
+- Added Pumpkin of Luck. Introduced as part of Lucky Pumpkin Event that ran from 30<sup>th</sup> October 2007 to 13<sup>th</sup> November 2007.<sup><a id="cite461"></a>[[461]](#ref461)</sup>
 
 # **Season 3 (06.12.2007 - 26.02.2008):**
 Also known as **Season 3 Part 1** in MU Online community. MU Korea (muonline.co.kr) did not use this terminology. Webzen referred to it internally as 'Season3A' in their source code.
 
-- Introduction of Master Level and Master Skill Tree system.<sup><a id="cite142"></a>[[142]](#ref142)</sup>
-- Introduction of 6<sup>th</sup> character: Summoner.<sup><a id="cite143"></a>[[143]](#ref143)</sup>
+- Introduction of Master Level and Master Skill Tree system.<sup><a id="cite142"></a>[[142]](#ref142), <a id="cite462"></a>[[462]](#ref462)</sup>
+- Introduction of 6<sup>th</sup> character: Summoner.<sup><a id="cite143"></a>[[143]](#ref143), <a id="cite462"></a>[[462]](#ref462)</sup>
 - Introduction of Summoner items: Mystery Stick, Violent Wind Stick, Red Wing Stick, Ancient Stick, Book of Samut, Book of Neil, Violent Wind set, Red Wing set, Ancient set, 1<sup>st</sup> Level Wings (Wings of Curse), 2<sup>nd</sup> Level Wings (Wings of Despair), Abyssal Eye.<sup><a id="cite143"></a>[[143]](#ref143)</sup>
   - Small Wings of Curse (0 Level Wings) for Summoner are likely added as well. They are not announced by MU Korea (muonline.co.kr) though.
 - Maximum level cap raised from 400 to 600 (Master Level 200).<sup><a id="cite211"></a>[[211]](#ref211)</sup>
-- Added map Elveland.<sup><a id="cite144"></a>[[144]](#ref144)</sup>
+- Added map Elveland.<sup><a id="cite144"></a>[[144]](#ref144), <a id="cite462"></a>[[462]](#ref462)</sup>
 - Introduction of Devil Square (DS) 7, Blood Castle (BC) 8, Chaos Castle (CC) 7 and Illusion Temple 6.<sup><a id="cite142"></a>[[142]](#ref142)</sup>
-- Major User Interface (UI) changes.<sup><a id="cite145"></a>[[145]](#ref145)</sup>
+- Major User Interface (UI) changes.<sup><a id="cite145"></a>[[145]](#ref145), <a id="cite462"></a>[[462]](#ref462)</sup>
 
-# **Season 3.0+ (26.02.2008 - 26.08.2008):**
+# **Season 3+ (26.02.2008 - 26.08.2008):**
 Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.kr) did not use this terminology. Webzen referred to it internally as 'Season3B' in their source code.
 
 - Expansion of Master Skill Tree (rank 3).<sup><a id="cite147"></a>[[147]](#ref147)</sup>
-- Addition of skills Weakness and Innovation for Summoner. Addition of 3<sup>rd</sup> Level Wings (Wings of Dimension) for Summoner.<sup><a id="cite147"></a>[[147]](#ref147)</sup>
-- Introduction of new Ancient Set items: Vicious Dragon set and ring, Enis Legendary set, Aruan Guardian set, Muren Atlans set and ring, Agnis Adamantine set and ring, Broy Adamantine set and pendant, Chrono Red Wing set and ring, Semeden Red Wing set.<sup><a id="cite149"></a>[[149]](#ref149)</sup>
-- Added map Swamp of Peace (Swamp of Calmness). Entry level requirement of 400.<sup><a id="cite146"></a>[[146]](#ref146)</sup>
-- Introduction of user interface (UI) changes, referred to internally by Webzen as 'NewUI' in their source code.<sup><a id="cite148"></a>[[148]](#ref148)</sup>
+- Addition of skills Weakness and Innovation for Summoner. Addition of 3<sup>rd</sup> Level Wings (Wings of Dimension) for Summoner.<sup><a id="cite147"></a>[[147]](#ref147), <a id="cite463"></a>[[463]](#ref463)</sup>
+- Added map Swamp of Peace (Swamp of Calmness). Entry level requirement of 400.<sup><a id="cite146"></a>[[146]](#ref146), <a id="cite463"></a>[[463]](#ref463)</sup>
+- Introduction of user interface (UI) changes, referred to internally by Webzen as 'NewUI' in their source code.<sup><a id="cite148"></a>[[148]](#ref148), <a id="cite463"></a>[[463]](#ref463)</sup>
+
+**Additional update #1 for Season 3+ (02.04.2008):**
+
+- Introduction of new Ancient Set items: Vicious Dragon set and ring, Enis Legendary set, Aruan Guardian set, Muren Atlans set and ring, Agnis Adamantine set and ring, Broy Adamantine set and pendant, Chrono Red Wing set and ring, Semeden Red Wing set.<sup><a id="cite149"></a>[[149]](#ref149), <a id="cite464"></a>[[464]](#ref464)</sup>
 
 # **Season 4 (26.08.2008 - 02.04.2009):**
 
@@ -2232,3 +2239,39 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 455. <a id="ref455"></a>[^](#cite455) https://company.webzen.com/ko/presscenter/press/pressview?page=462&seq=2650
 
 - Wayback Machine - Internet Archive: https://web.archive.org/web/20260824170332/https://company.webzen.com/ko/presscenter/press/pressview?page=462&seq=2650
+
+456. <a id="ref456"></a>[^](#cite456) https://company.webzen.com/ko/presscenter/press/pressview?page=532&seq=2304
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260826105248/https://company.webzen.com/ko/presscenter/press/pressview?page=532&seq=2304
+
+457. <a id="ref457"></a>[^](#cite457) https://company.webzen.com/ko/presscenter/press/pressview?page=521&seq=2356
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260826105738/https://company.webzen.com/ko/presscenter/press/pressview?page=521&seq=2356
+
+458. <a id="ref458"></a>[^](#cite458) https://company.webzen.com/ko/presscenter/press/pressview?page=517&seq=2375
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260826110118/https://company.webzen.com/ko/presscenter/press/pressview?page=517&seq=2375
+
+459. <a id="ref459"></a>[^](#cite459) https://company.webzen.com/ko/presscenter/press/pressview?page=510&seq=2414
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260826110932/https://company.webzen.com/ko/presscenter/press/pressview?page=510&seq=2414
+
+460. <a id="ref460"></a>[^](#cite460) https://company.webzen.com/ko/presscenter/press/pressview?page=510&seq=2411
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260826111248/https://company.webzen.com/ko/presscenter/press/pressview?page=510&seq=2411
+
+461. <a id="ref461"></a>[^](#cite461) https://company.webzen.com/ko/presscenter/press/pressview?page=507&seq=2429
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260826111837/https://company.webzen.com/ko/presscenter/press/pressview?page=507&seq=2429
+
+462. <a id="ref462"></a>[^](#cite462) https://company.webzen.com/ko/presscenter/press/pressview?page=503&seq=2445
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260826112249/https://company.webzen.com/ko/presscenter/press/pressview?page=503&seq=2445
+
+463. <a id="ref463"></a>[^](#cite463) https://company.webzen.com/ko/presscenter/press/pressview?page=500&seq=2463
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260826112610/https://company.webzen.com/ko/presscenter/press/pressview?page=500&seq=2463
+
+464. <a id="ref464"></a>[^](#cite464) https://company.webzen.com/ko/presscenter/press/pressview?page=497&seq=2477
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260826112748/https://company.webzen.com/ko/presscenter/press/pressview?page=497&seq=2477
