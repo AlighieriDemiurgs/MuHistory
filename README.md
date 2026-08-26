@@ -730,39 +730,39 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 # **eX702 (13.06.2012 - 27.11.2012):**
 
 - Maximum level cap raised from 700 to 702 (Master Level 302).<sup><a id="cite213"></a>[[213]](#ref213), <a id="cite214"></a>[[214]](#ref214)</sup>
-- New Mastery Socket Weapons (lvl 400) added: Miracle Staff, Summon Spirit Stick.<sup><a id="cite186"></a>[[186]](#ref186)</sup>
-- New Mastery Socket Armor (lvl 400) added: Stormwing set, Dark Devil set, Magic Knight set, Hell Knight set, Succubus set, Ambition set, Light Lord set, Sticky set, Lazy Wind set.<sup><a id="cite186"></a>[[186]](#ref186)</sup>
+- New Mastery Socket Weapons (lvl 400) added: Miracle Staff, Summon Spirit Stick.<sup><a id="cite186"></a>[[186]](#ref186), <a id="cite482"></a>[[482]](#ref482)</sup>
+- New Mastery Socket Armor (lvl 400) added: Stormwing set, Dark Devil set, Magic Knight set, Hell Knight set, Succubus set, Ambition set, Light Lord set, Sticky set, Lazy Wind set.<sup><a id="cite186"></a>[[186]](#ref186), <a id="cite482"></a>[[482]](#ref482)</sup>
 - Additional User Interface (UI) changes in-game.<sup><a id="cite185"></a>[[185]](#ref185)</sup>
 
 # **Season 8 Part 1 (27.11.2012 - 16.04.2013):**
 
-- Maximum level cap raised from 702 to 730 (Master Level 330).<sup><a id="cite212"></a>[[212]](#ref212)</sup>
-- Introduction of 10 new Pentagram items: Lorencia Knight's Iron Shield, Hero Elixir, Gladiator's Dagger, Kundun's Madness Blade, Kundun's Magic Spell Scroll, Empire Guardian's Stronghold, Ancient Icarus Scroll, Arca's Prophecy, Antonia's Sword, Kundun's Seal Scroll.<sup><a id="cite192"></a>[[192]](#ref192)</sup>
-- Introduction of Matching System for parties.<sup><a id="cite195"></a>[[195]](#ref195)</sup>
-- Introduction of Pandora's Jewel System and Mining System.<sup><a id="cite190"></a>[[190]](#ref190)</sup>
+- Maximum level cap raised from 702 to 730 (Master Level 330).<sup><a id="cite212"></a>[[212]](#ref212), <a id="cite483"></a>[[483]](#ref483)</sup>
+- Introduction of 10 new Pentagram items: Lorencia Knight's Iron Shield, Hero Elixir, Gladiator's Dagger, Kundun's Madness Blade, Kundun's Magic Spell Scroll, Empire Guardian's Stronghold, Ancient Icarus Scroll, Arca's Prophecy, Antonia's Sword, Kundun's Seal Scroll.<sup><a id="cite192"></a>[[192]](#ref192), <a id="cite483"></a>[[483]](#ref483)</sup>
+- Introduction of Matching System for parties.<sup><a id="cite195"></a>[[195]](#ref195), <a id="cite483"></a>[[483]](#ref483)</sup>
+- Introduction of Pandora's Jewel System and Mining System.<sup><a id="cite190"></a>[[190]](#ref190), <a id="cite483"></a>[[483]](#ref483)</sup>
 - Introduction of Protectors of Acheron event.<sup><a id="cite191"></a>[[191]](#ref191)</sup>
-- Added area-zone Debenter in map Acheron. Entry level requirement of 300.<sup><a id="cite193"></a>[[193]](#ref193)</sup>
-- Introduction of Chaos Castle (CC) Survival of the Fittest.<sup><a id="cite194"></a>[[194]](#ref194)</sup>
+- Added area-zone Debenter in map Acheron. Entry level requirement of 300.<sup><a id="cite193"></a>[[193]](#ref193), <a id="cite483"></a>[[483]](#ref483)</sup>
+- Introduction of Chaos Castle (CC) Survival of the Fittest.<sup><a id="cite194"></a>[[194]](#ref194), <a id="cite483"></a>[[483]](#ref483)</sup>
 
 **Additional update for Season 8 Part 1 (04.12.2012):**
-- Introduction of SNS (Social Networking Sites) system.<sup><a id="cite197"></a>[[197]](#ref197)</sup>
+- Introduction of SNS (Social Networking Sites) system.<sup><a id="cite197"></a>[[197]](#ref197), <a id="cite483"></a>[[483]](#ref483)</sup>
 
 # **Season 8 Part 2 (16.04.2013 - 30.07.2013):**
 
-- Introduction of MU Roomy game.<sup><a id="cite199"></a>[[199]](#ref199)</sup>
-- Adjustments to Personal Store.<sup><a id="cite198"></a>[[198]](#ref198)</sup>
-- Addition of new rings and pendants (Necklace of Agony, Solid Symbol, Ring of Ultimatum, Protector Protection Ring, Protection Ring).<sup><a id="cite200"></a>[[200]](#ref200), <a id="cite196"></a>[[196]](#ref196)</sup>
-- User Interface (UI) changes: mini-maps, active buffs displayed on party member list.<sup><a id="cite201"></a>[[201]](#ref201)</sup>
+- Introduction of MU Roomy game.<sup><a id="cite199"></a>[[199]](#ref199), <a id="cite484"></a>[[484]](#ref484)</sup>
+- Adjustments to Personal Store.<sup><a id="cite198"></a>[[198]](#ref198), <a id="cite484"></a>[[484]](#ref484)</sup>
+- Addition of new rings and pendants (Necklace of Agony, Solid Symbol, Ring of Ultimatum, Protector Protection Ring, Protection Ring).<sup><a id="cite200"></a>[[200]](#ref200), <a id="cite196"></a>[[196]](#ref196), <a id="cite484"></a>[[484]](#ref484)</sup>
+- User Interface (UI) changes: mini-maps, active buffs displayed on party member list.<sup><a id="cite201"></a>[[201]](#ref201), <a id="cite484"></a>[[484]](#ref484)</sup>
 
 # **Season 8 Part 3 (30.07.2013 - 10.12.2013):**
 
-- Introduction of Muun System and Items, including Evolution Stone.<sup><a id="cite203"></a>[[203]](#ref203)</sup>
+- Introduction of Muun System and Items, including Evolution Stone.<sup><a id="cite203"></a>[[203]](#ref203), <a id="cite485"></a>[[485]](#ref485)</sup>
   - Specific Muun Item names are not announced by MU Korea (muonline.co.kr).
-- Illusion Temple rework.<sup><a id="cite202"></a>[[202]](#ref202)</sup>
-- User Interface (UI) changes.<sup><a id="cite204"></a>[[204]](#ref204)</sup>
+- Illusion Temple rework.<sup><a id="cite202"></a>[[202]](#ref202), <a id="cite485"></a>[[485]](#ref485)</sup>
+- User Interface (UI) changes.<sup><a id="cite204"></a>[[204]](#ref204), <a id="cite485"></a>[[485]](#ref485)</sup>
 
 **Additional update for Season 8 Part 3 (08.10.2013):**
-- Another Illusion Temple rework.<sup><a id="cite205"></a>[[205]](#ref205)</sup>
+- Another Illusion Temple rework.<sup><a id="cite205"></a>[[205]](#ref205), <a id="cite485"></a>[[485]](#ref485)</sup>
 
 # **Season 9 Part 1 (10.12.2013 - 03.04.2014):**
 
@@ -2354,3 +2354,19 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 481. <a id="ref481"></a>[^](#cite481) https://company.webzen.com/ko/presscenter/press/pressview?page=449&seq=2720
 
 - Wayback Machine - Internet Archive: https://web.archive.org/web/20260826151037/https://company.webzen.com/ko/presscenter/press/pressview?page=449&seq=2720
+
+482. <a id="ref482"></a>[^](#cite482) https://company.webzen.com/ko/presscenter/press/pressview?page=443&seq=2753
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260826180202/https://company.webzen.com/ko/presscenter/press/pressview?page=443&seq=2753
+
+483. <a id="ref483"></a>[^](#cite483) https://company.webzen.com/ko/presscenter/press/pressview?page=436&seq=2788
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260826180731/https://company.webzen.com/ko/presscenter/press/pressview?page=436&seq=2788
+
+484. <a id="ref484"></a>[^](#cite484) https://company.webzen.com/ko/presscenter/press/pressview?page=431&seq=2810
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260826180942/https://company.webzen.com/ko/presscenter/press/pressview?page=431&seq=2810
+
+485. <a id="ref485"></a>[^](#cite485) https://company.webzen.com/ko/presscenter/press/pressview?page=428&seq=2825
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260826181236/https://company.webzen.com/ko/presscenter/press/pressview?page=428&seq=2825
