@@ -591,7 +591,7 @@
 
 **Additional update #7 for Season 2 (30.10.2007):**
 
-- Added Pumpkin of Luck. Introduced as part of Lucky Pumpkin Event that ran from 30<sup>th</sup> October 2007 to 13<sup>th</sup> November 2007.<sup><a id="cite461"></a>[[461]](#ref461)</sup>
+- Added Pumpkin of Luck. Introduced as part of Lucky Pumpkin Event that ran from 30<sup>th</sup> October 2007 to 13<sup>th</sup> November 2007 during Halloween.<sup><a id="cite461"></a>[[461]](#ref461)</sup>
 
 # **Season 3 (06.12.2007 - 26.02.2008):**
 Also known as **Season 3 Part 1** in MU Online community. MU Korea (muonline.co.kr) did not use this terminology. Webzen referred to it internally as 'Season3A' in their source code.
@@ -619,22 +619,29 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 
 # **Season 4 (26.08.2008 - 02.04.2009):**
 
-- Introduction of Socket Items (lvl 380): Flameberge, Sword Breaker, Rune Bastard Sword, Deadly Staff, Frost Mace, Dark Stinger Bow, Absolute Scepter, Inberial Staff, Crimson Glory, Frost Barrier, Guardian Shield, Salamander Shield, Titan set, Bravery set, Divine set, Seraphim set, Hades set, Phantom set, Destruction set, Royal set.<sup><a id="cite151"></a>[[151]](#ref151)</sup>
-- Introduction of Socket System: NPC Seed Master, Seeds, Level 1 (Mono) Seed Spheres (Fire, Water, Ice, Wind, Lightning) and Bonus Socket Options.<sup><a id="cite152"></a>[[152]](#ref152)</sup>
-- Expansion of Master Skill Tree (rank 4).<sup><a id="cite154"></a>[[154]](#ref154)</sup>
-- Added map LaCleon (Raklion) and boss Selupan. Entry level requirement of 270.<sup><a id="cite150"></a>[[150]](#ref150)</sup>
+- Introduction of Socket Items (lvl 380): Flameberge, Sword Breaker, Rune Bastard Sword, Deadly Staff, Frost Mace, Dark Stinger Bow, Absolute Scepter, Inberial Staff, Crimson Glory, Frost Barrier, Guardian Shield, Salamander Shield, Titan set, Bravery set, Divine set, Seraphim set, Hades set, Phantom set, Destruction set, Royal set.<sup><a id="cite151"></a>[[151]](#ref151), <a id="cite465"></a>[[465]](#ref465)</sup>
+- Introduction of Socket System: NPC Seed Master, Seeds, Level 1 (Mono) Seed Spheres (Fire, Water, Ice, Wind, Lightning) and Bonus Socket Options.<sup><a id="cite152"></a>[[152]](#ref152), <a id="cite465"></a>[[465]](#ref465)</sup>
+- Expansion of Master Skill Tree (rank 4).<sup><a id="cite154"></a>[[154]](#ref154), <a id="cite465"></a>[[465]](#ref465)</sup>
+- Added map LaCleon (Raklion) and boss Selupan. Entry level requirement of 270.<sup><a id="cite150"></a>[[150]](#ref150), <a id="cite465"></a>[[465]](#ref465)</sup>
 - Addition of new skills (Strike of Destruction, Expansion of Wizardry, Multi-Shot, Recovery, Flame Strike, Gigantic Storm, Chaotic Diseier).<sup><a id="cite153"></a>[[153]](#ref153)</sup>
-- Summoner character class expansion (Lightning Shock, Berserker, Pollution, Book of Lagle, Demonic Stick, Demonic set).<sup><a id="cite153"></a>[[153]](#ref153)</sup>
-- Various system improvements: events, PC bang point system, stat Fruit system, changes to item upgrade probability, changes to 3<sup>rd</sup> Class Quest conditions, Castle Siege gate and statue update, changes to Zen drop system, adjustments to Master Skill Tree, adjustments to bonus exp for Gold Parties.<sup><a id="cite155"></a>[[155]](#ref155)</sup>
+- Summoner character class expansion (Lightning Shock, Berserker, Pollution, Book of Lagle, Demonic Stick, Demonic set).<sup><a id="cite153"></a>[[153]](#ref153), <a id="cite465"></a>[[465]](#ref465)</sup>
+- Various system improvements: events, PC bang point system, stat Fruit system, changes to item upgrade probability, changes to 3<sup>rd</sup> Class Quest conditions, Castle Siege gate and statue update, changes to Zen drop system, adjustments to Master Skill Tree, adjustments to bonus exp for Gold Parties.<sup><a id="cite155"></a>[[155]](#ref155), <a id="cite465"></a>[[465]](#ref465)</sup>
 
-**Additional update for Season 4 (22.01.2009):**
+**Additional update #1 for Season 4 (16.12.2008):**
+- Added map Santa Village. Introduced as part of Christmas Event that ran from 16<sup>th</sup> December 2008 to 30<sup>th</sup> December 2008.<sup><a id="cite466"></a>[[466]](#ref466)</sup>
+- Added map Snowman Transformation Ring.<sup><a id="cite466"></a>[[466]](#ref466)</sup>
+
+**Additional update #2 for Season 4 (20.01.2009):**
+- Added Fortune Pouch. Introduced as part of Lunar New Year Event that ran from 20<sup>th</sup> January 2009 to 3<sup>rd</sup> February 2009.<sup><a id="cite467"></a>[[467]](#ref467)</sup>
+
+**Additional update #3 for Season 4 (22.01.2009):**
 - Introduction of level 380 Items for Summoner (Storm Blitz Stick and Storm Blitz set).<sup><a id="cite156"></a>[[156]](#ref156)</sup>
 
 # **Season 4.5 (02.04.2009 - 20.08.2009):**
 MU Korea (muonline.co.kr) did not use this terminology. These were just two updates released on 02.04.2009. However, Global MU Online (GMO) released these updates named Season 4.5. In addition, this terminology also exists in MU Online community. MU Korea (muonline.co.kr) started naming Seasons and Parts properly starting from Season 5 Part 4. See comments below at Season 5 Part 4 section.<sup><a id="cite187"></a>[[187]](#ref187), <a id="cite188"></a>[[188]](#ref188), <a id="cite189"></a>[[189]](#ref189)</sup>
 
-- Introduction of NPC Moss the Gambler in Elveland and new items (Excellent Brova, Excellent Striker Scepter, Excellent Aileen Bow, Excellent Chromatic Staff, Excellent Raven Stick).<sup><a id="cite158"></a>[[158]](#ref158)</sup>
-- Added map Vulcanus (incl. Duel Arena aka the Colosseum, Gladiator's Honor buff). Entry level requirement of 30.<sup><a id="cite157"></a>[[157]](#ref157)</sup>
+- Introduction of NPC Moss the Gambler in Elveland and new items (Excellent Brova, Excellent Striker Scepter, Excellent Aileen Bow, Excellent Chromatic Staff, Excellent Raven Stick).<sup><a id="cite158"></a>[[158]](#ref158), <a id="cite468"></a>[[468]](#ref468)</sup>
+- Added map Vulcanus (incl. Duel Arena aka the Colosseum, Gladiator's Honor buff). Entry level requirement of 30.<sup><a id="cite157"></a>[[157]](#ref157), <a id="cite468"></a>[[468]](#ref468)</sup>
 - Introduction of the new Duel System: all Duels between players automatically now take place in Dual Arena aka the Colosesum.<sup><a id="cite157"></a>[[157]](#ref157)</sup>
 
 # **Season 5 Part 1 (20.08.2009 - 27.10.2009):**
@@ -2275,3 +2282,19 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 464. <a id="ref464"></a>[^](#cite464) https://company.webzen.com/ko/presscenter/press/pressview?page=497&seq=2477
 
 - Wayback Machine - Internet Archive: https://web.archive.org/web/20260826112748/https://company.webzen.com/ko/presscenter/press/pressview?page=497&seq=2477
+
+465. <a id="ref465"></a>[^](#cite465) https://company.webzen.com/ko/presscenter/press/pressview?page=491&seq=2505
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260826114327/https://company.webzen.com/ko/presscenter/press/pressview?page=491&seq=2505
+
+466. <a id="ref466"></a>[^](#cite466) https://company.webzen.com/ko/presscenter/press/pressview?page=488&seq=2524
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260826115715/https://company.webzen.com/ko/presscenter/press/pressview?page=488&seq=2524
+
+467. <a id="ref467"></a>[^](#cite467) https://company.webzen.com/ko/presscenter/press/pressview?page=486&seq=2531
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260826115802/https://company.webzen.com/ko/presscenter/press/pressview?page=486&seq=2531
+
+468. <a id="ref468"></a>[^](#cite468) https://company.webzen.com/ko/presscenter/press/pressview?page=485&seq=2539
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260826120752/https://company.webzen.com/ko/presscenter/press/pressview?page=485&seq=2539
