@@ -629,7 +629,7 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 
 **Additional update #1 for Season 4 (16.12.2008):**
 - Added map Santa Village. Introduced as part of Christmas Event that ran from 16<sup>th</sup> December 2008 to 30<sup>th</sup> December 2008.<sup><a id="cite466"></a>[[466]](#ref466)</sup>
-- Added map Snowman Transformation Ring.<sup><a id="cite466"></a>[[466]](#ref466)</sup>
+- Added Snowman Transformation Ring.<sup><a id="cite466"></a>[[466]](#ref466)</sup>
 
 **Additional update #2 for Season 4 (20.01.2009):**
 - Added Fortune Pouch. Introduced as part of Lunar New Year Event that ran from 20<sup>th</sup> January 2009 to 3<sup>rd</sup> February 2009.<sup><a id="cite467"></a>[[467]](#ref467)</sup>
