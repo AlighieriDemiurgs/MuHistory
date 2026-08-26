@@ -658,27 +658,27 @@ MU Korea (muonline.co.kr) did not use this terminology. These were just two upda
 
 # **Season 5 Part 2 (27.10.2009 - 04.02.2010):**
 
-- Introduction of Gens System.<sup><a id="cite163"></a>[[163]](#ref163)</sup>
-- Introduction of Cash Item Shop (X-Shop) and Goblin Points (GP), which replace PC bang point system.<sup><a id="cite165"></a>[[165]](#ref165)</sup>
+- Introduction of Gens System.<sup><a id="cite163"></a>[[163]](#ref163), <a id="cite472"></a>[[472]](#ref472)</sup>
+- Introduction of Cash Item Shop (X-Shop) and Goblin Points (GP), which replace PC bang point system.<sup><a id="cite165"></a>[[165]](#ref165), <a id="cite472"></a>[[472]](#ref472)</sup>
 - Introduction of Small Wings (0 Level Wings): Small Wings of Satan, Small Wings of Heaven, Small Wings of Elf, Small Cape of Lord, Small Wing of Curse (Small Wings of Mistery).<sup><a id="cite165"></a>[[165]](#ref165)</sup>
   - MU Korea (muonline.co.kr) did not announce Small Wings update-patch separately. Cash Item Shop (X-Shop) was introduced on Season 5 Part 2. Although this update does not mention Small Wings, it includes photos of Small Wings in the Cash Item Shop (X-Shop). In addition, Small Wings were initially obtainable from Cash Item Shop (X-Shop), not in-game. All in all, it is safe to assume that Small Wings were introduced on Season 5 Part 2 together with Cash Item Shop (X-Shop), not before that.
 - Addition of new Elf Soldier (Shadow Phantom Soldier) beginner quests.<sup><a id="cite164"></a>[[164]](#ref164)</sup>
 
 # **Season 5 Part 3 (04.02.2010 - 27.04.2010):**
 
-- Introduction of Gens Ranking. Changes to Gens classification and contribution system. User Interface (UI) changes to Gens Window 'B'.<sup><a id="cite167"></a>[[167]](#ref167)</sup>
-- Maximum item level raised from +13 to +15.<sup><a id="cite166"></a>[[166]](#ref166)</sup>
-- Added map Loren Market.<sup><a id="cite166"></a>[[166]](#ref166)</sup>
+- Introduction of Gens Ranking. Changes to Gens classification and contribution system. User Interface (UI) changes to Gens Window 'B'.<sup><a id="cite167"></a>[[167]](#ref167), <a id="cite473"></a>[[473]](#ref473)</sup>
+- Maximum item level raised from +13 to +15.<sup><a id="cite166"></a>[[166]](#ref166), <a id="cite473"></a>[[473]](#ref473)</sup>
+- Added map Loren Market.<sup><a id="cite166"></a>[[166]](#ref166), <a id="cite473"></a>[[473]](#ref473)</sup>
 - Updated graphics for various skill icons.<sup><a id="cite166"></a>[[166]](#ref166)</sup>
 
 # **Season 5 Part 4 (27.04.2010 - 16.09.2010):**
 This is the first time MU Korea (muonline.co.kr) use terminology Part and name this update Season 5 Part 4. 'Season 5' was released on 20.08.2009. and only two updates were released in between Season 5 and this Season 5 Part 4 update. Therefore, we can reliably assume the first release was Season 5 Part 1, followed by Season 5 Part 2 and Season 5 Part 3. This being the last update named Season 5 Part 4 officially. P.S. Webzen Press Release (company.webzen.com/ko/presscenter/press/) first use terminology Part during Season 5 Part 3 update, the content corresponds to MU Korea (muonline.co.kr) Season 5 Part 3 content. 
 
-- Introduction of Master Skill Tree system for Summoner.<sup><a id="cite169"></a>[[169]](#ref169)</sup>
+- Introduction of Master Skill Tree system for Summoner.<sup><a id="cite169"></a>[[169]](#ref169), <a id="cite474"></a>[[474]](#ref474)</sup>
 - Introduction of Level 2 (Di) Seed Spheres and Level 3 (Tri) Seed Spheres. All Seed Spheres are still 5 elemental: Fire, Water, Ice, Wind, Lightning.<sup><a id="cite169"></a>[[169]](#ref169)</sup>
-- Expansion of maps and addition of new monsters. Maps affected: Aida, Kanturu, Swamp of Peace (Swamp of Calmness), LaCleon (Raklion).<sup><a id="cite168"></a>[[168]](#ref168)</sup>
+- Expansion of maps and addition of new monsters. Maps affected: Aida, Kanturu, Swamp of Peace (Swamp of Calmness), LaCleon (Raklion).<sup><a id="cite168"></a>[[168]](#ref168), <a id="cite474"></a>[[474]](#ref474)</sup>
 - Introduction of sub-missions to Elf Soldier (Shadow Phantom Soldier) beginner quests.<sup><a id="cite168"></a>[[168]](#ref168)</sup>
-- Addition of new quests.<sup><a id="cite168"></a>[[168]](#ref168)</sup>
+- Addition of new quests.<sup><a id="cite168"></a>[[168]](#ref168), <a id="cite474"></a>[[474]](#ref474)</sup>
 
 # **Season 6 Part 1 (16.09.2010 - 03.03.2011):**
 
@@ -2311,6 +2311,18 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 - Wayback Machine - Internet Archive: https://web.archive.org/web/20260826122244/https://company.webzen.com/ko/presscenter/press/pressview?page=480&seq=2562
 
-471. <a id="ref470"></a>[^](#cite470) https://company.webzen.com/ko/presscenter/press/pressview?page=480&seq=2561
+471. <a id="ref471"></a>[^](#cite471) https://company.webzen.com/ko/presscenter/press/pressview?page=480&seq=2561
 
 - Wayback Machine - Internet Archive: https://web.archive.org/save/https://company.webzen.com/ko/presscenter/press/pressview?page=480&seq=2561
+
+472. <a id="ref472"></a>[^](#cite472) https://company.webzen.com/ko/presscenter/press/pressview?page=479&seq=2569
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260826143129/https://company.webzen.com/ko/presscenter/press/pressview?page=479&seq=2569
+
+473. <a id="ref473"></a>[^](#cite473) https://company.webzen.com/ko/presscenter/press/pressview?page=476&seq=2585
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260826143450/https://company.webzen.com/ko/presscenter/press/pressview?page=476&seq=2585
+
+474. <a id="ref474"></a>[^](#cite474) https://company.webzen.com/ko/presscenter/press/pressview?page=472&seq=2608
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260826143613/https://company.webzen.com/ko/presscenter/press/pressview?page=472&seq=2608
