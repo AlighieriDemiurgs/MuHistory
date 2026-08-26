@@ -637,7 +637,7 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 **Additional update #3 for Season 4 (22.01.2009):**
 - Introduction of level 380 Items for Summoner (Storm Blitz Stick and Storm Blitz set).<sup><a id="cite156"></a>[[156]](#ref156)</sup>
 
-# **Season 4.5 (02.04.2009 - 20.08.2009):**
+# **Season 4.5 (02.04.2009 - 27.08.2009):**
 MU Korea (muonline.co.kr) did not use this terminology. These were just two updates released on 02.04.2009. However, Global MU Online (GMO) released these updates named Season 4.5. In addition, this terminology also exists in MU Online community.<sup><a id="cite187"></a>[[187]](#ref187), <a id="cite188"></a>[[188]](#ref188), <a id="cite189"></a>[[189]](#ref189)</sup>
 
 - Introduction of NPC Moss the Gambler in Elveland and new items (Excellent Brova, Excellent Striker Scepter, Excellent Aileen Bow, Excellent Chromatic Staff, Excellent Raven Stick).<sup><a id="cite158"></a>[[158]](#ref158), <a id="cite468"></a>[[468]](#ref468)</sup>
