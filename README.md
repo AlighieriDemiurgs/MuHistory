@@ -710,14 +710,14 @@ This is the first time MU Korea (muonline.co.kr) use terminology Part and name t
 # **Season 6 Part 3 (25.08.2011 - 17.11.2011):**
 MU Korea (muonline.co.kr) did not use this terminology. This was just an update released on 25.08.2011. However, Global MU Online (GMO) released this update named Season 6 Part 3. In addition, this terminology also exists in MU Online community.<sup><a id="cite206"></a>[[206]](#ref206), <a id="cite207"></a>[[207]](#ref207)</sup>
 
-- Introduction of Master Skill Tree system for Rage Fighter.<sup><a id="cite179"></a>[[179]](#ref179)</sup>
+- Introduction of Master Skill Tree system for Rage Fighter.<sup><a id="cite179"></a>[[179]](#ref179), <a id="cite480"></a>[[480]](#ref480)</sup>
 
 # **eX700 (17.11.2011 - 29.03.2012):**
 
-- Expansion of Master Skill Tree (rank 9) for all characters except Fist Master (rank 5 limit for Rage Fighter at this moment). Changes to Master Skill Tree skills.<sup><a id="cite180"></a>[[180]](#ref180)</sup>
-- Maximum level cap raised from 600 to 700 (Master Level 300).<sup><a id="cite180"></a>[[180]](#ref180), <a id="cite211"></a>[[211]](#ref211)</sup>
-- Introduction of Pentagram System with four slots (Errtel of Anger, Errtel of Blessing, Errtel of Integrity and Errtel of Divinity) and their five elements (Fire, Water, Earth, Wind, Darkness) for PvP and PvM.<sup><a id="cite180"></a>[[180]](#ref180)</sup>
-- Added map Acheron. Entry level requirement of 300. Added NPC Sir Lesnar and Arka War mini-game for Guilds in Acheron.<sup><a id="cite180"></a>[[180]](#ref180)</sup>
+- Expansion of Master Skill Tree (rank 9) for all characters except Fist Master (rank 5 limit for Rage Fighter at this moment). Changes to Master Skill Tree skills.<sup><a id="cite180"></a>[[180]](#ref180), <a id="cite481"></a>[[481]](#ref481)</sup>
+- Maximum level cap raised from 600 to 700 (Master Level 300).<sup><a id="cite180"></a>[[180]](#ref180), <a id="cite211"></a>[[211]](#ref211), <a id="cite481"></a>[[481]](#ref481)</sup>
+- Introduction of Pentagram System with four slots (Errtel of Anger, Errtel of Blessing, Errtel of Integrity and Errtel of Divinity) and their five elements (Fire, Water, Earth, Wind, Darkness) for PvP and PvM.<sup><a id="cite180"></a>[[180]](#ref180), <a id="cite481"></a>[[481]](#ref481)</sup>
+- Added map Acheron. Entry level requirement of 300. Added NPC Sir Lesnar and Arka War mini-game for Guilds in Acheron.<sup><a id="cite180"></a>[[180]](#ref180), <a id="cite481"></a>[[481]](#ref481)</sup>
 - User Interface (UI) changes to the Login screen and Character selection screen (last updated on Season 1). Major User Interface (UI) changes in-game.<sup><a id="cite180"></a>[[180]](#ref180)</sup>
 
 # **eX701 (29.03.2012 - 13.06.2012):**
@@ -2346,3 +2346,11 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 479. <a id="ref479"></a>[^](#cite479) https://company.webzen.com/ko/presscenter/press/pressview?page=455&seq=2693
 
 - Wayback Machine - Internet Archive: https://web.archive.org/web/20260826150147/https://company.webzen.com/ko/presscenter/press/pressview?page=455&seq=2693
+
+480. <a id="ref480"></a>[^](#cite480) https://company.webzen.com/ko/presscenter/press/pressview?page=453&seq=2703
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260826150722/https://company.webzen.com/ko/presscenter/press/pressview?page=453&seq=2703
+
+481. <a id="ref481"></a>[^](#cite481) https://company.webzen.com/ko/presscenter/press/pressview?page=449&seq=2720
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260826151037/https://company.webzen.com/ko/presscenter/press/pressview?page=449&seq=2720
