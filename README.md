@@ -680,13 +680,13 @@ This is the first time MU Korea (muonline.co.kr) use terminology Part and name t
 - Introduction of sub-missions to Elf Soldier (Shadow Phantom Soldier) beginner quests.<sup><a id="cite168"></a>[[168]](#ref168)</sup>
 - Addition of new quests.<sup><a id="cite168"></a>[[168]](#ref168), <a id="cite474"></a>[[474]](#ref474)</sup>
 
-# **Season 6 Part 1 (16.09.2010 - 03.03.2011):**
+# **Season 6 Part 1 (07.10.2010 - 03.03.2011):**
 
-- Introduction of 7<sup>th</sup> character: Rage Fighter.<sup><a id="cite170"></a>[[170]](#ref170)</sup>
+- Introduction of 7<sup>th</sup> character: Rage Fighter.<sup><a id="cite170"></a>[[170]](#ref170), <a id="cite475"></a>[[475]](#ref475), <a id="cite476"></a>[[476]](#ref476)</sup>
 - Introduction of Rage Fighter items: Sacred Glove, Holy Storm Claw, Piercing Blade Glove, Sacred Fire set, Storm Zahard set, Piercing Grove set, 1<sup>st</sup> Level Wings (Warrior's Cloak), 3<sup>rd</sup> Level Wings (Reigning Cloak).<sup><a id="cite170"></a>[[170]](#ref170)</sup>
   - Little Warrior's Cloak (0 Level Wings) for Rage Fighter is likely added as well. It is not announced by MU Korea (muonline.co.kr) though.
-- Added map Karutan 1 & 2. Entry level requirement of 160.<sup><a id="cite171"></a>[[171]](#ref171)</sup>
-- Addition of new daily quests.<sup><a id="cite172"></a>[[172]](#ref172)</sup>
+- Added map Karutan 1 & 2. Entry level requirement of 160.<sup><a id="cite171"></a>[[171]](#ref171), <a id="cite476"></a>[[476]](#ref476)</sup>
+- Addition of new daily quests.<sup><a id="cite172"></a>[[172]](#ref172), <a id="cite476"></a>[[476]](#ref476)</sup>
 
 **Additional update for Season 6 Part 1 (04.11.2010):**
 - Introduction of new Ancient Set items (Vega Sacred Fire set, Chamer Sacred Fire set).<sup><a id="cite173"></a>[[173]](#ref173)</sup>
@@ -2326,3 +2326,11 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 474. <a id="ref474"></a>[^](#cite474) https://company.webzen.com/ko/presscenter/press/pressview?page=472&seq=2608
 
 - Wayback Machine - Internet Archive: https://web.archive.org/web/20260826143613/https://company.webzen.com/ko/presscenter/press/pressview?page=472&seq=2608
+
+475. <a id="ref475"></a>[^](#cite475) https://company.webzen.com/ko/presscenter/press/pressview?page=466&seq=2637
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260826144835/https://company.webzen.com/ko/presscenter/press/pressview?page=466&seq=2637
+
+476. <a id="ref476"></a>[^](#cite476) https://company.webzen.com/ko/presscenter/press/pressview?page=466&seq=2636
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260826145042/https://company.webzen.com/ko/presscenter/press/pressview?page=466&seq=2636
