@@ -672,7 +672,7 @@ MU Korea (muonline.co.kr) did not use this terminology. These were just two upda
 - Updated graphics for various skill icons.<sup><a id="cite166"></a>[[166]](#ref166)</sup>
 
 # **Season 5 Part 4 (27.04.2010 - 16.09.2010):**
-This is the first time MU Korea (muonline.co.kr) use terminology Part and name this update Season 5 Part 4. Since Season 5 (officially named this way) was released on 20.08.2009. and only two updates were released in between Season 5 Part 4 and the initial Season 5 release, we can reliably assume the first release was Season 5 Part 1, followed by Season 5 Part 2 and Season 5 Part 3. This being the last update named Season 5 Part 4 officially.
+This is the first time MU Korea (muonline.co.kr) use terminology Part and name this update Season 5 Part 4. 'Season 5' was released on 20.08.2009. and only two updates were released in between Season 5 and this Season 5 Part 4 update. Therefore, we can reliably assume the first release was Season 5 Part 1, followed by Season 5 Part 2 and Season 5 Part 3. This being the last update named Season 5 Part 4 officially. P.S. Webzen Press Release (company.webzen.com/ko/presscenter/press/) first use terminology Part during Season 5 Part 3 update, the content corresponds to MU Korea (muonline.co.kr) Season 5 Part 3 content. 
 
 - Introduction of Master Skill Tree system for Summoner.<sup><a id="cite169"></a>[[169]](#ref169)</sup>
 - Introduction of Level 2 (Di) Seed Spheres and Level 3 (Tri) Seed Spheres. All Seed Spheres are still 5 elemental: Fire, Water, Ice, Wind, Lightning.<sup><a id="cite169"></a>[[169]](#ref169)</sup>
