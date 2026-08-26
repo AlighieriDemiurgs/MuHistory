@@ -790,11 +790,11 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 # **Season X Part 1 (19.08.2014 - 16.12.2014):**
 
-- Introduction of 8<sup>th</sup> character: Grow Lancer.<sup><a id="cite231"></a>[[231]](#ref231)</sup>
+- Introduction of 8<sup>th</sup> character: Grow Lancer.<sup><a id="cite231"></a>[[231]](#ref231), <a id="cite489"></a>[[489]](#ref489), <a id="cite490"></a>[[490]](#ref490)</sup>
 - Introduction of Grow Lancer items: Lapid Lance, Conmocion Lance, Pluma Lance, Prickle Lance, Alacran Lance, Vis Lance, Lapid Shield, Pluma Shield, Robust set, Gru Hill set, Princie set, 1<sup>st</sup> Level Wings (Cloack of Limit), 3<sup>rd</sup> Level Wings (Cloak of Transcendence).<sup><a id="cite231"></a>[[231]](#ref231)</sup>
   - Small Cloack of Limit (0 Level Wings) for Grow Lancer is likely added as well. It is not announced by MU Korea (muonline.co.kr) though.
-- Maximum level cap raised from 750 to 770 (Master Level 370).<sup><a id="cite232"></a>[[232]](#ref232)</sup>
-- Addition of new Master Skill Tree skills. Update to existing Master Skill Tree skills. Changes to Master Skill Tree User Interface (UI).<sup><a id="cite229"></a>[[229]](#ref229)</sup>
+- Maximum level cap raised from 750 to 770 (Master Level 370).<sup><a id="cite232"></a>[[232]](#ref232), <a id="cite489"></a>[[489]](#ref489), <a id="cite490"></a>[[490]](#ref490)</sup>
+- Addition of new Master Skill Tree skills. Update to existing Master Skill Tree skills. Changes to Master Skill Tree User Interface (UI).<sup><a id="cite229"></a>[[229]](#ref229), <a id="cite489"></a>[[489]](#ref489), <a id="cite490"></a>[[490]](#ref490)</sup>
 - Introduction of Summon Evomon and Evomon Summoning Scroll.<sup><a id="cite230"></a>[[230]](#ref230)</sup>
 - Introduction of Tormented Square (Battle) event in Battle Core realm-system.<sup><a id="cite228"></a>[[228]](#ref228)</sup>
 
@@ -2383,3 +2383,11 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 488. <a id="ref488"></a>[^](#cite488) https://company.webzen.com/ko/presscenter/press/pressview?page=412&seq=2908
 
 - Wayback Machine - Internet Archive: https://web.archive.org/web/20260826184500/https://company.webzen.com/ko/presscenter/press/pressview?page=412&seq=2908
+
+489. <a id="ref489"></a>[^](#cite489) https://company.webzen.com/ko/presscenter/press/pressview?page=404&seq=2948
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260826190227/https://company.webzen.com/ko/presscenter/press/pressview?page=404&seq=2948
+
+490. <a id="ref490"></a>[^](#cite490) https://company.webzen.com/ko/presscenter/press/pressview?page=403&seq=2952
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260826190344/https://company.webzen.com/ko/presscenter/press/pressview?page=403&seq=2952
