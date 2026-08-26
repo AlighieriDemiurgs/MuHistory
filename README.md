@@ -671,7 +671,7 @@ MU Korea (muonline.co.kr) did not use this terminology. These were just two upda
 - Added map Loren Market.<sup><a id="cite166"></a>[[166]](#ref166), <a id="cite473"></a>[[473]](#ref473)</sup>
 - Updated graphics for various skill icons.<sup><a id="cite166"></a>[[166]](#ref166)</sup>
 
-# **Season 5 Part 4 (27.04.2010 - 16.09.2010):**
+# **Season 5 Part 4 (27.04.2010 - 07.10.2010):**
 This is the first time MU Korea (muonline.co.kr) use terminology Part and name this update Season 5 Part 4. 'Season 5' was released on 20.08.2009. and only two updates were released in between Season 5 and this Season 5 Part 4 update. Therefore, we can reliably assume the first release was Season 5 Part 1, followed by Season 5 Part 2 and Season 5 Part 3. This being the last update named Season 5 Part 4 officially. P.S. Webzen Press Release (company.webzen.com/ko/presscenter/press/) first use terminology Part during Season 5 Part 3 update, the content corresponds to MU Korea (muonline.co.kr) Season 5 Part 3 content. 
 
 - Introduction of Master Skill Tree system for Summoner.<sup><a id="cite169"></a>[[169]](#ref169), <a id="cite474"></a>[[474]](#ref474)</sup>
@@ -693,16 +693,16 @@ This is the first time MU Korea (muonline.co.kr) use terminology Part and name t
 
 # **Season 6 Part 2 (03.03.2011 - 25.08.2011):**
 
-- Master Skill Tree system rework. Expansion of Master Skill Tree (rank 5).<sup><a id="cite174"></a>[[174]](#ref174)</sup>
-- Introduction of level 380 Items for Summoner and Rage Fighter (Eternal Wing Stick, Divine Stick of Archangel, Eternal Wing set, Soul Phoenix set).<sup><a id="cite175"></a>[[175]](#ref175)</sup>
+- Master Skill Tree system rework. Expansion of Master Skill Tree (rank 5).<sup><a id="cite174"></a>[[174]](#ref174), <a id="cite477"></a>[[477]](#ref477)</sup>
+- Introduction of level 380 Items for Summoner and Rage Fighter (Eternal Wing Stick, Divine Stick of Archangel, Eternal Wing set, Soul Phoenix set).<sup><a id="cite175"></a>[[175]](#ref175), <a id="cite477"></a>[[477]](#ref477)</sup>
 - Introduction of Weapon skill for Rage Fighter called Phoenix Shot.<sup><a id="cite175"></a>[[175]](#ref175)</sup>
 - Introduction of Inventory and Vault (Warehouse) expansion quests.<sup><a id="cite175"></a>[[175]](#ref175)</sup>
 - Introduction of weekly quests.<sup><a id="cite175"></a>[[175]](#ref175)</sup>
 - Minor User Interface (UI) update.<sup><a id="cite175"></a>[[175]](#ref175)</sup>
 - Introduction of Party reconnect system (Auto Party System).<sup><a id="cite175"></a>[[175]](#ref175)</sup>
 
-**Additional update for Season 6 Part 2 (14.07.2011):**
-- Introduction of MU Helper.<sup><a id="cite176"></a>[[176]](#ref176), <a id="cite177"></a>[[177]](#ref177)</sup>
+**Additional update for Season 6 Part 2 (30.06.2011):**
+- Introduction of MU Helper.<sup><a id="cite176"></a>[[176]](#ref176), <a id="cite177"></a>[[177]](#ref177), <a id="cite478"></a>[[478]](#ref478), <a id="cite479"></a>[[479]](#ref479)</sup>
 
 **Additional update for Season 6 Part 2 (28.07.2011):**
 - Re-work of Doppelganger (Double Goer) event.<sup><a id="cite178"></a>[[178]](#ref178)</sup>
@@ -2334,3 +2334,15 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 476. <a id="ref476"></a>[^](#cite476) https://company.webzen.com/ko/presscenter/press/pressview?page=466&seq=2636
 
 - Wayback Machine - Internet Archive: https://web.archive.org/web/20260826145042/https://company.webzen.com/ko/presscenter/press/pressview?page=466&seq=2636
+
+477. <a id="ref477"></a>[^](#cite477) https://company.webzen.com/ko/presscenter/press/pressview?page=458&seq=2674
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260826145709/https://company.webzen.com/ko/presscenter/press/pressview?page=458&seq=2674
+
+478. <a id="ref478"></a>[^](#cite478) https://company.webzen.com/ko/presscenter/press/pressview?page=455&seq=2691
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260826150020/https://company.webzen.com/ko/presscenter/press/pressview?page=455&seq=2691
+
+479. <a id="ref479"></a>[^](#cite479) https://company.webzen.com/ko/presscenter/press/pressview?page=455&seq=2693
+
+- Wayback Machine - Internet Archive: 
