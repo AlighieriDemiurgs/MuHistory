@@ -764,35 +764,36 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 **Additional update for Season 8 Part 3 (08.10.2013):**
 - Another Illusion Temple rework.<sup><a id="cite205"></a>[[205]](#ref205), <a id="cite485"></a>[[485]](#ref485)</sup>
 
-# **Season 9 Part 1 (10.12.2013 - 03.04.2014):**
+# **Season 9 Part 1 (10.12.2013 - 22.04.2014):**
 
-- Added area-zone Uruk Mountain in map Acheron and boss Lord Silvester. Entry level requirement of 300.<sup><a id="cite217"></a>[[217]](#ref217)</sup>
-- Expansion of Muun System. Introduction of Wizardry Stone.<sup><a id="cite215"></a>[[215]](#ref215)</sup>
+- Added area-zone Uruk Mountain in map Acheron and boss Lord Silvester. Entry level requirement of 300.<sup><a id="cite217"></a>[[217]](#ref217), <a id="cite486"></a>[[486]](#ref486)</sup>
+- Maximum level cap raised from 730 to 750 (Master Level 350).<sup><a id="cite486"></a>[[486]](#ref486)</sup>
+- Expansion of Muun System. Introduction of Wizardry Stone.<sup><a id="cite215"></a>[[215]](#ref215), <a id="cite486"></a>[[486]](#ref486)</sup>
 - Introduction of Widescreen support.<sup><a id="cite215"></a>[[215]](#ref215)</sup>
-- Introduction of Level 4 (Tetra) Seed Spheres. All Seed Spheres are still 5 elemental: Fire, Water, Ice, Wind, Lightning. Expansion of Bonus Socket Options. Minor changes to Socket System.<sup><a id="cite216"></a>[[216]](#ref216)</sup>
+- Introduction of Level 4 (Tetra) Seed Spheres. All Seed Spheres are still 5 elemental: Fire, Water, Ice, Wind, Lightning. Expansion of Bonus Socket Options. Minor changes to Socket System.<sup><a id="cite216"></a>[[216]](#ref216), <a id="cite486"></a>[[486]](#ref486)</sup>
 - Various changes to Dark Knight (DK), Fairy Elf (FE), Dark Wizard (DW), Summoner and Dark Lord (DL) skills, damage formulas, pets.<sup><a id="cite220"></a>[[220]](#ref220)</sup>
 - Changes to PK system.<sup><a id="cite220"></a>[[220]](#ref220)</sup>
-- Introduction of Tormented Square event.<sup><a id="cite218"></a>[[218]](#ref218)</sup>
-- Introduction of Battle Core realm-system.<sup><a id="cite219"></a>[[219]](#ref219)</sup>
+- Introduction of Tormented Square event.<sup><a id="cite218"></a>[[218]](#ref218), <a id="cite486"></a>[[486]](#ref486)</sup>
+- Introduction of Battle Core realm-system.<sup><a id="cite219"></a>[[219]](#ref219), <a id="cite486"></a>[[486]](#ref486)</sup>
 
-# **Season 9 Part 2 (03.04.2014 - 19.08.2014):**
+**Additional update for Season 9 Part 1 (03.04.2014):**
 
-- Introduction of Evomon Evolves event.<sup><a id="cite221"></a>[[221]](#ref221)</sup>
+- Introduction of Evomon Evolves event.<sup><a id="cite221"></a>[[221]](#ref221), <a id="cite487"></a>[[487]](#ref487)</sup>
 
-**Additional update for Season 9 Part 2 (22.04.2014):**
-- Expansion of Master Skill Tree (rank 9) for Fist Master.<sup><a id="cite226"></a>[[226]](#ref226)</sup>
-- Complete re-work of Stat Point based Stats for all characters. Complete re-work of skill damage for all characters.<sup><a id="cite227"></a>[[227]](#ref227)</sup>
+**Season 9 Part 2 (22.04.2014):**
+- Expansion of Master Skill Tree (rank 9) for Fist Master.<sup><a id="cite226"></a>[[226]](#ref226), <a id="cite488"></a>[[488]](#ref488)</sup>
+- Complete re-work of Stat Point based Stats for all characters. Complete re-work of skill damage for all characters.<sup><a id="cite227"></a>[[227]](#ref227), <a id="cite488"></a>[[488]](#ref488)</sup>
 - Introduction of Gremory Case reward vault.<sup><a id="cite223"></a>[[223]](#ref223)</sup>
 - Sold items to an NPC shop now can be bought back. Additional User Interface (UI) changes.<sup><a id="cite224"></a>[[224]](#ref224)</sup>
-- Introduction of Chaos Castle (Battle) event in Battle Core realm-system.<sup><a id="cite222"></a>[[222]](#ref222)</sup>
-- Introduction of Chaos Castle (Battle) event winner rewards.<sup><a id="cite225"></a>[[225]](#ref225)</sup>
+- Introduction of Chaos Castle (Battle) event in Battle Core realm-system.<sup><a id="cite222"></a>[[222]](#ref222), <a id="cite488"></a>[[488]](#ref488)</sup>
+- Introduction of Chaos Castle (Battle) event winner rewards.<sup><a id="cite225"></a>[[225]](#ref225), <a id="cite488"></a>[[488]](#ref488)</sup>
 
 # **Season X Part 1 (19.08.2014 - 16.12.2014):**
 
 - Introduction of 8<sup>th</sup> character: Grow Lancer.<sup><a id="cite231"></a>[[231]](#ref231)</sup>
 - Introduction of Grow Lancer items: Lapid Lance, Conmocion Lance, Pluma Lance, Prickle Lance, Alacran Lance, Vis Lance, Lapid Shield, Pluma Shield, Robust set, Gru Hill set, Princie set, 1<sup>st</sup> Level Wings (Cloack of Limit), 3<sup>rd</sup> Level Wings (Cloak of Transcendence).<sup><a id="cite231"></a>[[231]](#ref231)</sup>
   - Small Cloack of Limit (0 Level Wings) for Grow Lancer is likely added as well. It is not announced by MU Korea (muonline.co.kr) though.
-- Maximum level cap raised from 730 to 770 (Master Level 370).<sup><a id="cite232"></a>[[232]](#ref232)</sup>
+- Maximum level cap raised from 750 to 770 (Master Level 370).<sup><a id="cite232"></a>[[232]](#ref232)</sup>
 - Addition of new Master Skill Tree skills. Update to existing Master Skill Tree skills. Changes to Master Skill Tree User Interface (UI).<sup><a id="cite229"></a>[[229]](#ref229)</sup>
 - Introduction of Summon Evomon and Evomon Summoning Scroll.<sup><a id="cite230"></a>[[230]](#ref230)</sup>
 - Introduction of Tormented Square (Battle) event in Battle Core realm-system.<sup><a id="cite228"></a>[[228]](#ref228)</sup>
@@ -2370,3 +2371,15 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 485. <a id="ref485"></a>[^](#cite485) https://company.webzen.com/ko/presscenter/press/pressview?page=428&seq=2825
 
 - Wayback Machine - Internet Archive: https://web.archive.org/web/20260826181236/https://company.webzen.com/ko/presscenter/press/pressview?page=428&seq=2825
+
+486. <a id="ref486"></a>[^](#cite486) https://company.webzen.com/ko/presscenter/press/pressview?page=421&seq=2861
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260826183126/https://company.webzen.com/ko/presscenter/press/pressview?page=421&seq=2861
+
+487. <a id="ref487"></a>[^](#cite487) https://company.webzen.com/ko/presscenter/press/pressview?page=413&seq=2903
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260826184054/https://company.webzen.com/ko/presscenter/press/pressview?page=413&seq=2903
+
+488. <a id="ref488"></a>[^](#cite488) https://company.webzen.com/ko/presscenter/press/pressview?page=412&seq=2908
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260826184500/https://company.webzen.com/ko/presscenter/press/pressview?page=412&seq=2908
