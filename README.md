@@ -1,7 +1,7 @@
 # **MAIN SOURCES:**
 **1. MU Korea (https://www.muonline.co.kr/news/patch-note)** 
 - Can be opened via Google Translate's 'Websites' function, or a VPN using a South Korean IP.
-- The **Wayback Machine** mostly helped compile Season 0, since MU Korea changed the website in 2005 and those links are dead.
+- The **Wayback Machine - Internet Archive** mostly helped compile Season 0, since MU Korea changed the website in 2005 and those links are dead.
 
 **2. Webzen Press Releases (https://company.webzen.com/ko/presscenter/press)** 
 
