@@ -1,3 +1,7 @@
+# **MAIN SOURCES:**
+**1. MU Korea (https://muonline.co.kr)** 
+**2. Webzen Press Releases (https://company.webzen.com/ko/presscenter/press)** 
+
 # **Season 0 (12.02.2001 - 17.08.2005):**
 **12.02.2001:** 
 
