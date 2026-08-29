@@ -5,7 +5,7 @@
 
 **2. Webzen Press Releases in Korean: https://company.webzen.com/ko/presscenter/press** 
 
-**Full reference list can be viewed at the end of the document.**
+**The full reference list can be viewed at the end of the document.**
 
 # **AUTHOR:**
 Created by **Demiurgs** aka **Alighieri**
