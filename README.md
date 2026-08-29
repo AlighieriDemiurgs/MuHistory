@@ -3,6 +3,8 @@
 - Can be opened via Google Translate's 'Websites' function, or a VPN using a South Korean IP.
 - The **Wayback Machine - Internet Archive** mostly helped compile Season 0, since MU Korea changed the website to the existing one in 2005. Links up to 2005 (late Season 0) are dead.
 
+Created by Demiurgs (Discord: st.demiurgs).
+
 **2. Webzen Press Releases (https://company.webzen.com/ko/presscenter/press)** 
 
 # **Season 0 (12.02.2001 - 17.08.2005):**
