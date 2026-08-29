@@ -6,7 +6,8 @@
 **2. Webzen Press Releases in Korean: https://company.webzen.com/ko/presscenter/press** 
 
 # **AUTHOR:**
-Created by **Demiurgs** aka **Alighieri** (Discord: **st.demiurgs**).
+Created by **Demiurgs** aka **Alighieri**
+- Discord: **st.demiurgs**
 
 # **Season 0 (12.02.2001 - 17.08.2005):**
 **12.02.2001:** 
