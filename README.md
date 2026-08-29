@@ -5,7 +5,7 @@
 
 **2. Webzen Press Releases (https://company.webzen.com/ko/presscenter/press)** 
 
-Created by Demiurgs (Discord: st.demiurgs).
+Created by **Demiurgs** (Discord: **st.demiurgs**).
 
 # **Season 0 (12.02.2001 - 17.08.2005):**
 **12.02.2001:** 
