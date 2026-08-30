@@ -6,7 +6,7 @@
 **2. Webzen Press Releases in Korean: https://company.webzen.com/ko/presscenter/press** 
 
 **The full reference list can be viewed at the end of the document.**
-- Live links were preserved by using **Wayback Machine - Internet Archive** if the link-website was archivable.
+- Live links were preserved via **Wayback Machine - Internet Archive** if the link-website was archivable.
 
 # **AUTHOR:**
 Created by **Demiurgs** aka **Alighieri**
