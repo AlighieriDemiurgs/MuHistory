@@ -463,7 +463,7 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 
 **1.0? (08.03.2005):**
 
-- Introduction of Castle Siege.<sup><a id="cite440"></a>[[440]](#ref440)</sup>
+- Introduction of Castle Siege and Land of Trials.<sup><a id="cite440"></a>[[440]](#ref440)</sup>
   - First edition of Castle Siege on live server was held on 27<sup>th</sup> March 2005.<sup><a id="cite115"></a>[[115]](#ref115), <a id="cite117"></a>[[117]](#ref117), <a id="cite118"></a>[[118]](#ref118)</sup>
 
 - Introduction of character-specific Castle Siege Skills: Crescent Moon Slash (DK), Mana Glaive (DW), Starfall (FE), Spiral Slash (MG), Mana Rays (MG), Fire Blast (DL).<sup><a id="cite118"></a>[[118]](#ref118)</sup>
