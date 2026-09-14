@@ -39,59 +39,59 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 - **[Season X Part 1 (19.08.2014 - 16.12.2014)](#S10E1)**
 - **[Season X Part 2 (16.12.2014 - 21.05.2015)](#S10E2)**
 - **[Season X Part 3 (21.05.2015 - 21.10.2015)](#S10E3)**
-- **[Season 11 Part 1-1 (21.10.2015 - 05.11.2015)](#TEST)** 
-- **[Season 11 Part 1-2 (05.11.2015 - 17.05.2016)](#TEST)** 
-- **[Season 11 Part 2-1 (17.05.2016 - 09.06.2016)](#TEST)** 
-- **[Season 11 Part 2-2 (09.06.2016 - 01.11.2016)](#TEST)**
-- **[Season 12 Part 1-1 (01.11.2016 - 17.11.2016)](#TEST)** 
-- **[Season 12 Part 1-2 (17.11.2016 - 23.05.2017)](#TEST)** 
-- **[Season 12 Part 2 (23.05.2017 - 24.10.2017)](#TEST)** 
-- **[Season 13 Part 1-1 (24.10.2017 - 14.11.2017)](#TEST)** 
-- **[Season 13 Part 1-2 (14.11.2017 - 16.05.2018)](#TEST)** 
-- **[Season 13 Part 2-1 (16.05.2018 - 07.06.2018)](#TEST)** 
-- **[Season 13 Part 2-2 (07.06.2018 - 16.10.2018)](#TEST)** 
-- **[Season 14 Part 1-1 (16.10.2018 - 29.11.2018)](#TEST)**
-- **[Season 14 Part 1-2 (29.11.2018 - 21.05.2019)](#TEST)** 
-- **[Season 14 Part 2-1 (21.05.2019 - 11.06.2019)](#TEST)** 
-- **[Season 14 Part 2-2 (11.06.2019 - 24.09.2019)](#TEST)** 
-- **[Season 15 Part 1-1 (24.09.2019 - 17.10.2019)](#TEST)**
-- **[Season 15 Part 1-2 (17.10.2019 - 05.11.2019)](#TEST)** 
-- **[Season 15 Part 1-3 (05.11.2019 - 21.04.2020)](#TEST)** 
-- **[Season 15 Part 2-1 (21.04.2020 - 11.05.2020)](#TEST)** 
-- **[Season 15 Part 2-2 (11.05.2020 - 15.09.2020)](#TEST)** 
-- **[Season 16 Part 1-1 (15.09.2020 - 06.10.2020)](#TEST)** 
-- **[Season 16 Part 1-2 (06.10.2020 - 27.10.2020)](#TEST)** 
-- **[Season 16 Part 1-3 (27.10.2020 - 13.04.2021)](#TEST)** 
-- **[Season 16 Part 2-1 (13.04.2021 - 04.05.2021)](#TEST)**
-- **[Season 16 Part 2-2 (04.05.2021 - 28.09.2021)](#TEST)** 
-- **[Season 17 Part 1-1 (28.09.2021 - 19.10.2021)](#TEST)** 
-- **[Season 17 Part 1-2 (19.10.2021 - 09.11.2021)](#TEST)** 
-- **[Season 17 Part 1-3 (09.11.2021 - 19.04.2022)](#TEST)**
-- **[Season 17 Part 2-1 (19.04.2022 - 10.05.2022)](#TEST)** 
-- **[Season 17 Part 2-2 (10.05.2022 - 27.09.2022)](#TEST)** 
-- **[Season 18 Part 1-1 (27.09.2022 - 20.10.2022)](#TEST)** 
-- **[Season 18 Part 1-2 (20.10.2022 - 08.11.2022)](#TEST)**
-- **[Season 18 Part 1-3 (08.11.2022 - 18.04.2023)](#TEST)** 
-- **[Season 18 Part 2-1 (18.04.2023 - 18.05.2023)](#TEST)** 
-- **[Season 18 Part 2-2 (18.05.2023 - 19.09.2023)](#TEST)** 
-- **[Season 19 Part 1-1 (19.09.2023 - 12.10.2023)](#TEST)**
-- **[Season 19 Part 1-2 (12.10.2023 - 01.11.2023)](#TEST)** 
-- **[Season 19 Part 1-3 (01.11.2023 - 30.04.2024)](#TEST)** 
-- **[Season 19 Part 2-1 (30.04.2024 - 14.05.2024)](#TEST)** 
-- **[Season 19 Part 2-2 (14.05.2024 - 04.06.2024)](#TEST)**
-- **[Season 19 Part 2-3 (04.06.2024 - 24.09.2024)](#TEST)** 
-- **[Season 20 Part 1-1 (24.09.2024 - 15.10.2024)](#TEST)** 
-- **[Season 20 Part 1-2 (15.10.2024 - 05.11.2024)](#TEST)** 
-- **[Season 20 Part 1-3 (05.11.2024 - 22.04.2025)](#TEST)**
-- **[Season 20 Part 2-1 (22.04.2025 - 13.05.2025)](#TEST)** 
-- **[Season 20 Part 2-2 (13.05.2025 - 29.05.2025)](#TEST)** 
-- **[Season 20 Part 2-3 (29.05.2025 - 30.09.2025)](#TEST)**
-- **[Season 21 Part 1-1 (30.09.2025 - 21.10.2025)](#TEST)** 
-- **[Season 21 Part 1-2 (21.10.2025 - 11.11.2025)](#TEST)** 
-- **[Season 21 Part 1-3 (11.11.2025 - 21.04.2026)](#TEST)**
-- **[Season 21 Part 2-1 (21.04.2026 - 12.05.2026)](#TEST)** 
-- **[Season 21 Part 2-2 (12.05.2026 - 09.06.2026)](#TEST)** 
-- **[Season 21 Part 2-3 (09.06.2026 - ??.09.2026)](#TEST)**
+- **[Season 11 Part 1-1 (21.10.2015 - 05.11.2015)](#S11E1-1)**
+- **[Season 11 Part 1-2 (05.11.2015 - 17.05.2016)](#S11E1-2)**
+- **[Season 11 Part 2-1 (17.05.2016 - 09.06.2016)](#S11E2-1)**
+- **[Season 11 Part 2-2 (09.06.2016 - 01.11.2016)](#S11E2-2)**
+- **[Season 12 Part 1-1 (01.11.2016 - 17.11.2016)](#S12E1-1)**
+- **[Season 12 Part 1-2 (17.11.2016 - 23.05.2017)](#S12E1-2)**
+- **[Season 12 Part 2 (23.05.2017 - 24.10.2017)](#S12)**
+- **[Season 13 Part 1-1 (24.10.2017 - 14.11.2017)](#S13E1-1)**
+- **[Season 13 Part 1-2 (14.11.2017 - 16.05.2018)](#S13E1-2)**
+- **[Season 13 Part 2-1 (16.05.2018 - 07.06.2018)](#S13E2-1)** 
+- **[Season 13 Part 2-2 (07.06.2018 - 16.10.2018)](#S13E2-2)**
+- **[Season 14 Part 1-1 (16.10.2018 - 29.11.2018)](#S14E1-1)**
+- **[Season 14 Part 1-2 (29.11.2018 - 21.05.2019)](#S14E1-2)**
+- **[Season 14 Part 2-1 (21.05.2019 - 11.06.2019)](#S14E2-1)**
+- **[Season 14 Part 2-2 (11.06.2019 - 24.09.2019)](#S14E2-2)**
+- **[Season 15 Part 1-1 (24.09.2019 - 17.10.2019)](#S15E1-1)**
+- **[Season 15 Part 1-2 (17.10.2019 - 05.11.2019)](#S15E1-2)**
+- **[Season 15 Part 1-3 (05.11.2019 - 21.04.2020)](#S15E1-3)**
+- **[Season 15 Part 2-1 (21.04.2020 - 11.05.2020)](#S15E2-1)**
+- **[Season 15 Part 2-2 (11.05.2020 - 15.09.2020)](#S15E2-2)**
+- **[Season 16 Part 1-1 (15.09.2020 - 06.10.2020)](#S16E1-1)**
+- **[Season 16 Part 1-2 (06.10.2020 - 27.10.2020)](#S16E1-2)**
+- **[Season 16 Part 1-3 (27.10.2020 - 13.04.2021)](#S16E1-3)**
+- **[Season 16 Part 2-1 (13.04.2021 - 04.05.2021)](#S16E2-1)**
+- **[Season 16 Part 2-2 (04.05.2021 - 28.09.2021)](#S16E2-2)**
+- **[Season 17 Part 1-1 (28.09.2021 - 19.10.2021)](#S17E1-1)**
+- **[Season 17 Part 1-2 (19.10.2021 - 09.11.2021)](#S17E1-2)**
+- **[Season 17 Part 1-3 (09.11.2021 - 19.04.2022)](#S17E1-3)**
+- **[Season 17 Part 2-1 (19.04.2022 - 10.05.2022)](#S17E2-1)**
+- **[Season 17 Part 2-2 (10.05.2022 - 27.09.2022)](#S17E2-2)**
+- **[Season 18 Part 1-1 (27.09.2022 - 20.10.2022)](#S18E1-1)**
+- **[Season 18 Part 1-2 (20.10.2022 - 08.11.2022)](#S18E1-2)**
+- **[Season 18 Part 1-3 (08.11.2022 - 18.04.2023)](#S18E1-3)**
+- **[Season 18 Part 2-1 (18.04.2023 - 18.05.2023)](#S18E2-1)**
+- **[Season 18 Part 2-2 (18.05.2023 - 19.09.2023)](#S18E2-2)**
+- **[Season 19 Part 1-1 (19.09.2023 - 12.10.2023)](#S19E1-1)**
+- **[Season 19 Part 1-2 (12.10.2023 - 01.11.2023)](#S19E1-2)**
+- **[Season 19 Part 1-3 (01.11.2023 - 30.04.2024)](#S19E1-3)**
+- **[Season 19 Part 2-1 (30.04.2024 - 14.05.2024)](#S19E2-1)**
+- **[Season 19 Part 2-2 (14.05.2024 - 04.06.2024)](#S19E2-2)**
+- **[Season 19 Part 2-3 (04.06.2024 - 24.09.2024)](#S19E2-3)**
+- **[Season 20 Part 1-1 (24.09.2024 - 15.10.2024)](#S20E1-1)**
+- **[Season 20 Part 1-2 (15.10.2024 - 05.11.2024)](#S20E1-2)**
+- **[Season 20 Part 1-3 (05.11.2024 - 22.04.2025)](#S20E1-3)**
+- **[Season 20 Part 2-1 (22.04.2025 - 13.05.2025)](#S20E2-1)**
+- **[Season 20 Part 2-2 (13.05.2025 - 29.05.2025)](#S20E2-2)**
+- **[Season 20 Part 2-3 (29.05.2025 - 30.09.2025)](#S20E2-3)**
+- **[Season 21 Part 1-1 (30.09.2025 - 21.10.2025)](#S21E1-1)**
+- **[Season 21 Part 1-2 (21.10.2025 - 11.11.2025)](#S21E1-2)** 
+- **[Season 21 Part 1-3 (11.11.2025 - 21.04.2026)](#S21E1-3)**
+- **[Season 21 Part 2-1 (21.04.2026 - 12.05.2026)](#S21E2-1)**
+- **[Season 21 Part 2-2 (12.05.2026 - 09.06.2026)](#S21E2-2)**
+- **[Season 21 Part 2-3 (09.06.2026 - ??.09.2026)](#S21E2-3)**
 
 <a id="S0"></a>
 # **Season 0 (12.02.2001 - 17.08.2005)**
@@ -996,6 +996,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S11E1-1"></a>
 # **Season 11 Part 1-1 (21.10.2015 - 05.11.2015)**
 
 - Added map Ferea and bosses Lord Ferea and Ferea General. Entry level requirement of 400.<sup><a id="cite249"></a>[[249]](#ref249)</sup>
@@ -1005,6 +1006,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S11E1-2"></a>
 # **Season 11 Part 1-2 (05.11.2015 - 17.05.2016)**
 
 - Introduction of 1<sup>st</sup> Mastery Weapons: Bloodangel (level 400) for all characters.<sup><a id="cite253"></a>[[253]](#ref253)</sup>
@@ -1015,6 +1017,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S11E2-1"></a>
 # **Season 11 Part 2-1 (17.05.2016 - 09.06.2016)**
 
 - Introduction of Zoom In / Zoom Out function for Mouse Wheel.<sup><a id="cite257"></a>[[257]](#ref257)</sup>
@@ -1024,6 +1027,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S11E2-2"></a>
 # **Season 11 Part 2-2 (09.06.2016 - 01.11.2016)**
 
 - Introduction of Socket Items (lvl 380) and Mastery Socket Items (lvl 400) for Rage Fighter and Grow Lancer.<sup><a id="cite261"></a>[[261]](#ref261)</sup>
@@ -1039,6 +1043,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S12E1-1"></a>
 # **Season 12 Part 1-1 (01.11.2016 - 17.11.2016)**
 
 - Added map Nixies Lake and boss Nix. Entry level requirement of 700.<sup><a id="cite264"></a>[[264]](#ref264)</sup>
@@ -1048,6 +1053,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S12E1-2"></a>
 # **Season 12 Part 1-2 (17.11.2016 - 23.05.2017)**
 
 - Changes to map Nixies Lake boss zone Nix area.<sup><a id="cite268"></a>[[268]](#ref268)</sup>
@@ -1059,6 +1065,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S12"></a>
 # **Season 12 Part 2 (23.05.2017 - 24.10.2017)**
 
 - Introduction of 4<sup>th</sup> Class Quests (Dragon Knight, Soul Wizard, Noble Elf, Magic Knight, Empire Lord, Dimension Master, Fist Blazer, Shining Lancer).<sup><a id="cite274"></a>[[274]](#ref274)</sup>
@@ -1072,6 +1079,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S13E1-1"></a>
 # **Season 13 Part 1-1 (24.10.2017 - 14.11.2017)**
 
 - Added map Swamp of Darkness. Entry level requirement of 800.<sup><a id="cite278"></a>[[278]](#ref278)</sup>
@@ -1083,6 +1091,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S13E1-2"></a>
 # **Season 13 Part 1-2 (14.11.2017 - 16.05.2018)**
 
 - Introduction of 4<sup>th</sup> Level Wings (Wings of Flame God, Wing of Celestial Body, Wings of Elysium, Wings of Other World, Wings of Annihilation) and Capes (Cloak of Dominator, Cloak of Judgment, Cloak of Isolation).<sup><a id="cite284"></a>[[284]](#ref284)</sup>
@@ -1091,6 +1100,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S13E2-1"></a>
 # **Season 13 Part 2-1 (16.05.2018 - 07.06.2018)**
 
 - Expansion of mini-game Maze of Dimensions from 7 floors to 41 floors.<sup><a id="cite287"></a>[[287]](#ref287)</sup>
@@ -1100,6 +1110,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S13E2-2"></a>
 # **Season 13 Part 2-2 (07.06.2018 - 16.10.2018)**
 
 - Addition of Divine Claw of Archangel and Blessed Divine Claw of Archangel for Rage Fighter.<sup><a id="cite290"></a>[[290]](#ref290)</sup>
@@ -1108,6 +1119,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S14E1-1"></a>
 # **Season 14 Part 1-1 (16.10.2018 - 29.11.2018)**
 
 - Introduction of 9<sup>th</sup> character: Rune Mage.<sup><a id="cite293"></a>[[293]](#ref293)</sup>
@@ -1120,6 +1132,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S14E1-2"></a>
 # **Season 14 Part 1-2 (29.11.2018 - 21.05.2019)**
 
 - Introduction of 4<sup>th</sup> Level Wings (Wings of Fate) for Rune Mage.<sup><a id="cite296"></a>[[296]](#ref296)</sup>
@@ -1134,6 +1147,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S14E2-1"></a>
 # **Season 14 Part 2-1 (21.05.2019 - 11.06.2019)**
 
 - Introduction of 2<sup>nd</sup> Mastery Earrings: Earrings of Forefathers (L) (level 700) and Earrings of Forefathers (R) (level 750).<sup><a id="cite302"></a>[[302]](#ref302)</sup>
@@ -1146,6 +1160,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S14E2-2"></a>
 # **Season 14 Part 2-2 (11.06.2019 - 24.09.2019)**
 
 - Major re-work of character Summoner.<sup><a id="cite307"></a>[[307]](#ref307)</sup>
@@ -1154,6 +1169,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S15E1-1"></a>
 # **Season 15 Part 1-1 (24.09.2019 - 17.10.2019)**
 
 - Introduction of 10<sup>th</sup> character: Slayer.<sup><a id="cite309"></a>[[309]](#ref309)</sup>
@@ -1162,6 +1178,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S15E1-2"></a>
 # **Season 15 Part 1-2 (17.10.2019 - 05.11.2019)**
 
 - New skills added for Slayer.<sup><a id="cite310"></a>[[310]](#ref310)</sup>
@@ -1178,6 +1195,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S15E1-3"></a>
 # **Season 15 Part 1-3 (05.11.2019 - 21.04.2020)**
 
 - Introduction of 4<sup>th</sup> Level Wings (Wings of Conviction) for Slayer.<sup><a id="cite315"></a>[[315]](#ref315)</sup>
@@ -1192,6 +1210,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S15E2-1"></a>
 # **Season 15 Part 2-1 (21.04.2020 - 11.05.2020)**
 
 - Added map Crimson Flame's Icarus. Entry level requirement of 1070.<sup><a id="cite320"></a>[[320]](#ref320)</sup>
@@ -1202,6 +1221,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S15E2-2"></a>
 # **Season 15 Part 2-2 (11.05.2020 - 15.09.2020)**
 
 - Introduction of 2<sup>nd</sup> Guardian Mount: Ice Dragon (level 900).<sup><a id="cite323"></a>[[323]](#ref323)</sup>
@@ -1214,6 +1234,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S16E1-1"></a>
 # **Season 16 Part 1-1 (15.09.2020 - 06.10.2020)**
 
 - Introduction of 11<sup>th</sup> character: Gun Crusher.<sup><a id="cite329"></a>[[329]](#ref329)</sup>
@@ -1221,6 +1242,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S16E1-2"></a>
 # **Season 16 Part 1-2 (06.10.2020 - 27.10.2020)**
 
 - Added map Temple of Arnil. Entry level requirement of 1100.<sup><a id="cite331"></a>[[331]](#ref331)</sup>
@@ -1239,6 +1261,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S16E1-3"></a>
 # **Season 16 Part 1-3 (27.10.2020 - 13.04.2021)**
 
 - Added Elite Zone in map Temple of Arnil and Elite monsters Temple Ogre, Temple Gramlin, Temple Gargoyle.<sup><a id="cite335"></a>[[335]](#ref335)</sup>
@@ -1253,6 +1276,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S16E2-1"></a>
 # **Season 16 Part 2-1 (13.04.2021 - 04.05.2021)**
 
 - Maximum level cap raised from 1300 to 1350 (Master Level 950).<sup><a id="cite340"></a>[[340]](#ref340)</sup>
@@ -1261,6 +1285,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S16E2-2"></a>
 # **Season 16 Part 2-2 (04.05.2021 - 28.09.2021)**
 
 - Introduction of 3<sup>rd</sup> Guardian Mount: Fierce Lion (level 1000).<sup><a id="cite345"></a>[[345]](#ref345)</sup>
@@ -1271,6 +1296,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S17E1-1"></a>
 # **Season 17 Part 1-1 (28.09.2021 - 19.10.2021)**
 
 - Introduction of 12<sup>th</sup> and 13<sup>th</sup> characters: White Wizard and Mage.<sup><a id="cite347"></a>[[347]](#ref347)</sup>
@@ -1280,6 +1306,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S17E1-2"></a>
 # **Season 17 Part 1-2 (19.10.2021 - 09.11.2021)**
 
 - Maximum level cap raised from 1350 to 1400 (Master Level 1000).<sup><a id="cite349"></a>[[349]](#ref349)</sup>
@@ -1294,6 +1321,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S17E1-3"></a>
 # **Season 17 Part 1-3 (09.11.2021 - 19.04.2022)**
 
 - Added Elite Zone in map Burning Kethotum and Elite monsters Crimson Lycan, Crimson Minos, Crimson Harpy.<sup><a id="cite353"></a>[[353]](#ref353)</sup>
@@ -1307,6 +1335,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S17E2-1"></a>
 # **Season 17 Part 2-1 (19.04.2022 - 10.05.2022)**
 
 - Introduction of map Kanturu Underground. Entry level requirement of 1190.<sup><a id="cite355"></a>[[355]](#ref355)</sup>
@@ -1315,6 +1344,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S17E2-2"></a>
 # **Season 17 Part 2-2 (10.05.2022 - 27.09.2022)**
 
 - 4<sup>th</sup> Level Wings combination update: In case of successful combination, one gets the wings according to his character class.<sup><a id="cite358"></a>[[358]](#ref358)</sup>
@@ -1324,6 +1354,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S18E1-1"></a>
 # **Season 18 Part 1-1 (27.09.2022 - 20.10.2022)**
 
 - Introduction of 14<sup>th</sup> character: Illusion Knight.<sup><a id="cite361"></a>[[361]](#ref361)</sup>
@@ -1331,6 +1362,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S18E1-2"></a>
 # **Season 18 Part 1-2 (20.10.2022 - 08.11.2022)**
 
 - Introduction of map Ignis Vulcanus. Entry level requirement of 1220.<sup><a id="cite363"></a>[[363]](#ref363)</sup>
@@ -1345,6 +1377,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S18E1-3"></a>
 # **Season 18 Part 1-3 (08.11.2022 - 18.04.2023)**
 
 - Added Elite Zone in map Ignis Volcano and Elite monsters Magma Gladiator, Magma Hook, Magma Shaman.<sup><a id="cite366"></a>[[366]](#ref366)</sup>
@@ -1357,6 +1390,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S18E2-1"></a>
 # **Season 18 Part 2-1 (18.04.2023 - 18.05.2023)**
 
 - Introduction of map Bloody Tarkan. Entry level requirement of 1250.<sup><a id="cite372"></a>[[372]](#ref372)</sup>
@@ -1368,6 +1402,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S18E2-2"></a>
 # **Season 18 Part 2-2 (18.05.2023 - 19.09.2023)**
 
 - Introduction of 5<sup>th</sup> Guardian Mount: Ullr (level 1200).<sup><a id="cite377"></a>[[377]](#ref377)</sup>
@@ -1376,12 +1411,14 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S19E1-1"></a>
 # **Season 19 Part 1-1 (19.09.2023 - 12.10.2023)**
 
 - Re-work of character Grow Lancer.<sup><a id="cite380"></a>[[380]](#ref380)</sup>
 
 [⬆ Back to Top](#content)
 
+<a id="S19E1-2"></a>
 # **Season 19 Part 1-2 (12.10.2023 - 01.11.2023)**
 
 - Introduction of map Tormenta Island. Entry level requirement of 1400.<sup><a id="cite381"></a>[[381]](#ref381)</sup>
@@ -1390,6 +1427,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S19E1-3"></a>
 # **Season 19 Part 1-3 (01.11.2023 - 30.04.2024)**
 
 - Introduction of 5<sup>th</sup> Class Quests for all characters.<sup><a id="cite384"></a>[[384]](#ref384)</sup>
@@ -1400,12 +1438,14 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S19E2-1"></a>
 # **Season 19 Part 2-1 (30.04.2024 - 14.05.2024)**
 
 - Re-work of character Dark Lord (DL).<sup><a id="cite389"></a>[[389]](#ref389)</sup>
 
 [⬆ Back to Top](#content)
 
+<a id="S19E2-2"></a>
 # **Season 19 Part 2-2 (14.05.2024 - 04.06.2024)**
 
 - Introduction of map Twisted Karutan. Entry level requirement of 1450.<sup><a id="cite391"></a>[[391]](#ref391)</sup>
@@ -1415,6 +1455,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S19E2-3"></a>
 # **Season 19 Part 2-3 (04.06.2024 - 24.09.2024)**
 
 - Introduction of 6<sup>th</sup> Guardian Mount: Leviathan (level 1300).<sup><a id="cite394"></a>[[394]](#ref394)</sup>
@@ -1427,6 +1468,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S20E1-1"></a>
 # **Season 20 Part 1-1 (24.09.2024 - 15.10.2024)**
 
 - Introduction of 15<sup>th</sup> character: Alchemist.<sup><a id="cite399"></a>[[399]](#ref399)</sup>
@@ -1434,6 +1476,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S20E1-2"></a>
 # **Season 20 Part 1-2 (15.10.2024 - 05.11.2024)**
 
 - Introduction of map Kardamahal Underground Temple. Entry level requirement of 1500.<sup><a id="cite401"></a>[[401]](#ref401)</sup>
@@ -1448,6 +1491,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S20E1-3"></a>
 # **Season 20 Part 1-3 (05.11.2024 - 22.04.2025)**
 
 - Added Elite Zone in map Kardamahal Underground Temple and Elite monsters Devil Sword, Devil Side, Devil Sorcerer.<sup><a id="cite404"></a>[[404]](#ref404)</sup>
@@ -1457,12 +1501,14 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S20E2-1"></a>
 # **Season 20 Part 2-1 (22.04.2025 - 13.05.2025)**
 
 - Re-work of character Rune Mage.<sup><a id="cite406"></a>[[406]](#ref406)</sup>
 
 [⬆ Back to Top](#content)
 
+<a id="S20E2-2"></a>
 # **Season 20 Part 2-2 (13.05.2025 - 29.05.2025)**
 
 - Introduction of map Swamp of Destruction. Entry level requirement of 1550.<sup><a id="cite407"></a>[[407]](#ref407)</sup>
@@ -1471,6 +1517,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S20E2-3"></a>
 # **Season 20 Part 2-3 (29.05.2025 - 30.09.2025)**
 
 - Added Elite Zone in map Swamp of Destructon and Elite monsters Shadow Master of Destruction, Napin of Destruction, Sapi Queen Destruction. Removal of Elite Zone and its monsters in map Kardamahal Underground Temple.<sup><a id="cite410"></a>[[410]](#ref410)</sup>
@@ -1479,6 +1526,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S21E1-1"></a>
 # **Season 21 Part 1-1 (30.09.2025 - 21.10.2025)**
 
 - Introduction of 16<sup>th</sup> character: Crusader.<sup><a id="cite414"></a>[[414]](#ref414)</sup>
@@ -1487,6 +1535,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S21E1-2"></a>
 # **Season 21 Part 1-2 (21.10.2025 - 11.11.2025)**
 
 - Introduction of map Aquilas Temple. Entry level requirement of 1600.<sup><a id="cite417"></a>[[417]](#ref417)</sup>
@@ -1505,6 +1554,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S21E1-3"></a>
 # **Season 21 Part 1-3 (11.11.2025 - 21.04.2026)**
 
 - Added Elite Zone in map Aquilas Temple and Elite monsters Aquila Warrior, Aquila Gunner, Aquila Mage. Removal of Elite Zone and its monsters in map Swamp of Destruction.<sup><a id="cite420"></a>[[420]](#ref420)</sup>
@@ -1513,6 +1563,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S21E2-1"></a>
 # **Season 21 Part 2-1 (21.04.2026 - 12.05.2026)**
 
 - Changes to stat requirements for items depending on their enhancement (plus) level. Stat requirements do not increase depending on item enhancement level. Jewel of Life (JoL) enhancements do require higher stats. Minor adjustments to stat requirements for all items.<sup><a id="cite422"></a>[[422]](#ref422)</sup>
@@ -1520,6 +1571,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S21E2-2"></a>
 # **Season 21 Part 2-2 (12.05.2026 - 09.06.2026)**
 
 - Introduction of map LaCleon of Oblivion (Raklion of Oblivion). Entry level requirement of 1650.<sup><a id="cite424"></a>[[424]](#ref424)</sup>
@@ -1530,6 +1582,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
+<a id="S21E2-3"></a>
 # **Season 21 Part 2-3 (09.06.2026 - ??.09.2026)**
 
 - Introduction of 8<sup>th</sup> Guardian Mount: Rhino (level 1500).<sup><a id="cite429"></a>[[429]](#ref429)</sup>
