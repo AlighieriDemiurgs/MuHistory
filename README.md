@@ -1544,7 +1544,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **REFERENCES:**
+# **REFERENCES**
 1. <a id="ref1"></a>[^](#cite1) https://web.archive.org/web/20010331044810/http://www.muonline.co.kr/faq/faq.htm
 
 2. <a id="ref2"></a>[^](#cite2) https://web.archive.org/web/20260410171331/https://company.webzen.com/en/about/history
