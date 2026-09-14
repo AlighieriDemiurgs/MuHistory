@@ -1,4 +1,4 @@
-# **MAIN SOURCES:**
+# **MAIN SOURCES**
 **1. MU Korea: https://www.muonline.co.kr/news/patch-note** 
 - Can be opened via Google Translate 'Websites' function, or a VPN using a South Korean IP.
 - The **Wayback Machine - Internet Archive** mostly helped compile Season 0, since MU Korea changed their old website to the existing one in 2005. Links up to 2005 (late Season 0) are dead. 
@@ -9,7 +9,7 @@
 - Live links were preserved via **Wayback Machine - Internet Archive** if the link-website was archivable.
   - MU Korea (muonline.co.kr) website is not archivable at the moment. Therefore, live links were used as references. And the patch updates were downloaded as single .mhtml file in case the website goes offline one day.
  
-# **AUTHOR:**
+# **AUTHOR**
 Created and compiled by **Demiurgs** aka **Alighieri**
 - Discord: **st.demiurgs**
 
@@ -94,7 +94,7 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 - **[Season 21 Part 2-3 (09.06.2026 - ??.09.2026)](#TEST)**
 
 <a id="S0"></a>
-# **Season 0 (12.02.2001 - 17.08.2005):**
+# **Season 0 (12.02.2001 - 17.08.2005)**
 **12.02.2001:** 
 
 - Closed ALPHA test in South Korea.<sup><a id="cite1"></a>[[1]](#ref1)</sup>
@@ -582,7 +582,7 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 [⬆ Back to Top](#content)
 
 <a id="S1"></a>
-# **Season 1 (17.08.2005 - 29.08.2006):**
+# **Season 1 (17.08.2005 - 29.08.2006)**
 
 - Season 1 officially begins with the 1.01b KOR aka 1.01.2 KOR patch. The end of 'Season 0' era.<sup><a id="cite105"></a>[[105]](#ref105), <a id="cite72"></a>[[72]](#ref72), <a id="cite75"></a>[[75]](#ref75), <a id="cite121"></a>[[121]](#ref121), <a id="cite436"></a>[[436]](#ref436)</sup>
 - Introduction of map Aida.<sup><a id="cite105"></a>[[105]](#ref105), <a id="cite72"></a>[[72]](#ref72), <a id="cite75"></a>[[75]](#ref75), <a id="cite121"></a>[[121]](#ref121), <a id="cite112"></a>[[112]](#ref112)</sup>
@@ -640,7 +640,7 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 [⬆ Back to Top](#content)
 
 <a id="S2"></a>
-# **Season 2 (29.08.2006 - 06.12.2007):**
+# **Season 2 (29.08.2006 - 06.12.2007)**
 
 - Introduction of level 380 Item Options.<sup><a id="cite131"></a>[[131]](#ref131)</sup>
 - Introduction of Gemstones, Jewel of Harmony (JoH) and Refining Stone. Introduction of Harmony Options.<sup><a id="cite132"></a>[[132]](#ref132), <a id="cite131"></a>[[131]](#ref131), <a id="cite457"></a>[[457]](#ref457)</sup>
@@ -696,7 +696,7 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 - Added Pumpkin of Luck. Introduced as part of Lucky Pumpkin Event that ran from 30<sup>th</sup> October 2007 to 13<sup>th</sup> November 2007 during Halloween.<sup><a id="cite461"></a>[[461]](#ref461)</sup>
 
 <a id="S3E1"></a>
-# **Season 3 (06.12.2007 - 26.02.2008):**
+# **Season 3 (06.12.2007 - 26.02.2008)**
 Also known as **Season 3 Part 1** in MU Online community. MU Korea (muonline.co.kr) did not use this terminology. Webzen referred to it internally as 'Season3A' in their source code.
 
 - Introduction of Master Level and Master Skill Tree system.<sup><a id="cite142"></a>[[142]](#ref142), <a id="cite462"></a>[[462]](#ref462)</sup>
@@ -711,7 +711,7 @@ Also known as **Season 3 Part 1** in MU Online community. MU Korea (muonline.co.
 [⬆ Back to Top](#content)
 
 <a id="S3E2"></a>
-# **Season 3+ (26.02.2008 - 26.08.2008):**
+# **Season 3+ (26.02.2008 - 26.08.2008)**
 Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.kr) did not use this terminology. Webzen referred to it internally as 'Season3B' in their source code.
 
 - Expansion of Master Skill Tree (rank 3).<sup><a id="cite147"></a>[[147]](#ref147)</sup>
@@ -726,7 +726,7 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 [⬆ Back to Top](#content)
 
 <a id="S4E1"></a>
-# **Season 4 (26.08.2008 - 02.04.2009):**
+# **Season 4 (26.08.2008 - 02.04.2009)**
 
 - Introduction of Socket Items (lvl 380): Flameberge, Sword Breaker, Rune Bastard Sword, Deadly Staff, Frost Mace, Dark Stinger Bow, Absolute Scepter, Inberial Staff, Crimson Glory, Frost Barrier, Guardian Shield, Salamander Shield, Titan set, Bravery set, Divine set, Seraphim set, Hades set, Phantom set, Destruction set, Royal set.<sup><a id="cite151"></a>[[151]](#ref151), <a id="cite465"></a>[[465]](#ref465)</sup>
 - Introduction of Socket System: NPC Seed Master, Seeds, Level 1 (Mono) Seed Spheres (Fire, Water, Ice, Wind, Lightning) and Bonus Socket Options.<sup><a id="cite152"></a>[[152]](#ref152), <a id="cite465"></a>[[465]](#ref465)</sup>
@@ -749,7 +749,7 @@ Also known as **Season 3 Part 2** in MU Online community. MU Korea (muonline.co.
 [⬆ Back to Top](#content)
 
 <a id="S4E2"></a>
-# **Season 4.5 (02.04.2009 - 27.08.2009):**
+# **Season 4.5 (02.04.2009 - 27.08.2009)**
 MU Korea (muonline.co.kr) did not use this terminology. These were just two updates released on 02.04.2009. However, Global MU Online (GMO) released these updates named Season 4.5. In addition, this terminology also exists in MU Online community.<sup><a id="cite187"></a>[[187]](#ref187), <a id="cite188"></a>[[188]](#ref188), <a id="cite189"></a>[[189]](#ref189)</sup>
 
 - Introduction of NPC Moss the Gambler in Elveland and new items (Excellent Brova, Excellent Striker Scepter, Excellent Aileen Bow, Excellent Chromatic Staff, Excellent Raven Stick).<sup><a id="cite158"></a>[[158]](#ref158), <a id="cite468"></a>[[468]](#ref468)</sup>
@@ -763,7 +763,7 @@ MU Korea (muonline.co.kr) did not use this terminology. These were just two upda
 [⬆ Back to Top](#content)
 
 <a id="S5E1"></a>
-# **Season 5 Part 1 (27.08.2009 - 27.10.2009):**
+# **Season 5 Part 1 (27.08.2009 - 27.10.2009)**
 
 - Introduction of new Ancient Set items (Anonymous Leather set, Anonymous Large Round shield, Mist Bronze set, Berserker Scale set, Cloud Brass set, Rave Plate set, Barnake Pad set, Sylion Bone set, Minet Sphinx set, Drake Vine set, Fase Silk set, Elvian Wind set, Karis Spirit set).<sup><a id="cite162"></a>[[162]](#ref162), <a id="cite471"></a>[[471]](#ref471)</sup>
 - Added Fortress of Imperial Guardian: Varka event.<sup><a id="cite159"></a>[[159]](#ref159), <a id="cite470"></a>[[470]](#ref470)</sup>
@@ -774,7 +774,7 @@ MU Korea (muonline.co.kr) did not use this terminology. These were just two upda
 [⬆ Back to Top](#content)
 
 <a id="S5E2"></a>
-# **Season 5 Part 2 (27.10.2009 - 04.02.2010):**
+# **Season 5 Part 2 (27.10.2009 - 04.02.2010)**
 
 - Introduction of Gens System.<sup><a id="cite163"></a>[[163]](#ref163), <a id="cite472"></a>[[472]](#ref472)</sup>
 - Introduction of Cash Item Shop (X-Shop) and Goblin Points (GP), which replace PC bang point system.<sup><a id="cite165"></a>[[165]](#ref165), <a id="cite472"></a>[[472]](#ref472)</sup>
@@ -785,7 +785,7 @@ MU Korea (muonline.co.kr) did not use this terminology. These were just two upda
 [⬆ Back to Top](#content)
 
 <a id="S5E3"></a>
-# **Season 5 Part 3 (04.02.2010 - 27.04.2010):**
+# **Season 5 Part 3 (04.02.2010 - 27.04.2010)**
 
 - Introduction of Gens Ranking. Changes to Gens classification and contribution system. User Interface (UI) changes to Gens Window 'B'.<sup><a id="cite167"></a>[[167]](#ref167), <a id="cite473"></a>[[473]](#ref473)</sup>
 - Maximum item level raised from +13 to +15.<sup><a id="cite166"></a>[[166]](#ref166), <a id="cite473"></a>[[473]](#ref473)</sup>
@@ -795,7 +795,7 @@ MU Korea (muonline.co.kr) did not use this terminology. These were just two upda
 [⬆ Back to Top](#content)
 
 <a id="S5E4"></a>
-# **Season 5 Part 4 (27.04.2010 - 07.10.2010):**
+# **Season 5 Part 4 (27.04.2010 - 07.10.2010)**
 This is the first time MU Korea (muonline.co.kr) use terminology Part and name this update Season 5 Part 4. 'Season 5' was released on 20.08.2009. and only two updates were released in between Season 5 and this Season 5 Part 4 update. Therefore, we can reliably assume the first release was Season 5 Part 1, followed by Season 5 Part 2 and Season 5 Part 3. This being the last update named Season 5 Part 4 officially. P.S. Webzen Press Release (company.webzen.com/ko/presscenter/press/) first use terminology Part during Season 5 Part 3 update, the content corresponds to MU Korea (muonline.co.kr) Season 5 Part 3 content. 
 
 - Introduction of Master Skill Tree system for Summoner.<sup><a id="cite169"></a>[[169]](#ref169), <a id="cite474"></a>[[474]](#ref474)</sup>
@@ -807,7 +807,7 @@ This is the first time MU Korea (muonline.co.kr) use terminology Part and name t
 [⬆ Back to Top](#content)
 
 <a id="S6E1"></a>
-# **Season 6 Part 1 (07.10.2010 - 03.03.2011):**
+# **Season 6 Part 1 (07.10.2010 - 03.03.2011)**
 
 - Introduction of 7<sup>th</sup> character: Rage Fighter.<sup><a id="cite170"></a>[[170]](#ref170), <a id="cite475"></a>[[475]](#ref475), <a id="cite476"></a>[[476]](#ref476)</sup>
 - Introduction of Rage Fighter items: Sacred Glove, Holy Storm Claw, Piercing Blade Glove, Sacred Fire set, Storm Zahard set, Piercing Grove set, 1<sup>st</sup> Level Wings (Warrior's Cloak), 3<sup>rd</sup> Level Wings (Reigning Cloak).<sup><a id="cite170"></a>[[170]](#ref170)</sup>
@@ -821,7 +821,7 @@ This is the first time MU Korea (muonline.co.kr) use terminology Part and name t
 [⬆ Back to Top](#content)
 
 <a id="S6E2"></a>
-# **Season 6 Part 2 (03.03.2011 - 25.08.2011):**
+# **Season 6 Part 2 (03.03.2011 - 25.08.2011)**
 
 - Master Skill Tree system rework. Expansion of Master Skill Tree (rank 5).<sup><a id="cite174"></a>[[174]](#ref174), <a id="cite477"></a>[[477]](#ref477)</sup>
 - Introduction of level 380 Items for Summoner and Rage Fighter (Eternal Wing Stick, Divine Stick of Archangel, Eternal Wing set, Soul Phoenix set).<sup><a id="cite175"></a>[[175]](#ref175), <a id="cite477"></a>[[477]](#ref477)</sup>
@@ -840,7 +840,7 @@ This is the first time MU Korea (muonline.co.kr) use terminology Part and name t
 [⬆ Back to Top](#content)
 
 <a id="S6E3"></a>
-# **Season 6 Part 3 (25.08.2011 - 21.11.2011):**
+# **Season 6 Part 3 (25.08.2011 - 21.11.2011)**
 MU Korea (muonline.co.kr) did not use this terminology. This was just an update released on 25.08.2011. However, Global MU Online (GMO) released this update named Season 6 Part 3. In addition, this terminology also exists in MU Online community.<sup><a id="cite206"></a>[[206]](#ref206), <a id="cite207"></a>[[207]](#ref207)</sup>
 
 - Introduction of Master Skill Tree system for Rage Fighter.<sup><a id="cite179"></a>[[179]](#ref179), <a id="cite480"></a>[[480]](#ref480)</sup>
@@ -848,7 +848,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 [⬆ Back to Top](#content)
 
 <a id="S7E1"></a>
-# **eX700 (21.11.2011 - 29.03.2012):**
+# **eX700 (21.11.2011 - 29.03.2012)**
 
 - Expansion of Master Skill Tree (rank 9) for all characters except Fist Master (rank 5 limit for Rage Fighter at this moment). Changes to Master Skill Tree skills.<sup><a id="cite180"></a>[[180]](#ref180), <a id="cite481"></a>[[481]](#ref481)</sup>
 - Maximum level cap raised from 600 to 700 (Master Level 300).<sup><a id="cite180"></a>[[180]](#ref180), <a id="cite211"></a>[[211]](#ref211), <a id="cite481"></a>[[481]](#ref481)</sup>
@@ -859,7 +859,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 [⬆ Back to Top](#content)
 
 <a id="S7E2"></a>
-# **eX701 (29.03.2012 - 13.06.2012):**
+# **eX701 (29.03.2012 - 13.06.2012)**
 
 - Introduction of Mastery Socket Items (lvl 400) for 3<sup>rd</sup> class characters. Mastery Socket Weapons (lvl 400) added: Sonic Blade, Cyclone Sword, Blast Break, Magmus Peer, Horn of Steal, Angelic Bow, Devil Crossbow, Spite Staff, Asura, Thunderbolt. Ingredient drops added from monsters in LaCleon (Raklion).<sup><a id="cite183"></a>[[183]](#ref183)</sup>
 - Addition of 2.5 Level Wings (Monster Wings): Cloak of Death, Wings of Chaos, Wings of Magic, Wings of Life.<sup><a id="cite184"></a>[[184]](#ref184)</sup>
@@ -869,7 +869,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 [⬆ Back to Top](#content)
 
 <a id="S7E3"></a>
-# **eX702 (13.06.2012 - 27.11.2012):**
+# **eX702 (13.06.2012 - 27.11.2012)**
 
 - Maximum level cap raised from 700 to 702 (Master Level 302).<sup><a id="cite213"></a>[[213]](#ref213), <a id="cite214"></a>[[214]](#ref214)</sup>
 - New Mastery Socket Weapons (lvl 400) added: Miracle Staff, Summon Spirit Stick.<sup><a id="cite186"></a>[[186]](#ref186), <a id="cite482"></a>[[482]](#ref482)</sup>
@@ -879,7 +879,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 [⬆ Back to Top](#content)
 
 <a id="S8E1"></a>
-# **Season 8 Part 1 (27.11.2012 - 16.04.2013):**
+# **Season 8 Part 1 (27.11.2012 - 16.04.2013)**
 
 - Maximum level cap raised from 702 to 730 (Master Level 330).<sup><a id="cite212"></a>[[212]](#ref212), <a id="cite483"></a>[[483]](#ref483)</sup>
 - Introduction of 10 new Pentagram items: Lorencia Knight's Iron Shield, Hero Elixir, Gladiator's Dagger, Kundun's Madness Blade, Kundun's Magic Spell Scroll, Empire Guardian's Stronghold, Ancient Icarus Scroll, Arca's Prophecy, Antonia's Sword, Kundun's Seal Scroll.<sup><a id="cite192"></a>[[192]](#ref192), <a id="cite483"></a>[[483]](#ref483)</sup>
@@ -895,7 +895,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 [⬆ Back to Top](#content)
 
 <a id="S8E2"></a>
-# **Season 8 Part 2 (16.04.2013 - 30.07.2013):**
+# **Season 8 Part 2 (16.04.2013 - 30.07.2013)**
 
 - Introduction of MU Roomy game.<sup><a id="cite199"></a>[[199]](#ref199), <a id="cite484"></a>[[484]](#ref484)</sup>
 - Adjustments to Personal Store.<sup><a id="cite198"></a>[[198]](#ref198), <a id="cite484"></a>[[484]](#ref484)</sup>
@@ -905,7 +905,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 [⬆ Back to Top](#content)
 
 <a id="S8E3"></a>
-# **Season 8 Part 3 (30.07.2013 - 10.12.2013):**
+# **Season 8 Part 3 (30.07.2013 - 10.12.2013)**
 
 - Introduction of Muun System and Items, including Evolution Stone.<sup><a id="cite203"></a>[[203]](#ref203), <a id="cite485"></a>[[485]](#ref485)</sup>
   - Specific Muun Item names are not announced by MU Korea (muonline.co.kr).
@@ -918,7 +918,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 [⬆ Back to Top](#content)
 
 <a id="S9E1"></a>
-# **Season 9 Part 1 (10.12.2013 - 22.04.2014):**
+# **Season 9 Part 1 (10.12.2013 - 22.04.2014)**
 
 - Added area-zone Uruk Mountain in map Acheron and boss Lord Silvester. Entry level requirement of 300.<sup><a id="cite217"></a>[[217]](#ref217), <a id="cite486"></a>[[486]](#ref486)</sup>
 - Maximum level cap raised from 730 to 750 (Master Level 350).<sup><a id="cite486"></a>[[486]](#ref486)</sup>
@@ -937,7 +937,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 [⬆ Back to Top](#content)
 
 <a id="S9E2"></a>
-# **Season 9 Part 2 (22.04.2014 - 19.08.2014):**
+# **Season 9 Part 2 (22.04.2014 - 19.08.2014)**
 - Expansion of Master Skill Tree (rank 9) for Fist Master.<sup><a id="cite226"></a>[[226]](#ref226), <a id="cite488"></a>[[488]](#ref488)</sup>
 - Complete re-work of Stat Point based Stats for all characters. Complete re-work of skill damage for all characters.<sup><a id="cite227"></a>[[227]](#ref227), <a id="cite488"></a>[[488]](#ref488)</sup>
 - Introduction of Gremory Case reward vault.<sup><a id="cite223"></a>[[223]](#ref223)</sup>
@@ -948,7 +948,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 [⬆ Back to Top](#content)
 
 <a id="S10E1"></a>
-# **Season X Part 1 (19.08.2014 - 16.12.2014):**
+# **Season X Part 1 (19.08.2014 - 16.12.2014)**
 
 - Introduction of 8<sup>th</sup> character: Grow Lancer.<sup><a id="cite231"></a>[[231]](#ref231), <a id="cite489"></a>[[489]](#ref489), <a id="cite490"></a>[[490]](#ref490)</sup>
 - Introduction of Grow Lancer items: Lapid Lance, Conmocion Lance, Pluma Lance, Prickle Lance, Alacran Lance, Vis Lance, Lapid Shield, Pluma Shield, Robust set, Gru Hill set, Princie set, 1<sup>st</sup> Level Wings (Cloack of Limit), 3<sup>rd</sup> Level Wings (Cloak of Transcendence).<sup><a id="cite231"></a>[[231]](#ref231)</sup>
@@ -967,7 +967,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 [⬆ Back to Top](#content)
 
 <a id="S10E2"></a>
-# **Season X Part 2 (16.12.2014 - 21.05.2015):**
+# **Season X Part 2 (16.12.2014 - 21.05.2015)**
 
 - Expansion of Master Skill Tree (rank 9) for Grow Lancer.<sup><a id="cite236"></a>[[236]](#ref236)</sup>
 - Added area-zone Nars in map Acheron and boss Core Magriffy. Entry level requirement of 400.<sup><a id="cite240"></a>[[240]](#ref240)</sup>
@@ -982,7 +982,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 [⬆ Back to Top](#content)
 
 <a id="S10E3"></a>
-# **Season X Part 3 (21.05.2015 - 21.10.2015):**
+# **Season X Part 3 (21.05.2015 - 21.10.2015)**
 
 - Introduction of Skill Imprint system.<sup><a id="cite242"></a>[[242]](#ref242)</sup>
 - Expansion of Pentagram and Elemental system. Introduction of the Errtel of Radiance as the fifth slot in Pentagram system in addition to the previous four slots: Errtel of Anger, Errtel of Blessing, Errtel of Integrity and Errtel of Divinity. Changes to Pentagram item drop.<sup><a id="cite243"></a>[[243]](#ref243), <a id="cite244"></a>[[244]](#ref244)</sup>
@@ -996,7 +996,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 11 Part 1-1 (21.10.2015 - 05.11.2015):**
+# **Season 11 Part 1-1 (21.10.2015 - 05.11.2015)**
 
 - Added map Ferea and bosses Lord Ferea and Ferea General. Entry level requirement of 400.<sup><a id="cite249"></a>[[249]](#ref249)</sup>
 - Introduction of 2<sup>nd</sup> Mastery Sets: Darkangel (level 600) for all characters.<sup><a id="cite250"></a>[[250]](#ref250)</sup>
@@ -1005,7 +1005,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 11 Part 1-2 (05.11.2015 - 17.05.2016):**
+# **Season 11 Part 1-2 (05.11.2015 - 17.05.2016)**
 
 - Introduction of 1<sup>st</sup> Mastery Weapons: Bloodangel (level 400) for all characters.<sup><a id="cite253"></a>[[253]](#ref253)</sup>
 - Introduction of Blessed Divine Archangel Weapons for all characters.<sup><a id="cite254"></a>[[254]](#ref254)</sup>
@@ -1015,7 +1015,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 11 Part 2-1 (17.05.2016 - 09.06.2016):**
+# **Season 11 Part 2-1 (17.05.2016 - 09.06.2016)**
 
 - Introduction of Zoom In / Zoom Out function for Mouse Wheel.<sup><a id="cite257"></a>[[257]](#ref257)</sup>
 - Introduction of Find the Bomb event.<sup><a id="cite258"></a>[[258]](#ref258)</sup>
@@ -1024,7 +1024,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 11 Part 2-2 (09.06.2016 - 01.11.2016):**
+# **Season 11 Part 2-2 (09.06.2016 - 01.11.2016)**
 
 - Introduction of Socket Items (lvl 380) and Mastery Socket Items (lvl 400) for Rage Fighter and Grow Lancer.<sup><a id="cite261"></a>[[261]](#ref261)</sup>
   - Rage Fighter's Socket Items (lvl 380): Pantera Claws, Tigris set.<sup><a id="cite261"></a>[[261]](#ref261)</sup>
@@ -1039,7 +1039,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 12 Part 1-1 (01.11.2016 - 17.11.2016):**
+# **Season 12 Part 1-1 (01.11.2016 - 17.11.2016)**
 
 - Added map Nixies Lake and boss Nix. Entry level requirement of 700.<sup><a id="cite264"></a>[[264]](#ref264)</sup>
 - Introduction of 2<sup>nd</sup> Mastery Weapons: Darkangel (level 600) for all characters.<sup><a id="cite265"></a>[[265]](#ref265)</sup>
@@ -1048,7 +1048,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 12 Part 1-2 (17.11.2016 - 23.05.2017):**
+# **Season 12 Part 1-2 (17.11.2016 - 23.05.2017)**
 
 - Changes to map Nixies Lake boss zone Nix area.<sup><a id="cite268"></a>[[268]](#ref268)</sup>
 - Added mini-game Maze of Dimensions.<sup><a id="cite269"></a>[[269]](#ref269)</sup>
@@ -1059,7 +1059,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 12 Part 2 (23.05.2017 - 24.10.2017):**
+# **Season 12 Part 2 (23.05.2017 - 24.10.2017)**
 
 - Introduction of 4<sup>th</sup> Class Quests (Dragon Knight, Soul Wizard, Noble Elf, Magic Knight, Empire Lord, Dimension Master, Fist Blazer, Shining Lancer).<sup><a id="cite274"></a>[[274]](#ref274)</sup>
 - Introduction of 4<sup>th</sup> Class Skill Enhancement Trees.<sup><a id="cite273"></a>[[273]](#ref273)</sup>
@@ -1072,7 +1072,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 13 Part 1-1 (24.10.2017 - 14.11.2017):**
+# **Season 13 Part 1-1 (24.10.2017 - 14.11.2017)**
 
 - Added map Swamp of Darkness. Entry level requirement of 800.<sup><a id="cite278"></a>[[278]](#ref278)</sup>
 - Introduction of 3<sup>rd</sup> Mastery Weapons: Holyangel (level 800) for all characters.<sup><a id="cite279"></a>[[279]](#ref279)</sup>
@@ -1083,7 +1083,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 13 Part 1-2 (14.11.2017 - 16.05.2018):**
+# **Season 13 Part 1-2 (14.11.2017 - 16.05.2018)**
 
 - Introduction of 4<sup>th</sup> Level Wings (Wings of Flame God, Wing of Celestial Body, Wings of Elysium, Wings of Other World, Wings of Annihilation) and Capes (Cloak of Dominator, Cloak of Judgment, Cloak of Isolation).<sup><a id="cite284"></a>[[284]](#ref284)</sup>
 - Maximum level cap raised from 920 to 1000 (Master Level 600).<sup><a id="cite285"></a>[[285]](#ref285)</sup>
@@ -1091,7 +1091,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 13 Part 2-1 (16.05.2018 - 07.06.2018):**
+# **Season 13 Part 2-1 (16.05.2018 - 07.06.2018)**
 
 - Expansion of mini-game Maze of Dimensions from 7 floors to 41 floors.<sup><a id="cite287"></a>[[287]](#ref287)</sup>
 - Introduction of 1<sup>st</sup> Mastery Earrings: Earring of Wrath (L) (level 300) and Earring of Wrath (R) (level 700). Introduction of Lapidary Stone.<sup><a id="cite288"></a>[[288]](#ref288)</sup>
@@ -1100,7 +1100,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 13 Part 2-2 (07.06.2018 - 16.10.2018):**
+# **Season 13 Part 2-2 (07.06.2018 - 16.10.2018)**
 
 - Addition of Divine Claw of Archangel and Blessed Divine Claw of Archangel for Rage Fighter.<sup><a id="cite290"></a>[[290]](#ref290)</sup>
 - New rules and clasification of buffs.<sup><a id="cite291"></a>[[291]](#ref291)</sup>
@@ -1108,7 +1108,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 14 Part 1-1 (16.10.2018 - 29.11.2018):**
+# **Season 14 Part 1-1 (16.10.2018 - 29.11.2018)**
 
 - Introduction of 9<sup>th</sup> character: Rune Mage.<sup><a id="cite293"></a>[[293]](#ref293)</sup>
 - Introduction of Rune Mage items: El Haz Rune Mace, Frost Rune Mace, Light Lord Rune Mace, Divine Rune Mace of Archangel, Blessed Divine Rune Mace of Archangel, 1<sup>st</sup> Mastery Weapon - Bloodangel Rune Mace (level 400), 2<sup>nd</sup> Mastery Weapon - Darkangel Rune Mace (level 600), El Haz Shield, Rune Padded set, Rune Sphinx set, Legendary Rune set, Kenaz set, Divine Rune set, Light Lord Rune set, 1<sup>st</sup> Mastery Set - Bloodangel Rune mage set (level 400), 2<sup>nd</sup> Mastery Set - Darkangel Rune Mage set (level 600), 3<sup>rd</sup> Level Wings (Wings of Disillusion).<sup><a id="cite293"></a>[[293]](#ref293)</sup>
@@ -1120,7 +1120,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 14 Part 1-2 (29.11.2018 - 21.05.2019):**
+# **Season 14 Part 1-2 (29.11.2018 - 21.05.2019)**
 
 - Introduction of 4<sup>th</sup> Level Wings (Wings of Fate) for Rune Mage.<sup><a id="cite296"></a>[[296]](#ref296)</sup>
 - Introduction of 3<sup>rd</sup> Mastery Set and Weapon: Holyangel (level 800) for Rune Mage.<sup><a id="cite296"></a>[[296]](#ref296)</sup>
@@ -1134,7 +1134,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 14 Part 2-1 (21.05.2019 - 11.06.2019):**
+# **Season 14 Part 2-1 (21.05.2019 - 11.06.2019)**
 
 - Introduction of 2<sup>nd</sup> Mastery Earrings: Earrings of Forefathers (L) (level 700) and Earrings of Forefathers (R) (level 750).<sup><a id="cite302"></a>[[302]](#ref302)</sup>
 - Maximum level cap raised from 1100 to 1150 (Master Level 750).<sup><a id="cite303"></a>[[303]](#ref303)</sup>
@@ -1146,7 +1146,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 14 Part 2-2 (11.06.2019 - 24.09.2019):**
+# **Season 14 Part 2-2 (11.06.2019 - 24.09.2019)**
 
 - Major re-work of character Summoner.<sup><a id="cite307"></a>[[307]](#ref307)</sup>
 - Introduction of 1<sup>st</sup> Guardian Mount: Phantasmal Steed (level 800).<sup><a id="cite308"></a>[[308]](#ref308)</sup>
@@ -1154,7 +1154,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 15 Part 1-1 (24.09.2019 - 17.10.2019):**
+# **Season 15 Part 1-1 (24.09.2019 - 17.10.2019)**
 
 - Introduction of 10<sup>th</sup> character: Slayer.<sup><a id="cite309"></a>[[309]](#ref309)</sup>
 - Introduction of Slayer items: Flat Short Sword, Dakia Short Sword, Kukri Short Sword, Divine Short Sword of Archangel, Slayer Red Wing set, Slayer Ancient set, Slayer Demonic set, Night Wing set, 1<sup>st</sup> Mastery Set - Bloodangel Slayer set (level 400).<sup><a id="cite309"></a>[[309]](#ref309)</sup>
@@ -1162,7 +1162,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 15 Part 1-2 (17.10.2019 - 05.11.2019):**
+# **Season 15 Part 1-2 (17.10.2019 - 05.11.2019)**
 
 - New skills added for Slayer.<sup><a id="cite310"></a>[[310]](#ref310)</sup>
 - Introduction of 3<sup>rd</sup> Level Wings (Wings of Silence) for Slayer.<sup><a id="cite310"></a>[[310]](#ref310)</sup>
@@ -1178,7 +1178,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 15 Part 1-3 (05.11.2019 - 21.04.2020):**
+# **Season 15 Part 1-3 (05.11.2019 - 21.04.2020)**
 
 - Introduction of 4<sup>th</sup> Level Wings (Wings of Conviction) for Slayer.<sup><a id="cite315"></a>[[315]](#ref315)</sup>
 - Introduction of Socket Items (lvl 380) and Mastery Socket Items (lvl 400) for Slayer.<sup><a id="cite315"></a>[[315]](#ref315)</sup>
@@ -1192,7 +1192,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 15 Part 2-1 (21.04.2020 - 11.05.2020):**
+# **Season 15 Part 2-1 (21.04.2020 - 11.05.2020)**
 
 - Added map Crimson Flame's Icarus. Entry level requirement of 1070.<sup><a id="cite320"></a>[[320]](#ref320)</sup>
 - Maximum level cap raised from 1200 to 1250 (Master Level 850).<sup><a id="cite321"></a>[[321]](#ref321)</sup>
@@ -1202,7 +1202,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 15 Part 2-2 (11.05.2020 - 15.09.2020):**
+# **Season 15 Part 2-2 (11.05.2020 - 15.09.2020)**
 
 - Introduction of 2<sup>nd</sup> Guardian Mount: Ice Dragon (level 900).<sup><a id="cite323"></a>[[323]](#ref323)</sup>
 - Added Elite Zone in map Crimson Flame's Icarus and Elite monsters Great Drakan, Phoenix of Darkness.<sup><a id="cite323"></a>[[323]](#ref323)</sup>
@@ -1214,14 +1214,14 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 16 Part 1-1 (15.09.2020 - 06.10.2020):**
+# **Season 16 Part 1-1 (15.09.2020 - 06.10.2020)**
 
 - Introduction of 11<sup>th</sup> character: Gun Crusher.<sup><a id="cite329"></a>[[329]](#ref329)</sup>
 - Introduction of Gun Crusher items: Entro Magic Gun, Frere Magic Gun, Divine Magic Gun of Archangel, Frere set, 1<sup>st</sup> Mastery Set - Bloodangel Gun Crusher set (level 400).<sup><a id="cite329"></a>[[329]](#ref329)</sup>
 
 [⬆ Back to Top](#content)
 
-# **Season 16 Part 1-2 (06.10.2020 - 27.10.2020):**
+# **Season 16 Part 1-2 (06.10.2020 - 27.10.2020)**
 
 - Added map Temple of Arnil. Entry level requirement of 1100.<sup><a id="cite331"></a>[[331]](#ref331)</sup>
 - Maximum level cap raised from 1250 to 1300 (Master Level 900).<sup><a id="cite330"></a>[[330]](#ref330)</sup>
@@ -1239,7 +1239,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 16 Part 1-3 (27.10.2020 - 13.04.2021):**
+# **Season 16 Part 1-3 (27.10.2020 - 13.04.2021)**
 
 - Added Elite Zone in map Temple of Arnil and Elite monsters Temple Ogre, Temple Gramlin, Temple Gargoyle.<sup><a id="cite335"></a>[[335]](#ref335)</sup>
 - Introduction of 4<sup>th</sup> Level Wings (Wings of Bloodshed) for Gun Crusher.<sup><a id="cite334"></a>[[334]](#ref334)</sup>
@@ -1253,7 +1253,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 16 Part 2-1 (13.04.2021 - 04.05.2021):**
+# **Season 16 Part 2-1 (13.04.2021 - 04.05.2021)**
 
 - Maximum level cap raised from 1300 to 1350 (Master Level 950).<sup><a id="cite340"></a>[[340]](#ref340)</sup>
 - Added map Gray Aida. Entry level requirement of 1130.<sup><a id="cite341"></a>[[341]](#ref341)</sup>
@@ -1261,7 +1261,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 16 Part 2-2 (04.05.2021 - 28.09.2021):**
+# **Season 16 Part 2-2 (04.05.2021 - 28.09.2021)**
 
 - Introduction of 3<sup>rd</sup> Guardian Mount: Fierce Lion (level 1000).<sup><a id="cite345"></a>[[345]](#ref345)</sup>
 - Added Elite Zone in map Gray Aida and Elite monsters Golem Gray, Bloody Witch Queen Gray.<sup><a id="cite345"></a>[[345]](#ref345)</sup>
@@ -1271,7 +1271,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 17 Part 1-1 (28.09.2021 - 19.10.2021):**
+# **Season 17 Part 1-1 (28.09.2021 - 19.10.2021)**
 
 - Introduction of 12<sup>th</sup> and 13<sup>th</sup> characters: White Wizard and Mage.<sup><a id="cite347"></a>[[347]](#ref347)</sup>
 - Introduction of White Wizard items: Basic Magic Book, Element Magic Book, Attribute Magic Book, Shining Feather Magic Book, Glimmer set, Light Ray set, Flash set, Magic Flare set, 1<sup>st</sup> Mastery Set - Bloodangel White Wizard set (level 400), 1<sup>st</sup> Level Wings (Pure White Cloak), 2<sup>nd</sup> Level Wings (Cloak of Magic).<sup><a id="cite347"></a>[[347]](#ref347)</sup>
@@ -1280,7 +1280,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 17 Part 1-2 (19.10.2021 - 09.11.2021):**
+# **Season 17 Part 1-2 (19.10.2021 - 09.11.2021)**
 
 - Maximum level cap raised from 1350 to 1400 (Master Level 1000).<sup><a id="cite349"></a>[[349]](#ref349)</sup>
 - Introduction of map Burning Kethotum. Entry level requirement of 1160.<sup><a id="cite350"></a>[[350]](#ref350)</sup>
@@ -1294,7 +1294,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 17 Part 1-3 (09.11.2021 - 19.04.2022):**
+# **Season 17 Part 1-3 (09.11.2021 - 19.04.2022)**
 
 - Added Elite Zone in map Burning Kethotum and Elite monsters Crimson Lycan, Crimson Minos, Crimson Harpy.<sup><a id="cite353"></a>[[353]](#ref353)</sup>
 - Changes to map Nixies Lake and map Cubera Mine.<sup><a id="cite353"></a>[[353]](#ref353)</sup>
@@ -1307,7 +1307,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 17 Part 2-1 (19.04.2022 - 10.05.2022):**
+# **Season 17 Part 2-1 (19.04.2022 - 10.05.2022)**
 
 - Introduction of map Kanturu Underground. Entry level requirement of 1190.<sup><a id="cite355"></a>[[355]](#ref355)</sup>
 - Introduction of 5<sup>th</sup> Mastery Earrings: Allurement Earring (L) (level 850) and Allurement Earring (R) (level 900).<sup><a id="cite356"></a>[[356]](#ref356)</sup>
@@ -1315,7 +1315,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 17 Part 2-2 (10.05.2022 - 27.09.2022):**
+# **Season 17 Part 2-2 (10.05.2022 - 27.09.2022)**
 
 - 4<sup>th</sup> Level Wings combination update: In case of successful combination, one gets the wings according to his character class.<sup><a id="cite358"></a>[[358]](#ref358)</sup>
 - Introduction of 4<sup>th</sup> Guardian Mount: Shining Tail (level 1100).<sup><a id="cite359"></a>[[359]](#ref359)</sup>
@@ -1324,14 +1324,14 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 18 Part 1-1 (27.09.2022 - 20.10.2022):**
+# **Season 18 Part 1-1 (27.09.2022 - 20.10.2022)**
 
 - Introduction of 14<sup>th</sup> character: Illusion Knight.<sup><a id="cite361"></a>[[361]](#ref361)</sup>
 - Introduction of Illusion Knight items: Silver Blade, Xeno Blade, Diine Blade of Archangel, Illusion Knight Scale set, Illusion Knight Plate set, Steel Plate set, Black Origin set, 1<sup>st</sup> Mastery Set - Bloodangel Illusion Knight set (level 400), 1<sup>st</sup> Level Wings (Iron Cloak), 2<sup>nd</sup> Level Wings (Black Cloak).<sup><a id="cite361"></a>[[361]](#ref361)</sup>
 
 [⬆ Back to Top](#content)
 
-# **Season 18 Part 1-2 (20.10.2022 - 08.11.2022):**
+# **Season 18 Part 1-2 (20.10.2022 - 08.11.2022)**
 
 - Introduction of map Ignis Vulcanus. Entry level requirement of 1220.<sup><a id="cite363"></a>[[363]](#ref363)</sup>
 - Maximum level cap raised from 1450 to 1500 (Master Level 1100).<sup><a id="cite362"></a>[[362]](#ref362)</sup>
@@ -1345,7 +1345,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 18 Part 1-3 (08.11.2022 - 18.04.2023):**
+# **Season 18 Part 1-3 (08.11.2022 - 18.04.2023)**
 
 - Added Elite Zone in map Ignis Volcano and Elite monsters Magma Gladiator, Magma Hook, Magma Shaman.<sup><a id="cite366"></a>[[366]](#ref366)</sup>
 - Introduction of 4<sup>th</sup> Level Wings (Cloak of Hatred) for Illusion Knight.<sup><a id="cite367"></a>[[367]](#ref367)</sup>
@@ -1357,7 +1357,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 18 Part 2-1 (18.04.2023 - 18.05.2023):**
+# **Season 18 Part 2-1 (18.04.2023 - 18.05.2023)**
 
 - Introduction of map Bloody Tarkan. Entry level requirement of 1250.<sup><a id="cite372"></a>[[372]](#ref372)</sup>
 - Maximum level cap raised from 1500 to 1550 (Master Level 1150).<sup><a id="cite373"></a>[[373]](#ref373)</sup>
@@ -1368,7 +1368,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 18 Part 2-2 (18.05.2023 - 19.09.2023):**
+# **Season 18 Part 2-2 (18.05.2023 - 19.09.2023)**
 
 - Introduction of 5<sup>th</sup> Guardian Mount: Ullr (level 1200).<sup><a id="cite377"></a>[[377]](#ref377)</sup>
 - Re-work of character Dark Knight (DK), Magic Gladiator (MG), Rage Fighter (RF), Slayer.<sup><a id="cite378"></a>[[378]](#ref378)</sup>
@@ -1376,13 +1376,13 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 19 Part 1-1 (19.09.2023 - 12.10.2023):**
+# **Season 19 Part 1-1 (19.09.2023 - 12.10.2023)**
 
 - Re-work of character Grow Lancer.<sup><a id="cite380"></a>[[380]](#ref380)</sup>
 
 [⬆ Back to Top](#content)
 
-# **Season 19 Part 1-2 (12.10.2023 - 01.11.2023):**
+# **Season 19 Part 1-2 (12.10.2023 - 01.11.2023)**
 
 - Introduction of map Tormenta Island. Entry level requirement of 1400.<sup><a id="cite381"></a>[[381]](#ref381)</sup>
 - Maximum level cap raised from 1550 to 1600 (Master Level 1200).<sup><a id="cite382"></a>[[382]](#ref382)</sup>
@@ -1390,7 +1390,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 19 Part 1-3 (01.11.2023 - 30.04.2024):**
+# **Season 19 Part 1-3 (01.11.2023 - 30.04.2024)**
 
 - Introduction of 5<sup>th</sup> Class Quests for all characters.<sup><a id="cite384"></a>[[384]](#ref384)</sup>
 - Introduction of 5<sup>th</sup> Level Wings (Wings of Lightbringer, Wings of Kanade, Wings of Madoka, Wings of the Breaker, Wings of Curse, Wings of Justicar, Wings of Crepuscular, Wings of Crystal, Wings of Magicshot, Wings of Rebellion) and Capes (Cloak of Royalty, Cloak of Fury, Cloak of Rebelion, Cloak of Night) for all characters.<sup><a id="cite385"></a>[[385]](#ref385)</sup>
@@ -1400,13 +1400,13 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 19 Part 2-1 (30.04.2024 - 14.05.2024):**
+# **Season 19 Part 2-1 (30.04.2024 - 14.05.2024)**
 
 - Re-work of character Dark Lord (DL).<sup><a id="cite389"></a>[[389]](#ref389)</sup>
 
 [⬆ Back to Top](#content)
 
-# **Season 19 Part 2-2 (14.05.2024 - 04.06.2024):**
+# **Season 19 Part 2-2 (14.05.2024 - 04.06.2024)**
 
 - Introduction of map Twisted Karutan. Entry level requirement of 1450.<sup><a id="cite391"></a>[[391]](#ref391)</sup>
 - Introduction of 7<sup>th</sup> Mastery Earrings: Foliage Earring (L) (level 950) and Foliage Earring (R) (level 1000).<sup><a id="cite392"></a>[[392]](#ref392)</sup>
@@ -1415,7 +1415,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 19 Part 2-3 (04.06.2024 - 24.09.2024):**
+# **Season 19 Part 2-3 (04.06.2024 - 24.09.2024)**
 
 - Introduction of 6<sup>th</sup> Guardian Mount: Leviathan (level 1300).<sup><a id="cite394"></a>[[394]](#ref394)</sup>
 - Added Elite Zone in map Twisted Karutan and Elite monsters Twisted Crypta, Twisted Gollock, Twisted Condra.<sup><a id="cite395"></a>[[395]](#ref395)</sup>
@@ -1427,14 +1427,14 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 20 Part 1-1 (24.09.2024 - 15.10.2024):**
+# **Season 20 Part 1-1 (24.09.2024 - 15.10.2024)**
 
 - Introduction of 15<sup>th</sup> character: Alchemist.<sup><a id="cite399"></a>[[399]](#ref399)</sup>
 - Introduction of Alchemist items: Red Eye Wand, Benito Wand, Iolite Wand, Divine Wand of Archangel, Performance Elixir, Catalyst Elixir, Abyss Elixir, Atomic Elixir, Alchemist Spirit set, Alchemist Holy Spirit set, Alchemist Red Spirit set, Radiant Armor set, 1<sup>st</sup> Mastery Set - Bloodangel Alchemist set (level 400).<sup><a id="cite399"></a>[[399]](#ref399)</sup>
 
 [⬆ Back to Top](#content)
 
-# **Season 20 Part 1-2 (15.10.2024 - 05.11.2024):**
+# **Season 20 Part 1-2 (15.10.2024 - 05.11.2024)**
 
 - Introduction of map Kardamahal Underground Temple. Entry level requirement of 1500.<sup><a id="cite401"></a>[[401]](#ref401)</sup>
 - Introduction of 3<sup>rd</sup> Level Wings (Wings of Guardian) for Alchemist. Introduction of 4<sup>th</sup> Level Wings (Wings of Purity) for Alchemist. Introduction of 5<sup>th</sup> Level Wings (Wings of Brotherhood) for Alchemist. Introduction of Pure Brotherhood Wing Core for Alchemist.<sup><a id="cite402"></a>[[402]](#ref402)</sup>
@@ -1448,7 +1448,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 20 Part 1-3 (05.11.2024 - 22.04.2025):**
+# **Season 20 Part 1-3 (05.11.2024 - 22.04.2025)**
 
 - Added Elite Zone in map Kardamahal Underground Temple and Elite monsters Devil Sword, Devil Side, Devil Sorcerer.<sup><a id="cite404"></a>[[404]](#ref404)</sup>
 - Introduction of 1<sup>st</sup> Legendary Weapon and Shield - Temple Guard (level 1500) for all characters except Alchemist.<sup><a id="cite405"></a>[[405]](#ref405)</sup>
@@ -1457,13 +1457,13 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 20 Part 2-1 (22.04.2025 - 13.05.2025):**
+# **Season 20 Part 2-1 (22.04.2025 - 13.05.2025)**
 
 - Re-work of character Rune Mage.<sup><a id="cite406"></a>[[406]](#ref406)</sup>
 
 [⬆ Back to Top](#content)
 
-# **Season 20 Part 2-2 (13.05.2025 - 29.05.2025):**
+# **Season 20 Part 2-2 (13.05.2025 - 29.05.2025)**
 
 - Introduction of map Swamp of Destruction. Entry level requirement of 1550.<sup><a id="cite407"></a>[[407]](#ref407)</sup>
 - Introduction of 8<sup>th</sup> Mastery Earrings: Earring of Frost (L) (level 1000) and Earring of Frost (R) (level 1050).<sup><a id="cite408"></a>[[408]](#ref408)</sup>
@@ -1471,7 +1471,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 20 Part 2-3 (29.05.2025 - 30.09.2025):**
+# **Season 20 Part 2-3 (29.05.2025 - 30.09.2025)**
 
 - Added Elite Zone in map Swamp of Destructon and Elite monsters Shadow Master of Destruction, Napin of Destruction, Sapi Queen Destruction. Removal of Elite Zone and its monsters in map Kardamahal Underground Temple.<sup><a id="cite410"></a>[[410]](#ref410)</sup>
 - Introduction of 7<sup>th</sup> Guardian Mount: Taurus (level 1400).<sup><a id="cite411"></a>[[411]](#ref411)</sup>
@@ -1479,7 +1479,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 21 Part 1-1 (30.09.2025 - 21.10.2025):**
+# **Season 21 Part 1-1 (30.09.2025 - 21.10.2025)**
 
 - Introduction of 16<sup>th</sup> character: Crusader.<sup><a id="cite414"></a>[[414]](#ref414)</sup>
 - Introduction of Crusader items: Floor Hammer, Considered Hammer, Divine Hammer of Archangel, 1<sup>st</sup> Mastery Weapon - Bloodangel Hammer (level 400), Floor Shield, Considered Shield, Crusader Leather set, Crusader Brass set, Crusader Plate set, Solid set, 1<sup>st</sup> Mastery Set - Bloodangel Crusader set (level 400).<sup><a id="cite414"></a>[[414]](#ref414)</sup>
@@ -1487,7 +1487,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 21 Part 1-2 (21.10.2025 - 11.11.2025):**
+# **Season 21 Part 1-2 (21.10.2025 - 11.11.2025)**
 
 - Introduction of map Aquilas Temple. Entry level requirement of 1600.<sup><a id="cite417"></a>[[417]](#ref417)</sup>
 - Maximum level cap raised from 1700 to 1750 (Master Level 1350).<sup><a id="cite416"></a>[[416]](#ref416)</sup>
@@ -1505,7 +1505,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 21 Part 1-3 (11.11.2025 - 21.04.2026):**
+# **Season 21 Part 1-3 (11.11.2025 - 21.04.2026)**
 
 - Added Elite Zone in map Aquilas Temple and Elite monsters Aquila Warrior, Aquila Gunner, Aquila Mage. Removal of Elite Zone and its monsters in map Swamp of Destruction.<sup><a id="cite420"></a>[[420]](#ref420)</sup>
 - Adding Jewel of Bless or Jewel of Soul to items in inventory is not possible anymore. Increased Zen costs for item enhancements in Chaos Machine.<sup><a id="cite421"></a>[[421]](#ref421)</sup>
@@ -1513,14 +1513,14 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 21 Part 2-1 (21.04.2026 - 12.05.2026):**
+# **Season 21 Part 2-1 (21.04.2026 - 12.05.2026)**
 
 - Changes to stat requirements for items depending on their enhancement (plus) level. Stat requirements do not increase depending on item enhancement level. Jewel of Life (JoL) enhancements do require higher stats. Minor adjustments to stat requirements for all items.<sup><a id="cite422"></a>[[422]](#ref422)</sup>
 - Minor re-work of Fairy Elf (FE), Magic Gladiator (MG), Gun Crusher, Illusion Knight, Rune Mage.<sup><a id="cite423"></a>[[423]](#ref423)</sup>
 
 [⬆ Back to Top](#content)
 
-# **Season 21 Part 2-2 (12.05.2026 - 09.06.2026):**
+# **Season 21 Part 2-2 (12.05.2026 - 09.06.2026)**
 
 - Introduction of map LaCleon of Oblivion (Raklion of Oblivion). Entry level requirement of 1650.<sup><a id="cite424"></a>[[424]](#ref424)</sup>
 - Maximum level cap raised from 1750 to 1800 (Master Level 1400).<sup><a id="cite425"></a>[[425]](#ref425)</sup>
@@ -1530,7 +1530,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 21 Part 2-3 (09.06.2026 - ??.09.2026):**
+# **Season 21 Part 2-3 (09.06.2026 - ??.09.2026)**
 
 - Introduction of 8<sup>th</sup> Guardian Mount: Rhino (level 1500).<sup><a id="cite429"></a>[[429]](#ref429)</sup>
 - Added Elite Zone in map Lacleon of Oblivion (Raklion of Oblivion) and Elite monsters Giant Mammoth of Oblivion, Giant of Oblivion, Iron Knight of Oblivion. Removal of Elite Zone and its monsters in map Aquilas Temple.<sup><a id="cite430"></a>[[430]](#ref430)</sup>
@@ -1539,7 +1539,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-# **Season 22 Part 1-1 (??.09.2026 - …):**
+# **Season 22 Part 1-1 (??.09.2026 - …)**
 - To be continued.
 
 [⬆ Back to Top](#content)
