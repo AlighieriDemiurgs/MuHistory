@@ -2720,3 +2720,5 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 490. <a id="ref490"></a>[^](#cite490) https://company.webzen.com/ko/presscenter/press/pressview?page=403&seq=2952
 
 - Wayback Machine - Internet Archive: https://web.archive.org/web/20260826190344/https://company.webzen.com/ko/presscenter/press/pressview?page=403&seq=2952
+
+[⬆ Back to Top](#references)
