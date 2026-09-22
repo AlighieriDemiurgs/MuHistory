@@ -91,8 +91,8 @@ Created and compiled by **Demiurgs** aka **Alighieri**
 - **[Season 21 Part 1-3 (11.11.2025 - 21.04.2026)](#S21E1-3)**
 - **[Season 21 Part 2-1 (21.04.2026 - 12.05.2026)](#S21E2-1)**
 - **[Season 21 Part 2-2 (12.05.2026 - 09.06.2026)](#S21E2-2)**
-- **[Season 21 Part 2-3 (09.06.2026 - ??.09.2026)](#S21E2-3)**
-- **[Season 22 Part 1-1 (??.09.2026 - ...)](#S22E1-1)**
+- **[Season 21 Part 2-3 (09.06.2026 - 15.09.2026)](#S21E2-3)**
+- **[Season 22 Part 1-1 (15.09.2026 - ...)](#S22E1-1)**
 
 <a id="S0"></a>
 # **Season 0 (12.02.2001 - 17.08.2005)**
@@ -1594,8 +1594,10 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 [⬆ Back to Top](#content)
 
 <a id="S22E1-1"></a>
-# **Season 22 Part 1-1 (??.09.2026 - …)**
-- To be continued.
+# **Season 22 Part 1-1 (15.09.2026 - …)**
+
+- Re-work of character Dark Knight (DK), Rage Fighter (RF), Magic Gladiator (MG), Slayer.<sup><a id="cite491"></a>[[491]](#ref491), <a id="cite492"></a>[[492]](#ref492)</sup>
+- Improvements to Hunting Log.<sup><a id="cite491"></a>[[491]](#ref491), <a id="cite492"></a>[[492]](#ref492)</sup>
 
 [⬆ Back to Top](#content)
 
@@ -2722,5 +2724,11 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 490. <a id="ref490"></a>[^](#cite490) https://company.webzen.com/ko/presscenter/press/pressview?page=403&seq=2952
 
 - Wayback Machine - Internet Archive: https://web.archive.org/web/20260826190344/https://company.webzen.com/ko/presscenter/press/pressview?page=403&seq=2952
+
+491. <a id="ref491"></a>[^](#cite491) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/64522?category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
+
+492. <a id="ref492"></a>[^](#cite492) https://company.webzen.com/ko/presscenter/press/pressview?page=1&seq=6977
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260922152727/https://company.webzen.com/ko/presscenter/press/pressview?page=1&seq=6977
 
 [⬆ Back to Top](#references)
