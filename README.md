@@ -1584,7 +1584,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 [⬆ Back to Top](#content)
 
 <a id="S21E2-3"></a>
-# **Season 21 Part 2-3 (09.06.2026 - ??.09.2026)**
+# **Season 21 Part 2-3 (09.06.2026 - 15.09.2026)**
 
 - Introduction of 8<sup>th</sup> Guardian Mount: Rhino (level 1500).<sup><a id="cite429"></a>[[429]](#ref429)</sup>
 - Added Elite Zone in map Lacleon of Oblivion (Raklion of Oblivion) and Elite monsters Giant Mammoth of Oblivion, Giant of Oblivion, Iron Knight of Oblivion. Removal of Elite Zone and its monsters in map Aquilas Temple.<sup><a id="cite430"></a>[[430]](#ref430)</sup>
