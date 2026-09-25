@@ -1628,9 +1628,6 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 12. <a id="ref12"></a>[^](#cite12) https://web.archive.org/web/20020414150334/http://www.muonline.co.kr:80/news/news/read.asp?ann__guid=450&f_keyWord=&f_sekey=
 
-- The link has stopped working.
-- However, I have captured most patch news on muonline.co.kr using a web scraper. The patch can be read in entirety from the fetched data. Ask me privately if need be.
-
 13. <a id="ref13"></a>[^](#cite13) https://web.archive.org/web/20040301225226/http://www.muonline.co.kr/news/update_patch/read.asp?ann__guid=214&f_keyWord=&f_sekey=
 
 14. <a id="ref14"></a>[^](#cite14) https://web.archive.org/web/20030522062610/http://www.muonline.co.kr/news/news/read.asp?ann__guid=618&f_keyWord=&f_sekey=
