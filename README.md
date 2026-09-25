@@ -696,6 +696,8 @@ Created and compiled by **Demiurgs**
 
 - Added Pumpkin of Luck. Introduced as part of Lucky Pumpkin Event that ran from 30<sup>th</sup> October 2007 to 13<sup>th</sup> November 2007 during Halloween.<sup><a id="cite461"></a>[[461]](#ref461)</sup>
 
+[⬆ Back to Top](#content)
+
 <a id="S3E1"></a>
 # **Season 3 (06.12.2007 - 26.02.2008)**
 Also known as **Season 3 Part 1** in MU Online community. MU Korea (muonline.co.kr) did not use this terminology. Webzen referred to it internally as 'Season3A' in their source code.
