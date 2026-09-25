@@ -10,7 +10,7 @@
   - MU Korea (muonline.co.kr) website is not archivable at the moment. Therefore, live links were used as references. And the patch updates were downloaded as single .mhtml file in case the website goes offline one day.
  
 # **AUTHOR**
-Created and compiled by **Demiurgs** aka **Alighieri**
+Created and compiled by **Demiurgs**
 - Discord: **st.demiurgs**
 
 # CONTENT
