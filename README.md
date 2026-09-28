@@ -411,7 +411,8 @@ Created and compiled by **Demiurgs**
 
 **06.10.2003:**
 
-- Global MU Online (GMO) Open BETA launched for Europe and the Americas. Version 0.95.0. First server Maya was launched on 13<sup>th</sup> October, 2003. Second server Wigle was launched on 3<sup>rd</sup> December, 2003.<sup><a id="cite27"></a>[[27]](#ref27), <a id="cite451"></a>[[451]](#ref451), <a id="cite76"></a>[[76]](#ref76)</sup>
+- Global MU Online (GMO) Open BETA launched for Europe and the Americas. Version 0.95.0. The 'Commercial launch' (Grand Opening) of Global MU Online (GMO) was on the 13<sup>th</sup> October, 2003. First server Maya was launched on 13<sup>th</sup> October, 2003. Second server Wigle was launched on 3<sup>rd</sup> December, 2003.<sup><a id="cite27"></a>[[27]](#ref27), <a id="cite451"></a>[[451]](#ref451), <a id="cite76"></a>[[76]](#ref76)</sup>
+  - N.B. Global MU Online (GMO) launched as version 0.95.0, but a significant portion of its content was initially disabled, including some of the maps and items from that version. The game caught up with the full content of the corresponding versions during Season 0. From Season 1 onward, its content matched the corresponding seasons of MU Korea.
 
 **0.96y aka 0.96.25 (27.10.2003):**
 
