@@ -536,8 +536,8 @@ Created and compiled by **Demiurgs**
 
 **0.99W+ aka 0.99.49 (03.02.2005):**
 
-- Teleport to each Kalima floor added (/move Kalima 1~6).<sup><a id="cite103"></a>[[103]](#ref103), <a id="cite116"></a>[[116]](#ref116)</sup>
-
+- PC bang (Korean internet café) exclusive: free entrance to Kalima without the Lost Map.<sup><a id="cite103"></a>[[103]](#ref103), <a id="cite116"></a>[[116]](#ref116)</sup>
+- Introduction of Lucky Pouch event. Obtain a Blue Lucky Pouch by killing monsters to gain the ability to teleport to Kalima.<sup><a id="cite103"></a>[[103]](#ref103), <a id="cite116"></a>[[116]](#ref116)</sup>
 - Added Olive of Love and Potion of Love. Introduced as part of Valentine's Day event that ran from 11<sup>th</sup> February 2005 to 15<sup>th</sup> February 2005.<sup><a id="cite103"></a>[[103]](#ref103), <a id="cite116"></a>[[116]](#ref116), <a id="cite441"></a>[[441]](#ref441)</sup>
 
 **1.0? (08.03.2005):**
