@@ -376,7 +376,7 @@ Created and compiled by **Demiurgs**
 
 - Introduction of AG (Stamina) system.<sup><a id="cite23"></a>[[23]](#ref23), <a id="cite63"></a>[[63]](#ref63)</sup>
 
-- Introduction of 2<sup>nd</sup> Class Quest (Blade Knight, Soul Master, Muse Elf).<sup><a id="cite21"></a>[[21]](#ref21)
+- Introduction of 2<sup>nd</sup> Class Quest (Blade Knight, Soul Master, Muse Elf). Level requirement of 150.<sup><a id="cite21"></a>[[21]](#ref21)
 
 - Introduction of 2<sup>nd</sup> Level Wings (Wings of Dragon, Wings of Spirit, Wings of Soul, Cape of Lord).<sup><a id="cite21"></a>[[21]](#ref21), <a id="cite63"></a>[[63]](#ref63)</sup>
 
@@ -685,7 +685,7 @@ Created and compiled by **Demiurgs**
 
 **Additional update #5 for Season 2 (28.06.2007):**
 
-- Introduction of 3<sup>rd</sup> Class Quests (Blade Master, Grand Master, High Elf, Duel Master and Lord Emperor).<sup><a id="cite139"></a>[[139]](#ref139), <a id="cite460"></a>[[460]](#ref460)</sup>
+- Introduction of 3<sup>rd</sup> Class Quests (Blade Master, Grand Master, High Elf, Duel Master and Lord Emperor). Level requirement of 400.<sup><a id="cite139"></a>[[139]](#ref139), <a id="cite460"></a>[[460]](#ref460)</sup>
 - Introduction of 3<sup>rd</sup> Level Wings (Wings of Storm, Wings of Illusion, Eternal Wings, Wings of Ruin) and Emperor's Cape.<sup><a id="cite140"></a>[[140]](#ref140), <a id="cite460"></a>[[460]](#ref460)</sup>
 - Introduction of Balgass Barracks and Refuge of Balgass.<sup><a id="cite139"></a>[[139]](#ref139)</sup>
 
@@ -1072,7 +1072,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 <a id="S12"></a>
 # **Season 12 Part 2 (23.05.2017 - 24.10.2017)**
 
-- Introduction of 4<sup>th</sup> Class Quests (Dragon Knight, Soul Wizard, Noble Elf, Magic Knight, Empire Lord, Dimension Master, Fist Blazer, Shining Lancer).<sup><a id="cite274"></a>[[274]](#ref274)</sup>
+- Introduction of 4<sup>th</sup> Class Quests (Dragon Knight, Soul Wizard, Noble Elf, Magic Knight, Empire Lord, Dimension Master, Fist Blazer, Shining Lancer). Level requirement of 800.<sup><a id="cite274"></a>[[274]](#ref274)</sup>
 - Introduction of 4<sup>th</sup> Class Skill Enhancement Trees.<sup><a id="cite273"></a>[[273]](#ref273)</sup>
 - Added map Deep Dungeon 1-5. Entry level requirement of 770.<sup><a id="cite271"></a>[[271]](#ref271)</sup>
 - Maximum level cap raised from 820 to 920 (Master Level 520).<sup><a id="cite276"></a>[[276]](#ref276)</sup>
@@ -1434,7 +1434,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 <a id="S19E1-3"></a>
 # **Season 19 Part 1-3 (01.11.2023 - 30.04.2024)**
 
-- Introduction of 5<sup>th</sup> Class Quests for all characters.<sup><a id="cite384"></a>[[384]](#ref384)</sup>
+- Introduction of 5<sup>th</sup> Class Quests for all characters. Level requirement of 1200.<sup><a id="cite384"></a>[[384]](#ref384)</sup>
 - Introduction of 5<sup>th</sup> Level Wings (Wings of Lightbringer, Wings of Kanade, Wings of Madoka, Wings of the Breaker, Wings of Curse, Wings of Justicar, Wings of Crepuscular, Wings of Crystal, Wings of Magicshot, Wings of Rebellion) and Capes (Cloak of Royalty, Cloak of Fury, Cloak of Rebelion, Cloak of Night) for all characters.<sup><a id="cite385"></a>[[385]](#ref385)</sup>
 - Added Elite Zone in map Tormenta Island and Elite monsters Storm Guard, Storm Reaper, Storm Fiend.<sup><a id="cite386"></a>[[386]](#ref386)</sup>
 - Introduction of Ability Cards-Enhancement System.<sup><a id="cite387"></a>[[387]](#ref387)</sup>
