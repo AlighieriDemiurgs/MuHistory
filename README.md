@@ -379,7 +379,7 @@ Created and compiled by **Demiurgs**
 
 - Introduction of 2<sup>nd</sup> Class Quest (Blade Knight, Soul Master, Muse Elf). Level requirement of 150.<sup><a id="cite21"></a>[[21]](#ref21)
 
-- Introduction of 2<sup>nd</sup> Level Wings (Wings of Dragon, Wings of Soul, Wings of Spirit, Wings of Darkness, Cape of Lord).<sup><a id="cite21"></a>[[21]](#ref21), <a id="cite63"></a>[[63]](#ref63)</sup>
+- Introduction of 2<sup>nd</sup> Level Wings (Wings of Dragon, Wings of Soul, Wings of Spirit, Wings of Darkness).<sup><a id="cite21"></a>[[21]](#ref21), <a id="cite63"></a>[[63]](#ref63)</sup>
 
 - Added Dark Phoenix set, Dark Breaker (Spirit Sword), Divine set, Celestial Bow, Crystal Staff (Dragon Soul Staff), Grand Soul set, Thunder set, Thunder Blade.<sup><a id="cite39"></a>[[39]](#ref39)</sup>
 
