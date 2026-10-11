@@ -12,6 +12,7 @@ Live links were preserved via **Wayback Machine - Internet Archive** if the link
 
 # **ADDITIONAL INFORMATION**
 - For **Global MU Online (GMO)** history use: **https://www.muonline.com/** and **https://company.webzen.com/en/pr**
+  - The content of seasons matches the corresponding seasons of MU Korea. Global MU Online (GMO) follows a delayed release schedule of seasons.
 
 # **AUTHOR**
 Created and compiled by **Demiurgs**
