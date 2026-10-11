@@ -7,8 +7,8 @@
 
 **The full reference list can be viewed at the end of the document.**
 
-- Live links were preserved via **Wayback Machine - Internet Archive** if the link-website was archivable.
-  - MU Korea (muonline.co.kr) website is not archivable at the moment. Therefore, live links were used as references. And the patch updates were downloaded as single .mhtml file in case the website goes offline one day.
+Live links were preserved via **Wayback Machine - Internet Archive** if the link-website was archivable.
+- MU Korea (muonline.co.kr) website is not archivable at the moment. Therefore, live links were used as references. And the patch updates were downloaded as single .mhtml file in case the website goes offline one day.
 
 # **ADDITIONAL INFORMATION**
 - For **Global MU Online (GMO)** history use: **https://www.muonline.com/** and **https://company.webzen.com/en/pr**
