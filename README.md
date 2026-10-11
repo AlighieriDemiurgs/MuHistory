@@ -450,6 +450,8 @@ Created and compiled by **Demiurgs**
 - Added Great Reign Crossbow.<sup><a id="cite52"></a>[[52]](#ref52), <a id="cite452"></a>[[452]](#ref452)</sup>
 
 - Updated graphics of original Divine set, Grand Soul set and Wings of Dragon (Devil Wings).<sup><a id="cite52"></a>[[52]](#ref52)</sup>
+  - Grand Soul set color was changed from pink to white. Skirt was added on the back of the pants.
+  - Divine set lost its yellow lines and became more pink. It also had veil added to pants. Boots had spikes added. Armor design changed at shoulders and biceps.
 
 **0.97r aka 0.97.18 (16.12.2003):**
 
