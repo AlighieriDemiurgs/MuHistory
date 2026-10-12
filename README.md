@@ -2236,7 +2236,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 293. <a id="ref293"></a>[^](#cite293) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/43731?page=38&category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 
-294. <a id="ref294"></a>[^](#cite294) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/64522?category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
+294. <a id="ref294"></a>[^](#cite294) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/64522?page=1&category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 
 295. <a id="ref295"></a>[^](#cite295) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/43953?page=37&category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 
@@ -2514,11 +2514,11 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 432. <a id="ref432"></a>[^](#cite432) https://en.wikipedia.org/wiki/Tama-chan
 
-433. <a id="ref433"></a>[^](#cite433) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/6016?page=62&category=1701&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
+433. <a id="ref433"></a>[^](#cite433) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/6016?page=62&category=1701&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 
-434. <a id="ref434"></a>[^](#cite434) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/5990?page=64&category=1701&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
+434. <a id="ref434"></a>[^](#cite434) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/5990?page=64&category=1701&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 
-435. <a id="ref435"></a>[^](#cite435) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/49250?page=10&category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
+435. <a id="ref435"></a>[^](#cite435) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/49250?page=30&category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 
 436. <a id="ref436"></a>[^](#cite436) https://company.webzen.com/ko/presscenter/press/pressview?page=534&seq=2291
 
