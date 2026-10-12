@@ -373,7 +373,12 @@ Created and compiled by **Demiurgs**
   
 **0.95.? (06.08.2003):**
 
-- Added Golden Dragon Invasion (Box of Kundun) event. Box of Kundun +5 drops Dragon set, Guardian set, Legendary set, Dragon Shield, weapons and accessories.<sup><a id="cite49"></a>[[49]](#ref49), <a id="cite59"></a>[[59]](#ref59), <a id="cite449"></a>[[449]](#ref449)</sup>
+- Added Counterattack of the Golden Elite Troop (Box of Kundun) event. A Box of Kundun could drop either Zen, a jewel, or a normal or excellent item.<sup><a id="cite49"></a>[[49]](#ref49), <a id="cite59"></a>[[59]](#ref59), <a id="cite449"></a>[[449]](#ref449)</sup>
+  - Golden Goblin (Lorencia, Noria; Box of Kundun +1)
+  - Golden Titan & Golden Soldier (Devias; Box of Kundun +2)
+  - Golden Dercon (Dragon) (Lorencia, Noria, Devias; Box of Kundun +3)
+  - Golden Lizard King & Golden Vepar (Atlans; Box of Kundun +4) 
+  - Golden Tantalos & Golden Wheel (Tarkan; Box of Kudun +5)
 
 - Party level gap increased from 120 to 130.<sup><a id="cite49"></a>[[49]](#ref49), <a id="cite59"></a>[[59]](#ref59)</sup>
 
