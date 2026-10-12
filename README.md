@@ -2354,7 +2354,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 352. <a id="ref352"></a>[^](#cite352) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/52850?page=23&category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 
-353. <a id="ref353"></a>[^](#cite353) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/53188?category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
+353. <a id="ref353"></a>[^](#cite353) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/53188?page=24&category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 
 354. <a id="ref354"></a>[^](#cite354) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/53190?page=23&category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 
@@ -2368,7 +2368,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 359. <a id="ref359"></a>[^](#cite359) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/54549?page=21&category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 
-360. <a id="ref360"></a>[^](#cite360) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/54551?_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
+360. <a id="ref360"></a>[^](#cite360) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/54551?page=22&category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 
 361. <a id="ref361"></a>[^](#cite361) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/55029?page=20&category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 
@@ -2390,7 +2390,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 370. <a id="ref370"></a>[^](#cite370) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/55239?page=18&category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 
-371. <a id="ref371"></a>[^](#cite371) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/55927?category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
+371. <a id="ref371"></a>[^](#cite371) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/55927?page=18&category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 
 372. <a id="ref372"></a>[^](#cite372) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/55929?page=17&category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 
@@ -2402,7 +2402,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 376. <a id="ref376"></a>[^](#cite376) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/56134?page=16&category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 
-377. <a id="ref377"></a>[^](#cite377) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/56161?category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
+377. <a id="ref377"></a>[^](#cite377) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/56161?page=17&category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 
 378. <a id="ref378"></a>[^](#cite378) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/56162?page=16&category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 
