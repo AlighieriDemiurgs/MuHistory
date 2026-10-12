@@ -7,11 +7,11 @@
 
 **The full reference list can be viewed at the end of the document.**
 
-Live links were preserved via **Wayback Machine - Internet Archive** if the link-website was archivable.
+Live links were preserved via **Wayback Machine - Internet Archive** if the link could be archived.
 - MU Korea (muonline.co.kr) website is not archivable at the moment. Therefore, live links were used as references. And the patch updates were downloaded as single .mhtml file in case the website goes offline one day.
 
 # **ADDITIONAL INFORMATION**
-- For **Global MU Online (GMO)** history use: **https://www.muonline.com/** and **https://company.webzen.com/en/pr**
+- For **Global MU Online (GMO)** history use: **https://www.muonline.com/** and **https://company.webzen.com/en/pr** and **https://muonline.webzen.com/en**
   - The content of seasons matches the corresponding seasons of MU Korea. Global MU Online (GMO) follows a delayed release schedule of seasons.
 
 # **AUTHOR**
@@ -50,7 +50,7 @@ Created and compiled by **Demiurgs**
 - **[Season 11 Part 2-2 (09.06.2016 - 01.11.2016)](#S11E2-2)**
 - **[Season 12 Part 1-1 (01.11.2016 - 17.11.2016)](#S12E1-1)**
 - **[Season 12 Part 1-2 (17.11.2016 - 23.05.2017)](#S12E1-2)**
-- **[Season 12 Part 2 (23.05.2017 - 24.10.2017)](#S12)**
+- **[Season 12 Part 2 (23.05.2017 - 24.10.2017)](#S12E2)**
 - **[Season 13 Part 1-1 (24.10.2017 - 14.11.2017)](#S13E1-1)**
 - **[Season 13 Part 1-2 (14.11.2017 - 16.05.2018)](#S13E1-2)**
 - **[Season 13 Part 2-1 (16.05.2018 - 07.06.2018)](#S13E2-1)** 
@@ -1078,7 +1078,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 [⬆ Back to Top](#content)
 
-<a id="S12"></a>
+<a id="S12E2"></a>
 # **Season 12 Part 2 (23.05.2017 - 24.10.2017)**
 
 - Introduction of 4<sup>th</sup> Class Quests (Dragon Knight, Soul Wizard, Noble Elf, Magic Knight, Empire Lord, Dimension Master, Fist Blazer, Shining Lancer). Level requirement of 800.<sup><a id="cite274"></a>[[274]](#ref274)</sup>
