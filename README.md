@@ -359,7 +359,7 @@ Created and compiled by **Demiurgs**
 
 - Introduction of Jewel of Creation (JoC).<sup><a id="cite36"></a>[[36]](#ref36), <a id="cite62"></a>[[62]](#ref62)</sup>
 
-- Introduction of Horn of Dinorant.<sup><a id="cite39"></a>[[39]](#ref39), <a id="cite62"></a>[[62]](#ref62)</sup>
+- Introduction of Horn of Dinorant.<sup><a id="cite21"></a>[[21]](#ref21), <a id="cite62"></a>[[62]](#ref62)</sup>
 
 **0.94k aka 0.94.11 (17.06.2003):**
 
@@ -387,7 +387,7 @@ Created and compiled by **Demiurgs**
 
 - Introduction of 2<sup>nd</sup> Level Wings (Wings of Dragon, Wings of Soul, Wings of Spirit, Wings of Darkness).<sup><a id="cite21"></a>[[21]](#ref21), <a id="cite63"></a>[[63]](#ref63)</sup>
 
-- Added Dark Phoenix set, Dark Breaker (Spirit Sword), Divine set, Celestial Bow, Crystal Staff (Dragon Soul Staff), Grand Soul set, Thunder set, Thunder Blade.<sup><a id="cite39"></a>[[39]](#ref39)</sup>
+- Added Dark Phoenix set, Dark Breaker (Spirit Sword), Divine set, Celestial Bow, Crystal Staff (Dragon Soul Staff), Grand Soul set, Thunder set, Thunder Blade.<sup><a id="cite21"></a>[[21]](#ref21)</sup>
 
 - Added Impale skill (Horn of Uniria + Spear weapon for Dark Knight).<sup><a id="cite23"></a>[[23]](#ref23)</sup>
 
@@ -1608,8 +1608,8 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 <a id="S22E1-1"></a>
 # **Season 22 Part 1-1 (15.09.2026 - …)**
 
-- Re-work of character Dark Knight (DK), Rage Fighter (RF), Magic Gladiator (MG), Slayer.<sup><a id="cite491"></a>[[491]](#ref491), <a id="cite492"></a>[[492]](#ref492)</sup>
-- Improvements to Hunting Log.<sup><a id="cite491"></a>[[491]](#ref491), <a id="cite492"></a>[[492]](#ref492)</sup>
+- Re-work of character Dark Knight (DK), Rage Fighter (RF), Magic Gladiator (MG), Slayer.<sup><a id="cite491"></a>[[491]](#ref491), <a id="cite39"></a>[[39]](#ref39)</sup>
+- Improvements to Hunting Log.<sup><a id="cite491"></a>[[491]](#ref491), <a id="cite39"></a>[[39]](#ref39)</sup>
 
 [⬆ Back to Top](#content)
 
@@ -1698,7 +1698,9 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 38. <a id="ref38"></a>[^](#cite38) https://web.archive.org/web/20021012064325/http://www.muonline.co.kr:80/news/news/read.asp?ann__guid=584&f_keyWord=&f_sekey=
 
-39. <a id="ref39"></a>[^](#cite39) https://web.archive.org/web/20030814230308/http://www.muonline.co.kr/news/news/read.asp?ann__guid=1291
+39. <a id="ref39></a>[^](#cite39) https://company.webzen.com/ko/presscenter/press/pressview?page=1&seq=6977
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260922152727/https://company.webzen.com/ko/presscenter/press/pressview?page=1&seq=6977
 
 40. <a id="ref40"></a>[^](#cite40) https://web.archive.org/web/20030207014300/http://www.muonline.co.kr/news/update_patch/read.asp?ann__guid=294&f_keyWord=&f_sekey=
 
@@ -2735,9 +2737,5 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 - Wayback Machine - Internet Archive: https://web.archive.org/web/20260826190344/https://company.webzen.com/ko/presscenter/press/pressview?page=403&seq=2952
 
 491. <a id="ref491"></a>[^](#cite491) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/64522?category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
-
-492. <a id="ref492"></a>[^](#cite492) https://company.webzen.com/ko/presscenter/press/pressview?page=1&seq=6977
-
-- Wayback Machine - Internet Archive: https://web.archive.org/web/20260922152727/https://company.webzen.com/ko/presscenter/press/pressview?page=1&seq=6977
 
 [⬆ Back to Top](#references)
