@@ -329,7 +329,7 @@ Created and compiled by **Demiurgs**
 
 **0.?? (14.02.2003):**
 
-- Introduction of Gold Party bonus. Each party member gets aditional experience if the party contains a DK/BK + DW/SM + FE/ME. No mention of Magic Gladiator (MG). It was not referred to as Gold Party by Webzen though.<sup><a id="cite47"></a>[[47]](#ref47)</sup>
+- Introduction of Gold Party bonus. Each party member gets additional experience if the party contains a DK/BK + DW/SM + FE/ME. No mention of Magic Gladiator (MG). It was not referred to as Gold Party by Webzen though.<sup><a id="cite47"></a>[[47]](#ref47)</sup>
 
 **0.91 aka 0.91.0 (05.03.2003):**
 
@@ -517,7 +517,7 @@ Created and compiled by **Demiurgs**
 
 **0.99g aka 0.99.7 (22.06.2004):**
 
-- Ancient Set items become undropable.<sup><a id="cite96"></a>[[96]](#ref96)</sup>
+- Ancient Set items become undroppable.<sup><a id="cite96"></a>[[96]](#ref96)</sup>
 
 - Bug fixes.<sup><a id="cite96"></a>[[96]](#ref96)</sup>
 
@@ -767,9 +767,9 @@ MU Korea (muonline.co.kr) did not use this terminology. These were just two upda
 
 - Introduction of NPC Moss the Gambler in Elveland and new items (Excellent Brova, Excellent Striker Scepter, Excellent Aileen Bow, Excellent Chromatic Staff, Excellent Raven Stick).<sup><a id="cite158"></a>[[158]](#ref158), <a id="cite468"></a>[[468]](#ref468)</sup>
 - Added map Vulcanus (incl. Duel Arena aka the Colosseum, Gladiator's Honor buff). Entry level requirement of 30.<sup><a id="cite157"></a>[[157]](#ref157), <a id="cite468"></a>[[468]](#ref468)</sup>
-- Introduction of the new Duel System: all Duels between players automatically now take place in Dual Arena aka the Colosesum.<sup><a id="cite157"></a>[[157]](#ref157)</sup>
+- Introduction of the new Duel System: all Duels between players automatically now take place in Dual Arena aka the Colosseum.<sup><a id="cite157"></a>[[157]](#ref157)</sup>
 
-**Additional update #1 for Season 4.5 (11.06.2008):**
+**Additional update #1 for Season 4.5 (11.06.2009):**
 - Stat modification to Divine Archangel weapons. Changes to Chaos Castle rewards. Jewel of Chaos added as a drop in map Vulcanus.<sup><a id="cite469"></a>[[469]](#ref469)</sup>
 - PC/HWID limit removed, allowing players to run multi-clients.<sup><a id="cite469"></a>[[469]](#ref469)</sup>
 
@@ -791,7 +791,7 @@ MU Korea (muonline.co.kr) did not use this terminology. These were just two upda
 
 - Introduction of Gens System.<sup><a id="cite163"></a>[[163]](#ref163), <a id="cite472"></a>[[472]](#ref472)</sup>
 - Introduction of Cash Item Shop (X-Shop) and Goblin Points (GP), which replace PC bang point system.<sup><a id="cite165"></a>[[165]](#ref165), <a id="cite472"></a>[[472]](#ref472)</sup>
-- Introduction of Small Wings (0 Level Wings): Small Wings of Satan, Small Wings of Heaven, Small Wings of Elf, Small Cape of Lord, Small Wing of Curse (Small Wings of Mistery).<sup><a id="cite165"></a>[[165]](#ref165)</sup>
+- Introduction of Small Wings (0 Level Wings): Small Wings of Satan, Small Wings of Heaven, Small Wings of Elf, Small Cape of Lord, Small Wing of Curse (Small Wings of Mystery).<sup><a id="cite165"></a>[[165]](#ref165)</sup>
   - MU Korea (muonline.co.kr) did not announce Small Wings update-patch separately. Cash Item Shop (X-Shop) was introduced on Season 5 Part 2. Although this update does not mention Small Wings, it includes photos of Small Wings in the Cash Item Shop (X-Shop). In addition, Small Wings were initially obtainable from Cash Item Shop (X-Shop), not in-game. All in all, it is safe to assume that Small Wings were introduced on Season 5 Part 2 together with Cash Item Shop (X-Shop), not before that.
 - Addition of new Elf Soldier (Shadow Phantom Soldier) beginner quests.<sup><a id="cite164"></a>[[164]](#ref164)</sup>
 
@@ -964,7 +964,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 # **Season X Part 1 (19.08.2014 - 16.12.2014)**
 
 - Introduction of 8<sup>th</sup> character: Grow Lancer.<sup><a id="cite231"></a>[[231]](#ref231), <a id="cite93"></a>[[93]](#ref93), <a id="cite81"></a>[[81]](#ref81)</sup>
-- Introduction of Grow Lancer items: Lapid Lance, Conmocion Lance, Pluma Lance, Prickle Lance, Alacran Lance, Vis Lance, Lapid Shield, Pluma Shield, Robust set, Gru Hill set, Princie set, 1<sup>st</sup> Level Wings (Cloack of Limit), 3<sup>rd</sup> Level Wings (Cloak of Transcendence).<sup><a id="cite231"></a>[[231]](#ref231)</sup>
+- Introduction of Grow Lancer items: Lapid Lance, Conmocion Lance, Pluma Lance, Prickle Lance, Alacran Lance, Vis Lance, Lapid Shield, Pluma Shield, Robust set, Gru Hill set, Princie set, 1<sup>st</sup> Level Wings (Cloak of Limit), 3<sup>rd</sup> Level Wings (Cloak of Transcendence).<sup><a id="cite231"></a>[[231]](#ref231)</sup>
   - Small Cloack of Limit (0 Level Wings) for Grow Lancer is likely added as well. It is not announced by MU Korea (muonline.co.kr) though.
 - Maximum level cap raised from 750 to 770 (Master Level 370).<sup><a id="cite232"></a>[[232]](#ref232), <a id="cite93"></a>[[93]](#ref93), <a id="cite81"></a>[[81]](#ref81)</sup>
 - Addition of new Master Skill Tree skills. Update to existing Master Skill Tree skills. Changes to Master Skill Tree User Interface (UI).<sup><a id="cite229"></a>[[229]](#ref229), <a id="cite93"></a>[[93]](#ref93), <a id="cite81"></a>[[81]](#ref81)</sup>
@@ -999,7 +999,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 - Introduction of Skill Imprint system.<sup><a id="cite242"></a>[[242]](#ref242)</sup>
 - Expansion of Pentagram and Elemental system. Introduction of the Errtel of Radiance as the fifth slot in Pentagram system in addition to the previous four slots: Errtel of Anger, Errtel of Blessing, Errtel of Integrity and Errtel of Divinity. Changes to Pentagram item drop.<sup><a id="cite243"></a>[[243]](#ref243), <a id="cite244"></a>[[244]](#ref244)</sup>
-- Overhaul to item drop locations and monsters accross most maps.<sup><a id="cite245"></a>[[245]](#ref2451)</sup>
+- Overhaul to item drop locations and monsters across most maps.<sup><a id="cite245"></a>[[245]](#ref2451)</sup>
 
 **Additional update for Season X Part 3 (04.06.2015):**
 - Acheron entry level requirement lowered to level 300.<sup><a id="cite246"></a>[[246]](#ref246)</sup>
@@ -1499,7 +1499,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
   - Alchemist's Socket Items (lvl 380): Amber Wand, Integrity set.<sup><a id="cite402"></a>[[402]](#ref402)</sup>
   - Alchemist's Mastery Socket Items (lvl 400): Morganite Wand, Justice set.<sup><a id="cite402"></a>[[402]](#ref402)</sup>
 - Introduction of 2<sup>nd</sup> Mastery Set - Darkangel (level 600) for Alchemist. Introduction of 3<sup>rd</sup> Mastery Set - Holyangel (level 800) for Alchemist. Introduction of 4<sup>th</sup> Mastery Set - Awakening Soul (level 900) for Alchemist. Introduction of 5<sup>th</sup> Mastery Set - Frosty Blue Eye (level 1000) for Alchemist. Introduction of 6<sup>th</sup> Mastery Set - Forefather's Silver Heart (level 1100) for Alchemist. Introduction of 7<sup>th</sup> Mastery Set - Roaring Manticore (level 1200) for Alchemist. Introduction of 8<sup>th</sup> Mastery Set - Celestial Brilliant (level 1300) for Alchemist. Introduction of 9<sup>th</sup> Mastery Set - Crimson Apocalypse (level 1400) for Alchemist. Introduction of 10<sup>th</sup> Mastery Set - Ancient Lightning (level 1500) for Alchemist.<sup><a id="cite402"></a>[[402]](#ref402)</sup>
-- Introduction of 1<sup>st</sup> Mastery Weapon - Bloodangel (level 400) for Alchemist. Introduction of 2<sup>nd</sup> Mastery Weapon - Darkangel (level 600) for Alchemist. Introduction of 3<sup>rd</sup> Mastery Weapon - Holyangel (level 800) Alchemist. Introduction of 4<sup>th</sup> Mastery Weapon - Soul (level 900) Alchemist. Introduction of 5<sup>th</sup> Mastery Weapon - Blue Eye (level 1000) for Alchemist. Introduction of 6<sup>th</sup> Mastery Weapon - Silver Heart (level 1100) for Alchemist. Introduction of 7<sup>th</sup> Mastery Weapon - Manticore (level 1200) for Alchemist. Introduction of 8<sup>th</sup> Mastery Weapon - Brilliant (level 1300) for Alchemist. Introduction of 9<sup>th</sup> Mastery Weapon - Apocalypse (level 1400) for Alchemist. Introduction of 10<sup>th</sup> Mastery Weapon - Lightning (level 1500) for Alchemist. Introduction of Blessed Divine Want of Archangel.<sup><a id="cite402"></a>[[402]](#ref402)</sup>
+- Introduction of 1<sup>st</sup> Mastery Weapon - Bloodangel (level 400) for Alchemist. Introduction of 2<sup>nd</sup> Mastery Weapon - Darkangel (level 600) for Alchemist. Introduction of 3<sup>rd</sup> Mastery Weapon - Holyangel (level 800) Alchemist. Introduction of 4<sup>th</sup> Mastery Weapon - Soul (level 900) Alchemist. Introduction of 5<sup>th</sup> Mastery Weapon - Blue Eye (level 1000) for Alchemist. Introduction of 6<sup>th</sup> Mastery Weapon - Silver Heart (level 1100) for Alchemist. Introduction of 7<sup>th</sup> Mastery Weapon - Manticore (level 1200) for Alchemist. Introduction of 8<sup>th</sup> Mastery Weapon - Brilliant (level 1300) for Alchemist. Introduction of 9<sup>th</sup> Mastery Weapon - Apocalypse (level 1400) for Alchemist. Introduction of 10<sup>th</sup> Mastery Weapon - Lightning (level 1500) for Alchemist. Introduction of Blessed Divine Wand of Archangel.<sup><a id="cite402"></a>[[402]](#ref402)</sup>
 - Introduction of Amber Elixir, Morganite Elixir, Bloodangel Elixir, Darkangel Elixir, Holyangel Elixir, Soul Elixir, Blue Eye Elixir, Silver Heart Elixir, Manticore Elixir, Brilliant Elixir, Apocalypse Elixir, Lightning Elixir.<sup><a id="cite402"></a>[[402]](#ref402)</sup>
 
 [⬆ Back to Top](#content)
@@ -1559,7 +1559,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 - Introduction of 2<sup>nd</sup> Legendary Set - Imperial (level 1600) for all characters except Crusader.<sup><a id="cite418"></a>[[418]](#ref418)</sup>
 - Introduction of 3<sup>rd</sup> Level Wings (Cloak of Desire) for Crusader. Introduction of 4<sup>th</sup> Level Wings (Cloak of Sanctuary) for Crusader. Introduction of 5<sup>th</sup> Level Wings (Cloak of Light) for Crusader.<sup><a id="cite415"></a>[[415]](#ref415)</sup>
 - Introduction of Socket Items (lvl 380) and Mastery Socket Items (lvl 400) for Crusader.<sup><a id="cite415"></a>[[415]](#ref415)</sup>
-  - Crusaders's Socket Items (lvl 380): Blast Hammer, Blast Shield, Trust (?) set.<sup><a id="cite415"></a>[[415]](#ref415)</sup>
+  - Crusader's Socket Items (lvl 380): Blast Hammer, Blast Shield, Trust (?) set.<sup><a id="cite415"></a>[[415]](#ref415)</sup>
   - Crusader's Mastery Socket Items (lvl 400): Belief Hammer, Belief Shield, Saint (?) set.<sup><a id="cite415"></a>[[415]](#ref415)</sup>
 - Introduction of 2<sup>nd</sup> Mastery Weapon - Darkangel (level 600) for Crusader. Introduction of 3<sup>rd</sup> Mastery Weapon - Holyangel (level 800) Crusader. Introduction of 4<sup>th</sup> Mastery Weapon - Soul (level 900) Crusader. Introduction of 5<sup>th</sup> Mastery Weapon - Blue Eye (level 1000) for Crusader. Introduction of 6<sup>th</sup> Mastery Weapon - Silver Heart (level 1100) for Crusader. Introduction of 7<sup>th</sup> Mastery Weapon - Manticore (level 1200) for Crusader. Introduction of 8<sup>th</sup> Mastery Weapon - Brilliant (level 1300) for Crusader. Introduction of 9<sup>th</sup> Mastery Weapon - Apocalypse (level 1400) for Crusader. Introduction of 10<sup>th</sup> Mastery Weapon - Lightning (level 1500) for Crusader. Introduction of Blessed Divine Hammer of Archangel for Crusader. Introduction of 1<sup>st</sup> Legendary Weapon and Shield - Temple Guard (level 1500) for Crusader.<sup><a id="cite415"></a>[[415]](#ref415)</sup>
 - Introduction of 2<sup>nd</sup> Mastery Set - Darkangel (level 600) for Crusader. Introduction of 3<sup>rd</sup> Mastery Set - Holyangel (level 800) for Crusader. Introduction of 4<sup>th</sup> Mastery Set - Awakening Soul (level 900) for Crusader. Introduction of 5<sup>th</sup> Mastery Set - Frosty Blue Eye (level 1000) for Crusader. Introduction of 6<sup>th</sup> Mastery Set - Forefather's Silver Heart (level 1100) for Crusader. Introduction of 7<sup>th</sup> Mastery Set - Roaring Manticore (level 1200) for Crusader. Introduction of 8<sup>th</sup> Mastery Set - Celestial Brilliant (level 1300) for Crusader. Introduction of 9<sup>th</sup> Mastery Set - Crimson Apocalypse (level 1400) for Crusader. Introduction of 10<sup>th</sup> Mastery Set - Ancient Lightning (level 1500) for Crusader. Introduction of 1<sup>st</sup> Legendary Set - Sanctuary Temple Guard (level 1500) for Crusader.<sup><a id="cite415"></a>[[415]](#ref415)</sup>
