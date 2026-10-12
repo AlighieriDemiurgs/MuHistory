@@ -8,7 +8,7 @@
 **The full reference list can be viewed at the end of the document.**
 
 Live links were preserved via **Wayback Machine - Internet Archive** if the link could be archived.
-- MU Korea (muonline.co.kr) website is not archivable at the moment. Therefore, live links were used as references. And the patch updates were downloaded as single .mhtml file in case the website goes offline one day.
+- MU Korea (muonline.co.kr) website is not archivable at the moment. Therefore, live links were used as references and the patch updates were downloaded as single .mhtml file in case the website goes offline one day.
 
 # **ADDITIONAL INFORMATION**
 - For **Global MU Online (GMO)** history use: **https://www.muonline.com/** and **https://company.webzen.com/en/pr** and **https://muonline.webzen.com/en**
@@ -1127,7 +1127,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 # **Season 13 Part 2-2 (07.06.2018 - 16.10.2018)**
 
 - Addition of Divine Claw of Archangel and Blessed Divine Claw of Archangel for Rage Fighter.<sup><a id="cite290"></a>[[290]](#ref290)</sup>
-- New rules and clasification of buffs.<sup><a id="cite291"></a>[[291]](#ref291)</sup>
+- New rules and classification of buffs.<sup><a id="cite291"></a>[[291]](#ref291)</sup>
 - Introduction of MU Lite.<sup><a id="cite292"></a>[[292]](#ref292)</sup>
 
 [⬆ Back to Top](#content)
@@ -1136,7 +1136,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 # **Season 14 Part 1-1 (16.10.2018 - 29.11.2018)**
 
 - Introduction of 9<sup>th</sup> character: Rune Mage.<sup><a id="cite293"></a>[[293]](#ref293)</sup>
-- Introduction of Rune Mage items: El Haz Rune Mace, Frost Rune Mace, Light Lord Rune Mace, Divine Rune Mace of Archangel, Blessed Divine Rune Mace of Archangel, 1<sup>st</sup> Mastery Weapon - Bloodangel Rune Mace (level 400), 2<sup>nd</sup> Mastery Weapon - Darkangel Rune Mace (level 600), El Haz Shield, Rune Padded set, Rune Sphinx set, Legendary Rune set, Kenaz set, Divine Rune set, Light Lord Rune set, 1<sup>st</sup> Mastery Set - Bloodangel Rune mage set (level 400), 2<sup>nd</sup> Mastery Set - Darkangel Rune Mage set (level 600), 3<sup>rd</sup> Level Wings (Wings of Disillusion).<sup><a id="cite293"></a>[[293]](#ref293)</sup>
+- Introduction of Rune Mage items: El Haz Rune Mace, Frost Rune Mace, Light Lord Rune Mace, Divine Rune Mace of Archangel, Blessed Divine Rune Mace of Archangel, 1<sup>st</sup> Mastery Weapon - Bloodangel Rune Mace (level 400), 2<sup>nd</sup> Mastery Weapon - Darkangel Rune Mace (level 600), El Haz Shield, Rune Padded set, Rune Sphinx set, Legendary Rune set, Kenaz set, Divine Rune set, Light Lord Rune set, 1<sup>st</sup> Mastery Set - Bloodangel Rune Mage set (level 400), 2<sup>nd</sup> Mastery Set - Darkangel Rune Mage set (level 600), 3<sup>rd</sup> Level Wings (Wings of Disillusion).<sup><a id="cite293"></a>[[293]](#ref293)</sup>
 - New skills added for Rune Mage.<sup><a id="cite293"></a>[[293]](#ref293)</sup>
 - Introduction of simple Jewel stacking and unstacking in your own inventory. Previously the old system introduced during late Season 0 at NPC Lahap existed.<sup><a id="cite295"></a>[[295]](#ref295)</sup>
 - Gold withdrawal and deposit limit in the bank is raised from 100kk to 1kkk.<sup><a id="cite295"></a>[[295]](#ref295)</sup>
@@ -1218,7 +1218,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 - Introduction of 4<sup>th</sup> Mastery Weapon: Soul (level 900) for Slayer. Introduction of 5<sup>th</sup> Mastery Weapon: Blue Eye (level 1000) for Slayer.<sup><a id="cite315"></a>[[315]](#ref315)</sup>
 - Introduction of 4<sup>th</sup> Mastery Set: Awakening Soul (level 900) for Rune Mage. Introduction of 5<sup>th</sup> Mastery Set: Frosty Blue Eye (level 1000) for Slayer.<sup><a id="cite315"></a>[[315]](#ref315)</sup>
 - Changes to event entry level requirements and rewards.<sup><a id="cite316"></a>[[316]](#ref316)</sup>
-- Added Elite Zone in map Scorched Canyon and Elite monsters Scorched Warrior, Scorched Wizard, Scorched Assasin.<sup><a id="cite317"></a>[[317]](#ref317)</sup>
+- Added Elite Zone in map Scorched Canyon and Elite monsters Scorched Warrior, Scorched Wizard, Scorched Assassin.<sup><a id="cite317"></a>[[317]](#ref317)</sup>
 - Expansion of Skill Enhancement Trees. Changes to skills.<sup><a id="cite318"></a>[[318]](#ref318)</sup>
 
 [⬆ Back to Top](#content)
@@ -1371,7 +1371,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 # **Season 18 Part 1-1 (27.09.2022 - 20.10.2022)**
 
 - Introduction of 14<sup>th</sup> character: Illusion Knight.<sup><a id="cite361"></a>[[361]](#ref361)</sup>
-- Introduction of Illusion Knight items: Silver Blade, Xeno Blade, Diine Blade of Archangel, Illusion Knight Scale set, Illusion Knight Plate set, Steel Plate set, Black Origin set, 1<sup>st</sup> Mastery Set - Bloodangel Illusion Knight set (level 400), 1<sup>st</sup> Level Wings (Iron Cloak), 2<sup>nd</sup> Level Wings (Black Cloak).<sup><a id="cite361"></a>[[361]](#ref361)</sup>
+- Introduction of Illusion Knight items: Silver Blade, Xeno Blade, Divine Blade of Archangel, Illusion Knight Scale set, Illusion Knight Plate set, Steel Plate set, Black Origin set, 1<sup>st</sup> Mastery Set - Bloodangel Illusion Knight set (level 400), 1<sup>st</sup> Level Wings (Iron Cloak), 2<sup>nd</sup> Level Wings (Black Cloak).<sup><a id="cite361"></a>[[361]](#ref361)</sup>
 
 [⬆ Back to Top](#content)
 
@@ -1444,7 +1444,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 # **Season 19 Part 1-3 (01.11.2023 - 30.04.2024)**
 
 - Introduction of 5<sup>th</sup> Class Quests for all characters. Level requirement of 1200.<sup><a id="cite384"></a>[[384]](#ref384)</sup>
-- Introduction of 5<sup>th</sup> Level Wings (Wings of Lightbringer, Wings of Kanade, Wings of Madoka, Wings of the Breaker, Wings of Curse, Wings of Justicar, Wings of Crepuscular, Wings of Crystal, Wings of Magicshot, Wings of Rebellion) and Capes (Cloak of Royalty, Cloak of Fury, Cloak of Rebelion, Cloak of Night) for all characters.<sup><a id="cite385"></a>[[385]](#ref385)</sup>
+- Introduction of 5<sup>th</sup> Level Wings (Wings of Lightbringer, Wings of Kanade, Wings of Madoka, Wings of the Breaker, Wings of Curse, Wings of Justicar, Wings of Crepuscular, Wings of Crystal, Wings of Magicshot, Wings of Rebellion) and Capes (Cloak of Royalty, Cloak of Fury, Cloak of Rebellion, Cloak of Night) for all characters.<sup><a id="cite385"></a>[[385]](#ref385)</sup>
 - Added Elite Zone in map Tormenta Island and Elite monsters Storm Guard, Storm Reaper, Storm Fiend.<sup><a id="cite386"></a>[[386]](#ref386)</sup>
 - Introduction of Ability Cards-Enhancement System.<sup><a id="cite387"></a>[[387]](#ref387)</sup>
 - Introduction of Top Grade Spirit Stone. Changes to map entry level requirements.<sup><a id="cite388"></a>[[388]](#ref388)</sup>
