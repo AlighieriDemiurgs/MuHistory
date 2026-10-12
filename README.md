@@ -156,7 +156,7 @@ Created and compiled by **Demiurgs**
 
 - Introduction of Item Options.<sup><a id="cite7"></a>[[7]](#ref7)</sup>
 
-- Added Switch Character option at 'Esc'.<sup><a id="cite81"></a>[[81]](#ref81)</sup>
+- Added Switch Character option at 'Esc'.<sup><a id="cite7"></a>[[7]](#ref7)</sup>
 
 **0.44 aka 0.44.0 (04.11.2001):**
 
@@ -323,9 +323,9 @@ Created and compiled by **Demiurgs**
 
 **0.89c aka 0.89.3 (11.02.2003):**
 
-- Introduction of Devil Square (DS) 1-4.<sup><a id="cite17"></a>[[17]](#ref17), <a id="cite93"></a>[[93]](#ref93)</sup>
+- Introduction of Devil Square (DS) 1-4.<sup><a id="cite17"></a>[[17]](#ref17)</sup>
 
-- Added Heart of Love. Introduced as part of Valentine's Day event that ran from 11<sup>th</sup> February 2003 to 16<sup>th</sup> February 2003.<sup><a id="cite17"></a>[[17]](#ref17), <a id="cite93"></a>[[93]](#ref93)</sup>
+- Added Heart of Love. Introduced as part of Valentine's Day event that ran from 11<sup>th</sup> February 2003 to 16<sup>th</sup> February 2003.<sup><a id="cite17"></a>[[17]](#ref17)</sup>
 
 **0.?? (14.02.2003):**
 
@@ -963,11 +963,11 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 <a id="S10E1"></a>
 # **Season X Part 1 (19.08.2014 - 16.12.2014)**
 
-- Introduction of 8<sup>th</sup> character: Grow Lancer.<sup><a id="cite231"></a>[[231]](#ref231), <a id="cite489"></a>[[489]](#ref489), <a id="cite490"></a>[[490]](#ref490)</sup>
+- Introduction of 8<sup>th</sup> character: Grow Lancer.<sup><a id="cite231"></a>[[231]](#ref231), <a id="cite93"></a>[[93]](#ref93), <a id="cite81"></a>[[81]](#ref81)</sup>
 - Introduction of Grow Lancer items: Lapid Lance, Conmocion Lance, Pluma Lance, Prickle Lance, Alacran Lance, Vis Lance, Lapid Shield, Pluma Shield, Robust set, Gru Hill set, Princie set, 1<sup>st</sup> Level Wings (Cloack of Limit), 3<sup>rd</sup> Level Wings (Cloak of Transcendence).<sup><a id="cite231"></a>[[231]](#ref231)</sup>
   - Small Cloack of Limit (0 Level Wings) for Grow Lancer is likely added as well. It is not announced by MU Korea (muonline.co.kr) though.
-- Maximum level cap raised from 750 to 770 (Master Level 370).<sup><a id="cite232"></a>[[232]](#ref232), <a id="cite489"></a>[[489]](#ref489), <a id="cite490"></a>[[490]](#ref490)</sup>
-- Addition of new Master Skill Tree skills. Update to existing Master Skill Tree skills. Changes to Master Skill Tree User Interface (UI).<sup><a id="cite229"></a>[[229]](#ref229), <a id="cite489"></a>[[489]](#ref489), <a id="cite490"></a>[[490]](#ref490)</sup>
+- Maximum level cap raised from 750 to 770 (Master Level 370).<sup><a id="cite232"></a>[[232]](#ref232), <a id="cite93"></a>[[93]](#ref93), <a id="cite81"></a>[[81]](#ref81)</sup>
+- Addition of new Master Skill Tree skills. Update to existing Master Skill Tree skills. Changes to Master Skill Tree User Interface (UI).<sup><a id="cite229"></a>[[229]](#ref229), <a id="cite93"></a>[[93]](#ref93), <a id="cite81"></a>[[81]](#ref81)</sup>
 - Introduction of Summon Evomon and Evomon Summoning Scroll.<sup><a id="cite230"></a>[[230]](#ref230)</sup>
 - Introduction of Tormented Square (Battle) event in Battle Core realm-system.<sup><a id="cite228"></a>[[228]](#ref228)</sup>
 
@@ -1137,7 +1137,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 - Introduction of 9<sup>th</sup> character: Rune Mage.<sup><a id="cite293"></a>[[293]](#ref293)</sup>
 - Introduction of Rune Mage items: El Haz Rune Mace, Frost Rune Mace, Light Lord Rune Mace, Divine Rune Mace of Archangel, Blessed Divine Rune Mace of Archangel, 1<sup>st</sup> Mastery Weapon - Bloodangel Rune Mace (level 400), 2<sup>nd</sup> Mastery Weapon - Darkangel Rune Mace (level 600), El Haz Shield, Rune Padded set, Rune Sphinx set, Legendary Rune set, Kenaz set, Divine Rune set, Light Lord Rune set, 1<sup>st</sup> Mastery Set - Bloodangel Rune mage set (level 400), 2<sup>nd</sup> Mastery Set - Darkangel Rune Mage set (level 600), 3<sup>rd</sup> Level Wings (Wings of Disillusion).<sup><a id="cite293"></a>[[293]](#ref293)</sup>
-- New skills added for Rune Mage.<sup><a id="cite294"></a>[[294]](#ref294)</sup>
+- New skills added for Rune Mage.<sup><a id="cite293"></a>[[293]](#ref293)</sup>
 - Introduction of simple Jewel stacking and unstacking in your own inventory. Previously the old system introduced during late Season 0 at NPC Lahap existed.<sup><a id="cite295"></a>[[295]](#ref295)</sup>
 - Gold withdrawal and deposit limit in the bank is raised from 100kk to 1kkk.<sup><a id="cite295"></a>[[295]](#ref295)</sup>
 - Introduction of Switch Mode System. Improvements to MU Helper.<sup><a id="cite295"></a>[[295]](#ref295)</sup>
@@ -1608,8 +1608,8 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 <a id="S22E1-1"></a>
 # **Season 22 Part 1-1 (15.09.2026 - …)**
 
-- Re-work of character Dark Knight (DK), Rage Fighter (RF), Magic Gladiator (MG), Slayer.<sup><a id="cite491"></a>[[491]](#ref491), <a id="cite39"></a>[[39]](#ref39)</sup>
-- Improvements to Hunting Log.<sup><a id="cite491"></a>[[491]](#ref491), <a id="cite39"></a>[[39]](#ref39)</sup>
+- Re-work of character Dark Knight (DK), Rage Fighter (RF), Magic Gladiator (MG), Slayer.<sup><a id="cite294"></a>[[294]](#ref294), <a id="cite39"></a>[[39]](#ref39)</sup>
+- Improvements to Hunting Log.<sup><a id="cite294"></a>[[294]](#ref294), <a id="cite39"></a>[[39]](#ref39)</sup>
 
 [⬆ Back to Top](#content)
 
@@ -1628,7 +1628,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 6. <a id="ref6"></a>[^](#cite6) https://web.archive.org/web/20011115120557/http://www.muonline.co.kr/news/news/read.asp?ann__guid=27&f_keyWord=&f_sekey=
 
-7. <a id="ref7"></a>[^](#cite7) https://web.archive.org/web/20030828124643/http://www.muonline.co.kr/news/update_patch/read.asp?ann__guid=99&f_keyWord=&f_sekey=
+7. <a id="ref7"></a>[^](#cite7) https://web.archive.org/web/20011227135628/http://www.muonline.co.kr/news/update_patch/read.asp?ann__guid=99&f_keyWord=&f_sekey=
 
 8. <a id="ref8"></a>[^](#cite8) https://web.archive.org/web/20040308214658/http://www.muonline.co.kr/news/update_patch/read.asp?ann__guid=122&f_keyWord=&f_sekey=
 
@@ -1648,7 +1648,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 16. <a id="ref16"></a>[^](#cite16) https://web.archive.org/web/20040218155953/http://www.muonline.co.kr/news/update_patch/read.asp?ann__guid=291&f_keyWord=&f_sekey=
 
-17. <a id="ref17"></a>[^](#cite17) https://web.archive.org/web/20040611070010/http://www.muonline.co.kr/news/update_patch/read.asp?ann__guid=295&f_keyWord=&f_sekey=
+17. <a id="ref17"></a>[^](#cite17) https://web.archive.org/web/20030414232705/http://www.muonline.co.kr/news/update_patch/read.asp?ann__guid=295&f_keyWord=&f_sekey=
 
 18. <a id="ref18"></a>[^](#cite18) https://web.archive.org/web/20040129154406/http://www.muonline.co.kr:80/news/news/read.asp?ann__guid=895&f_keyWord=&f_sekey=
 
@@ -1698,7 +1698,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 38. <a id="ref38"></a>[^](#cite38) https://web.archive.org/web/20021012064325/http://www.muonline.co.kr:80/news/news/read.asp?ann__guid=584&f_keyWord=&f_sekey=
 
-39. <a id="ref39></a>[^](#cite39) https://company.webzen.com/ko/presscenter/press/pressview?page=1&seq=6977
+39. <a id="ref39"></a>[^](#cite39) https://company.webzen.com/ko/presscenter/press/pressview?page=1&seq=6977
 
 - Wayback Machine - Internet Archive: https://web.archive.org/web/20260922152727/https://company.webzen.com/ko/presscenter/press/pressview?page=1&seq=6977
 
@@ -1786,7 +1786,9 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 80. <a id="ref80"></a>[^](#cite80) https://web.archive.org/web/20030813195327/http://www.muonline.co.kr/news/update_patch/read.asp?ann__guid=218&f_keyWord=&f_sekey=
 
-81. <a id="ref81"></a>[^](#cite81) https://web.archive.org/web/20011227135628/http://www.muonline.co.kr/news/update_patch/read.asp?ann__guid=99&f_keyWord=&f_sekey=
+81. <a id="ref81"></a>[^](#cite81) https://company.webzen.com/ko/presscenter/press/pressview?page=403&seq=2952
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260826190344/https://company.webzen.com/ko/presscenter/press/pressview?page=403&seq=2952
 
 82. <a id="ref82"></a>[^](#cite82) https://web.archive.org/web/20011105212449/http://www.muonline.co.kr/news/update_patch/read.asp?ann__guid=102&f_keyWord=&f_sekey=
 
@@ -1810,7 +1812,9 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 92. <a id="ref92"></a>[^](#cite92) https://web.archive.org/web/20031226182707/http://www.muonline.co.kr/news/update_patch/read.asp?ann__guid=271&f_keyWord=&f_sekey=
 
-93. <a id="ref93"></a>[^](#cite93) https://web.archive.org/web/20030414232705/http://www.muonline.co.kr/news/update_patch/read.asp?ann__guid=295&f_keyWord=&f_sekey=
+93. <a id="ref93"></a>[^](#cite93) https://company.webzen.com/ko/presscenter/press/pressview?page=404&seq=2948
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260826190227/https://company.webzen.com/ko/presscenter/press/pressview?page=404&seq=2948
 
 94. <a id="ref94"></a>[^](#cite94) https://web.archive.org/web/20031011023416/http://www.muonline.co.kr/news/update_patch/read.asp?ann__guid=297&f_keyWord=&f_sekey=
 
@@ -1836,7 +1840,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 105. <a id="ref105"></a>[^](#cite105) https://web.archive.org/web/20051104084654/http://www.muonline.co.kr/News/Notice/readNotice.asp?intBoardSeq=400&strNoticeCode=0&intCurrentPage=1&strSearchText=%2D
 
-106. <a id="ref106"></a>[^](#cite106) https://web.archive.org/web/20040301225043/http:/www.muonline.co.kr/news/update_patch/read.asp?ann__guid=209&f_keyWord=&f_sekey=
+106. <a id="ref106"></a>[^](#cite106) https://web.archive.org/web/20040301225043/http://www.muonline.co.kr/news/update_patch/read.asp?ann__guid=209&f_keyWord=&f_sekey=
 
 107. <a id="ref107"></a>[^](#cite107) https://web.archive.org/web/20011119051039/http://www.muonline.co.kr/news/news/read.asp?ann__guid=6&f_keyWord=&f_sekey=
 
@@ -2232,7 +2236,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 293. <a id="ref293"></a>[^](#cite293) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/43731?page=38&category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 
-294. <a id="ref294"></a>[^](#cite294) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/43731?page=38&category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
+294. <a id="ref294"></a>[^](#cite294) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/64522?category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 
 295. <a id="ref295"></a>[^](#cite295) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/43953?page=37&category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 
@@ -2502,21 +2506,21 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 428. <a id="ref428"></a>[^](#cite428) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/63915?page=2&category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 
-429. <a id="ref429"></a>[^](#cite429) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/64051?page=1&category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp>
+429. <a id="ref429"></a>[^](#cite429) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/64051?page=1&category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 
-430. <a id="ref430"></a>[^](#cite430) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/64050?page=1&category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp>
+430. <a id="ref430"></a>[^](#cite430) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/64050?page=1&category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 
-431. <a id="ref431"></a>[^](#cite431) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/64049?page=1&category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp>
+431. <a id="ref431"></a>[^](#cite431) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/64049?page=1&category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 
 432. <a id="ref432"></a>[^](#cite432) https://en.wikipedia.org/wiki/Tama-chan
 
-433. <a id="ref433"></a>[^](#cite433) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/6016?page=62&category=1701&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_>
+433. <a id="ref433"></a>[^](#cite433) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/6016?page=62&category=1701&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 
-434. <a id="ref434"></a>[^](#cite434) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/5990?page=64&category=1701&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp>
+434. <a id="ref434"></a>[^](#cite434) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/5990?page=64&category=1701&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 
-435. <a id="ref435"></a>[^](#cite435) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/49250?page=10&category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp>
+435. <a id="ref435"></a>[^](#cite435) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/49250?page=10&category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 
-436. <a id="ref436"></a>[^](#cite436) https://company.webzen.com/en/pr/pressview?seq=326](https://company.webzen.com/ko/presscenter/press/pressview?page=534&seq=2291>
+436. <a id="ref436"></a>[^](#cite436) https://company.webzen.com/ko/presscenter/press/pressview?page=534&seq=2291
 
 - Wayback Machine - Internet Archive: https://web.archive.org/web/20260806174219/https://company.webzen.com/ko/presscenter/press/pressview?page=534&seq=2291
 
@@ -2658,7 +2662,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 471. <a id="ref471"></a>[^](#cite471) https://company.webzen.com/ko/presscenter/press/pressview?page=480&seq=2561
 
-- Wayback Machine - Internet Archive: https://web.archive.org/save/https://company.webzen.com/ko/presscenter/press/pressview?page=480&seq=2561
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20260826122623/https://company.webzen.com/ko/presscenter/press/pressview?page=480&seq=2561
 
 472. <a id="ref472"></a>[^](#cite472) https://company.webzen.com/ko/presscenter/press/pressview?page=479&seq=2569
 
@@ -2727,15 +2731,5 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 488. <a id="ref488"></a>[^](#cite488) https://company.webzen.com/ko/presscenter/press/pressview?page=412&seq=2908
 
 - Wayback Machine - Internet Archive: https://web.archive.org/web/20260826184500/https://company.webzen.com/ko/presscenter/press/pressview?page=412&seq=2908
-
-489. <a id="ref489"></a>[^](#cite489) https://company.webzen.com/ko/presscenter/press/pressview?page=404&seq=2948
-
-- Wayback Machine - Internet Archive: https://web.archive.org/web/20260826190227/https://company.webzen.com/ko/presscenter/press/pressview?page=404&seq=2948
-
-490. <a id="ref490"></a>[^](#cite490) https://company.webzen.com/ko/presscenter/press/pressview?page=403&seq=2952
-
-- Wayback Machine - Internet Archive: https://web.archive.org/web/20260826190344/https://company.webzen.com/ko/presscenter/press/pressview?page=403&seq=2952
-
-491. <a id="ref491"></a>[^](#cite491) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/64522?category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 
 [⬆ Back to Top](#references)
