@@ -98,7 +98,7 @@ Created and compiled by **Demiurgs**
 - **[Season 21 Part 2-2 (12.05.2026 - 09.06.2026)](#S21E2-2)**
 - **[Season 21 Part 2-3 (09.06.2026 - 15.09.2026)](#S21E2-3)**
 - **[Season 22 Part 1-1 (15.09.2026 - 13.10.2026)](#S22E1-1)**
-- **[Season 22 Part 1-1 (13.10.2026 - ...)](#S22E1-2)**
+- **[Season 22 Part 1-1 (13.10.2026 - Present)](#S22E1-2)**
 
 [⬆ Back to Top](#content)
 
