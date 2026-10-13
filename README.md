@@ -97,7 +97,8 @@ Created and compiled by **Demiurgs**
 - **[Season 21 Part 2-1 (21.04.2026 - 12.05.2026)](#S21E2-1)**
 - **[Season 21 Part 2-2 (12.05.2026 - 09.06.2026)](#S21E2-2)**
 - **[Season 21 Part 2-3 (09.06.2026 - 15.09.2026)](#S21E2-3)**
-- **[Season 22 Part 1-1 (15.09.2026 - ...)](#S22E1-1)**
+- **[Season 22 Part 1-1 (15.09.2026 - 13.10.2026)](#S22E1-1)**
+- **[Season 22 Part 1-1 (13.10.2026 - ...)](#S22E1-2)**
 
 [⬆ Back to Top](#content)
 
@@ -1611,10 +1612,17 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 [⬆ Back to Top](#content)
 
 <a id="S22E1-1"></a>
-# **Season 22 Part 1-1 (15.09.2026 - …)**
+# **Season 22 Part 1-1 (15.09.2026 - 13.10.2026)**
 
 - Re-work of character Dark Knight (DK), Rage Fighter (RF), Magic Gladiator (MG), Slayer.<sup><a id="cite294"></a>[[294]](#ref294), <a id="cite39"></a>[[39]](#ref39)</sup>
 - Improvements to Hunting Log.<sup><a id="cite294"></a>[[294]](#ref294), <a id="cite39"></a>[[39]](#ref39)</sup>
+
+[⬆ Back to Top](#content)
+
+<a id="S22E1-2"></a>
+# **Season 22 Part 1-2 (13.10.2026 - Present)**
+
+- Will be updated. The website is currently under maintenance.
 
 [⬆ Back to Top](#content)
 
