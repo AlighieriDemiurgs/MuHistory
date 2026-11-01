@@ -364,19 +364,21 @@ Created and compiled by **Demiurgs**
   - Tama-chan seal was added to Atlans on 20.07.2003.<sup><a id="cite28"></a>[[28]](#ref28)</sup>
   - Tama-chan seal is based on a real story about a male bearded seal which was first spotted on August 7, 2002 near Maruko Bridge on Tama River in Tokyo. It became a national celebrity in Japan.<sup><a id="cite432"></a>[[432]](#ref432)</sup>
 
-**0.9? (01.07.2003):**
+**0.9? (15.07.2003):**
 
-- Added map Icarus. Entry level requirement of 160.<sup><a id="cite19"></a>[[19]](#ref19), <a id="cite20"></a>[[20]](#ref20), <a id="cite62"></a>[[62]](#ref62), <a id="cite74"></a>[[74]](#ref74), <a id="cite448"></a>[[448]](#ref448)</sup>
+- Added map Icarus. Entry level requirement of 160.<sup><a id="cite21"></a>[[21]](#ref21), <a id="cite448"></a>[[448]](#ref448), <a id="cite19"></a>[[19]](#ref19), <a id="cite20"></a>[[20]](#ref20), <a id="cite74"></a>[[74]](#ref74), <a id="cite62"></a>[[62]](#ref62), <a id="cite36"></a>[[36]](#ref36)</sup>
 
-- Introduction of 2<sup>nd</sup> Class Quest (Blade Knight, Soul Master, Muse Elf). Level requirement of 150.<sup><a id="cite20"></a>[[20]](#ref20), <a id="cite21"></a>[[21]](#ref21), <a id="cite74"></a>[[74]](#ref74)</sup>
+- Introduction of 2<sup>nd</sup> Class Quest (Blade Knight, Soul Master, Muse Elf). Level requirement of 150.<sup><a id="cite21"></a>[[21]](#ref21), <a id="cite448"></a>[[448]](#ref448), <a id="cite20"></a>[[20]](#ref20)<a id="cite74"></a>[[74]](#ref74), <a id="cite36"></a>[[36]](#ref36)</sup>
 
-- Added Dark Phoenix set, Dark Breaker (Spirit Sword), Divine set, Celestial Bow, Crystal Staff (Dragon Soul Staff), Grand Soul set, Thunder set, Thunder Blade.<sup><a id="cite21"></a>[[21]](#ref21)</sup>
+- Changes to Dark Wizard (DW) defense formula. Agility / 5 = 1 defense is changed to Agility / 4 = 1 defense.<sup><a id="cite21"></a>[[21]](#ref21)</sup>
 
-- Introduction of Jewel of Creation (JoC).<sup><a id="cite36"></a>[[36]](#ref36), <a id="cite62"></a>[[62]](#ref62)</sup>
+- Added Dark Phoenix set, Dark Breaker (Spirit Sword), Divine set, Celestial Bow, Crystal Staff (Dragon Soul Staff), Grand Soul set, Thunder set, Thunder Blade.<sup><a id="cite21"></a>[[21]](#ref21), <a id="cite448"></a>[[448]](#ref448), <a id="cite20"></a>[[20]](#ref20)</sup>
 
-- Introduction of Horn of Dinorant.<sup><a id="cite21"></a>[[21]](#ref21), <a id="cite62"></a>[[62]](#ref62)</sup>
+- Introduction of Jewel of Creation (JoC).<sup><a id="cite448"></a>[[448]](#ref448), <a id="cite62"></a>[[62]](#ref62), <a id="cite36"></a>[[36]](#ref36)</sup>
 
-- Entry level requirement for Tarkan lowered from 140 to 130. Entry level requirement for Atlans lowered from 100 to 70.<sup><a id="cite448"></a>[[448]](#ref448)</sup>
+- Introduction of Horn of Dinorant.<sup><a id="cite21"></a>[[21]](#ref21), <a id="cite448"></a>[[448]](#ref448), <a id="cite62"></a>[[62]](#ref62)</sup>
+
+- Entry level requirement for Tarkan lowered from 140 to 130. Entry level requirement for Atlans lowered from 100 to 70. Entry level requirements for Losttower changed.<sup><a id="cite448"></a>[[448]](#ref448), <a id="cite21"></a>[[21]](#ref21)</sup>
   
 **0.95.? (06.08.2003):**
 
@@ -399,25 +401,25 @@ Created and compiled by **Demiurgs**
 
 - Introduction of AG (Stamina) system.<sup><a id="cite23"></a>[[23]](#ref23), <a id="cite63"></a>[[63]](#ref63)</sup>
 
-- Added Orb of Greater Fortitude (Orb of Swell Life).<sup><a id="cite23"></a>[[23]](#ref23)</sup>
+- Added Orb of Greater Fortitude (Orb of Swell Life).<sup><a id="cite23"></a>[[23]](#ref23), <a id="cite21"></a>[[21]](#ref21)</sup>
 
-- Added Orb of Rageful Blow.<sup><a id="cite23"></a>[[23]](#ref23)</sup>
+- Added Orb of Rageful Blow.<sup><a id="cite23"></a>[[23]](#ref23), <a id="cite21"></a>[[21]](#ref21)</sup>
 
-- Added Orb of Death Stab.<sup><a id="cite23"></a>[[23]](#ref23)</sup>
+- Added Orb of Death Stab.<sup><a id="cite23"></a>[[23]](#ref23), <a id="cite21"></a>[[21]](#ref21)</sup>
 
-- Added Scroll of Teleport Ally (Mass Teleport).<sup><a id="cite23"></a>[[23]](#ref23)</sup>
+- Added Scroll of Teleport Ally (Mass Teleport).<sup><a id="cite23"></a>[[23]](#ref23), <a id="cite21"></a>[[21]](#ref21)</sup>
 
-- Added Scroll of Soul Barrier (Mana Shield aka MS).<sup><a id="cite23"></a>[[23]](#ref23)</sup>
+- Added Scroll of Soul Barrier (Mana Shield aka MS).<sup><a id="cite23"></a>[[23]](#ref23), <a id="cite21"></a>[[21]](#ref21)</sup>
 
-- Added Orb of Penetration.<sup><a id="cite23"></a>[[23]](#ref23)</sup>
+- Added Orb of Penetration.<sup><a id="cite23"></a>[[23]](#ref23), <a id="cite21"></a>[[21]](#ref21)</sup>
 
-- Added Orb of Ice Arrow.<sup><a id="cite23"></a>[[23]](#ref23)</sup>
+- Added Orb of Ice Arrow.<sup><a id="cite23"></a>[[23]](#ref23), <a id="cite21"></a>[[21]](#ref21)</sup>
 
-- Added Orb of Fire Slash.<sup><a id="cite23"></a>[[23]](#ref23)</sup>
+- Added Orb of Fire Slash.<sup><a id="cite23"></a>[[23]](#ref23), <a id="cite21"></a>[[21]](#ref21)</sup>
 
-- Added Fire Breath skill (Horn of Dinorant skill).<sup><a id="cite23"></a>[[23]](#ref23)</sup>
+- Added Fire Breath skill (Horn of Dinorant skill).<sup><a id="cite23"></a>[[23]](#ref23), <a id="cite21"></a>[[21]](#ref21)</sup>
 
-- Added Impale skill (Horn of Uniria + Spear weapon for Dark Knight).<sup><a id="cite23"></a>[[23]](#ref23)</sup>
+- Added Impale skill (Horn of Uniria + Spear weapon for Dark Knight).<sup><a id="cite23"></a>[[23]](#ref23), <a id="cite21"></a>[[21]](#ref21)</sup>
 
 **0.96.? (04.09.2003):**
 
