@@ -350,9 +350,9 @@ Created and compiled by **Demiurgs**
 
 **0.9? (09.05.2003):**
 
-- Introduction of Uncover the Secrets of the Sky event and Box of Heaven. Box of Heaven could be obtained from any monster in-game during the event. Box of Heaven could drop several items including Rena, which is an ancient coin that was the currency of heaven.<sup><a id="cite20"></a>[[20]](#ref20), <a id="cite73"></a>[[73]](#ref73), <a id="cite74"></a>[[74]](#ref74), <a id="cite19"></a>[[19]](#ref19)</sup>
+- Introduction of Uncover the Secrets of the Sky event and Box of Heaven. Box of Heaven could be obtained from any monster in-game during the event. Box of Heaven could drop several items including Rena, which is an ancient coin that was the currency of heaven.<sup><a id="cite20"></a>[[20]](#ref20)</sup>
 
-- Introduction of Rena and Golden Archer NPC. You would collect Rena and hand them in (in batches of 10) to the Golden Archer NPC who would tell you a bit of lore about the upcoming new content (0.95k update) that was revealed at the MU Level Up 2003 event at the COEX Convention & Exhibition Center in Seoul, South Korea on June 6 and June 7, 2003. Golden Archer NPC also gave you codes that you could register to use at the MU Level Up 2003 event.<sup><a id="cite20"></a>[[20]](#ref20), <a id="cite73"></a>[[73]](#ref73), <a id="cite74"></a>[[74]](#ref74), <a id="cite19"></a>[[19]](#ref19)</sup>
+- Introduction of Rena and Golden Archer NPC. You would collect Rena and hand them in (in batches of 10) to the Golden Archer NPC who would tell you a bit of lore about the upcoming new content (0.95k update) that was revealed at the MU Level Up 2003 event at the COEX Convention & Exhibition Center in Seoul, South Korea on June 6 and June 7, 2003. Golden Archer NPC also gave you codes that you could register to use at the MU Level Up 2003 event.<sup><a id="cite20"></a>[[20]](#ref20)</sup>
 
 **0.94k aka 0.94.11 (17.06.2003):**
 
@@ -366,9 +366,9 @@ Created and compiled by **Demiurgs**
 
 **0.9? (01.07.2003):**
 
-- Added map Icarus. Entry level requirement of 160.<sup><a id="cite19"></a>[[19]](#ref19), <a id="cite20"></a>[[20]](#ref20), <a id="cite62"></a>[[62]](#ref62), <a id="cite448"></a>[[448]](#ref448)</sup>
+- Added map Icarus. Entry level requirement of 160.<sup><a id="cite19"></a>[[19]](#ref19), <a id="cite20"></a>[[20]](#ref20), <a id="cite62"></a>[[62]](#ref62), <a id="cite74"></a>[[74]](#ref74), <a id="cite448"></a>[[448]](#ref448)</sup>
 
-- Introduction of 2<sup>nd</sup> Class Quest (Blade Knight, Soul Master, Muse Elf). Level requirement of 150.<sup><a id="cite21"></a>[[21]](#ref21)
+- Introduction of 2<sup>nd</sup> Class Quest (Blade Knight, Soul Master, Muse Elf). Level requirement of 150.<sup><a id="cite20"></a>[[20]](#ref20), <a id="cite21"></a>[[21]](#ref21), <a id="cite74"></a>[[74]](#ref74)</sup>
 
 - Added Dark Phoenix set, Dark Breaker (Spirit Sword), Divine set, Celestial Bow, Crystal Staff (Dragon Soul Staff), Grand Soul set, Thunder set, Thunder Blade.<sup><a id="cite21"></a>[[21]](#ref21)</sup>
 
