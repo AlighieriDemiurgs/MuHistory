@@ -348,19 +348,11 @@ Created and compiled by **Demiurgs**
 
 - Added Gold medal.<sup><a id="cite37"></a>[[37]](#ref37)</sup>
 
-**0.94b aka 0.94.2 (06.06.2003):**
+**0.9? (09.05.2003):**
 
 - Introduction of Uncover the Secrets of the Sky event and Box of Heaven. Box of Heaven could be obtained from any monster in-game during the event. Box of Heaven could drop several items including Rena, which is an ancient coin that was the currency of heaven.<sup><a id="cite20"></a>[[20]](#ref20), <a id="cite73"></a>[[73]](#ref73), <a id="cite74"></a>[[74]](#ref74), <a id="cite19"></a>[[19]](#ref19)</sup>
 
 - Introduction of Rena and Golden Archer NPC. You would collect Rena and hand them in (in batches of 10) to the Golden Archer NPC who would tell you a bit of lore about the upcoming new content (0.95k update) that was revealed at the MU Level Up 2003 event at the COEX Convention & Exhibition Center in Seoul, South Korea on June 6 and June 7, 2003. Golden Archer NPC also gave you codes that you could register to use at the MU Level Up 2003 event.<sup><a id="cite20"></a>[[20]](#ref20), <a id="cite73"></a>[[73]](#ref73), <a id="cite74"></a>[[74]](#ref74), <a id="cite19"></a>[[19]](#ref19)</sup>
-
-- Added map Icarus. Entry level requirement of 160.<sup><a id="cite19"></a>[[19]](#ref19), <a id="cite20"></a>[[20]](#ref20), <a id="cite62"></a>[[62]](#ref62), <a id="cite448"></a>[[448]](#ref448)</sup>
-
-- Entry level requirement for Tarkan lowered from 140 to 130. Entry level requirement for Atlans lowered from 100 to 70.<sup><a id="cite448"></a>[[448]](#ref448)</sup>
-
-- Introduction of Jewel of Creation (JoC).<sup><a id="cite36"></a>[[36]](#ref36), <a id="cite62"></a>[[62]](#ref62)</sup>
-
-- Introduction of Horn of Dinorant.<sup><a id="cite21"></a>[[21]](#ref21), <a id="cite62"></a>[[62]](#ref62)</sup>
 
 **0.94k aka 0.94.11 (17.06.2003):**
 
@@ -371,6 +363,20 @@ Created and compiled by **Demiurgs**
 - Introduction of seal Tama-chan for the Japanese version of MU Online only. Located in the river-ditch at the Southern bridge of Lorencia.<sup><a id="cite28"></a>[[28]](#ref28), <a id="cite37"></a>[[37]](#ref37), <a id="cite447"></a>[[447]](#ref447)</sup>
   - Tama-chan seal was added to Atlans on 20.07.2003.<sup><a id="cite28"></a>[[28]](#ref28)</sup>
   - Tama-chan seal is based on a real story about a male bearded seal which was first spotted on August 7, 2002 near Maruko Bridge on Tama River in Tokyo. It became a national celebrity in Japan.<sup><a id="cite432"></a>[[432]](#ref432)</sup>
+
+**0.9? (01.07.2003):**
+
+- Added map Icarus. Entry level requirement of 160.<sup><a id="cite19"></a>[[19]](#ref19), <a id="cite20"></a>[[20]](#ref20), <a id="cite62"></a>[[62]](#ref62), <a id="cite448"></a>[[448]](#ref448)</sup>
+
+- Introduction of 2<sup>nd</sup> Class Quest (Blade Knight, Soul Master, Muse Elf). Level requirement of 150.<sup><a id="cite21"></a>[[21]](#ref21)
+
+- Added Dark Phoenix set, Dark Breaker (Spirit Sword), Divine set, Celestial Bow, Crystal Staff (Dragon Soul Staff), Grand Soul set, Thunder set, Thunder Blade.<sup><a id="cite21"></a>[[21]](#ref21)</sup>
+
+- Introduction of Jewel of Creation (JoC).<sup><a id="cite36"></a>[[36]](#ref36), <a id="cite62"></a>[[62]](#ref62)</sup>
+
+- Introduction of Horn of Dinorant.<sup><a id="cite21"></a>[[21]](#ref21), <a id="cite62"></a>[[62]](#ref62)</sup>
+
+- Entry level requirement for Tarkan lowered from 140 to 130. Entry level requirement for Atlans lowered from 100 to 70.<sup><a id="cite448"></a>[[448]](#ref448)</sup>
   
 **0.95.? (06.08.2003):**
 
@@ -385,19 +391,11 @@ Created and compiled by **Demiurgs**
 
 **0.95k aka 0.95.11 (26.08.2003):**
 
+- Introduction of 2<sup>nd</sup> Level Wings (Wings of Dragon, Wings of Soul, Wings of Spirit, Wings of Darkness).<sup><a id="cite21"></a>[[21]](#ref21), <a id="cite63"></a>[[63]](#ref63)</sup>
+
 - Introduction of stat Fruits.<sup><a id="cite23"></a>[[23]](#ref23), <a id="cite63"></a>[[63]](#ref63)</sup>
 
 - Introduction of AG (Stamina) system.<sup><a id="cite23"></a>[[23]](#ref23), <a id="cite63"></a>[[63]](#ref63)</sup>
-
-- Introduction of 2<sup>nd</sup> Class Quest (Blade Knight, Soul Master, Muse Elf). Level requirement of 150.<sup><a id="cite21"></a>[[21]](#ref21)
-
-- Introduction of 2<sup>nd</sup> Level Wings (Wings of Dragon, Wings of Soul, Wings of Spirit, Wings of Darkness).<sup><a id="cite21"></a>[[21]](#ref21), <a id="cite63"></a>[[63]](#ref63)</sup>
-
-- Added Dark Phoenix set, Dark Breaker (Spirit Sword), Divine set, Celestial Bow, Crystal Staff (Dragon Soul Staff), Grand Soul set, Thunder set, Thunder Blade.<sup><a id="cite21"></a>[[21]](#ref21)</sup>
-
-- Added Impale skill (Horn of Uniria + Spear weapon for Dark Knight).<sup><a id="cite23"></a>[[23]](#ref23)</sup>
-
-- Added Fire Breath skill (Horn of Dinorant skill).<sup><a id="cite23"></a>[[23]](#ref23)</sup>
 
 - Added Orb of Greater Fortitude (Orb of Swell Life).<sup><a id="cite23"></a>[[23]](#ref23)</sup>
 
@@ -414,6 +412,10 @@ Created and compiled by **Demiurgs**
 - Added Orb of Ice Arrow.<sup><a id="cite23"></a>[[23]](#ref23)</sup>
 
 - Added Orb of Fire Slash.<sup><a id="cite23"></a>[[23]](#ref23)</sup>
+
+- Added Fire Breath skill (Horn of Dinorant skill).<sup><a id="cite23"></a>[[23]](#ref23)</sup>
+
+- Added Impale skill (Horn of Uniria + Spear weapon for Dark Knight).<sup><a id="cite23"></a>[[23]](#ref23)</sup>
 
 **0.96.? (04.09.2003):**
 
