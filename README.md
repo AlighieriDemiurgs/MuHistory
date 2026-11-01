@@ -348,7 +348,7 @@ Created and compiled by **Demiurgs**
 
 - Added Gold medal.<sup><a id="cite37"></a>[[37]](#ref37)</sup>
 
-**0.9? (09.05.2003):**
+**0.94? (09.05.2003):**
 
 - Introduction of Uncover the Secrets of the Sky event and Box of Heaven. Box of Heaven could be obtained from any monster in-game during the event. Box of Heaven could drop several items including Rena, which is an ancient coin that was the currency of heaven.<sup><a id="cite20"></a>[[20]](#ref20)</sup>
 
