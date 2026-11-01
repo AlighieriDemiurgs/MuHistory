@@ -393,33 +393,33 @@ Created and compiled by **Demiurgs**
 
 - Party level gap increased from 120 to 130.<sup><a id="cite49"></a>[[49]](#ref49)</sup>
 
-**0.95k aka 0.95.11 (26.08.2003):**
+**0.95.? (01.09.2003):**
 
-- Introduction of 2<sup>nd</sup> Level Wings (Wings of Dragon, Wings of Soul, Wings of Spirit, Wings of Darkness).<sup><a id="cite21"></a>[[21]](#ref21), <a id="cite63"></a>[[63]](#ref63)</sup>
+- Introduction of 2<sup>nd</sup> Level Wings (Wings of Dragon, Wings of Soul, Wings of Spirit, Wings of Darkness).<sup><a id="cite23"></a>[[23]](#ref23), <a id="cite63"></a>[[63]](#ref63)</sup>
 
 - Introduction of stat Fruits.<sup><a id="cite23"></a>[[23]](#ref23), <a id="cite63"></a>[[63]](#ref63)</sup>
 
 - Introduction of AG (Stamina) system.<sup><a id="cite23"></a>[[23]](#ref23), <a id="cite63"></a>[[63]](#ref63)</sup>
 
-- Added Orb of Greater Fortitude (Orb of Swell Life).<sup><a id="cite23"></a>[[23]](#ref23), <a id="cite21"></a>[[21]](#ref21)</sup>
+- Added Orb of Greater Fortitude (Orb of Swell Life).<sup><a id="cite23"></a>[[23]](#ref23)</sup>
 
-- Added Orb of Rageful Blow.<sup><a id="cite23"></a>[[23]](#ref23), <a id="cite21"></a>[[21]](#ref21)</sup>
+- Added Orb of Rageful Blow.<sup><a id="cite23"></a>[[23]](#ref23)</sup>
 
-- Added Orb of Death Stab.<sup><a id="cite23"></a>[[23]](#ref23), <a id="cite21"></a>[[21]](#ref21)</sup>
+- Added Orb of Death Stab.<sup><a id="cite23"></a>[[23]](#ref23)</sup>
 
-- Added Scroll of Teleport Ally (Mass Teleport).<sup><a id="cite23"></a>[[23]](#ref23), <a id="cite21"></a>[[21]](#ref21)</sup>
+- Added Scroll of Teleport Ally (Mass Teleport).<sup><a id="cite23"></a>[[23]](#ref23)</sup>
 
-- Added Scroll of Soul Barrier (Mana Shield aka MS).<sup><a id="cite23"></a>[[23]](#ref23), <a id="cite21"></a>[[21]](#ref21)</sup>
+- Added Scroll of Soul Barrier (Mana Shield aka MS).<sup><a id="cite23"></a>[[23]](#ref23)</sup>
 
-- Added Orb of Penetration.<sup><a id="cite23"></a>[[23]](#ref23), <a id="cite21"></a>[[21]](#ref21)</sup>
+- Added Orb of Penetration.<sup><a id="cite23"></a>[[23]](#ref23)</sup>
 
-- Added Orb of Ice Arrow.<sup><a id="cite23"></a>[[23]](#ref23), <a id="cite21"></a>[[21]](#ref21)</sup>
+- Added Orb of Ice Arrow.<sup><a id="cite23"></a>[[23]](#ref23)</sup>
 
-- Added Orb of Fire Slash.<sup><a id="cite23"></a>[[23]](#ref23), <a id="cite21"></a>[[21]](#ref21)</sup>
+- Added Orb of Fire Slash.<sup><a id="cite23"></a>[[23]](#ref23)</sup>
 
-- Added Fire Breath skill (Horn of Dinorant skill).<sup><a id="cite23"></a>[[23]](#ref23), <a id="cite21"></a>[[21]](#ref21)</sup>
+- Added Fire Breath skill (Horn of Dinorant skill).<sup><a id="cite23"></a>[[23]](#ref23)</sup>
 
-- Added Impale skill (Horn of Uniria + Spear weapon for Dark Knight).<sup><a id="cite23"></a>[[23]](#ref23), <a id="cite21"></a>[[21]](#ref21)</sup>
+- Added Impale skill (Horn of Uniria + Spear weapon for Dark Knight).<sup><a id="cite23"></a>[[23]](#ref23), <a id="cite63"></a>[[63]](#ref63)</sup>
 
 **0.96.? (08.09.2003):**
 
