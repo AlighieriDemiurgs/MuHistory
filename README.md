@@ -421,12 +421,13 @@ Created and compiled by **Demiurgs**
 
 - Added Impale skill (Horn of Uniria + Spear weapon for Dark Knight).<sup><a id="cite23"></a>[[23]](#ref23), <a id="cite21"></a>[[21]](#ref21)</sup>
 
-**0.96.? (04.09.2003):**
+**0.96.? (08.09.2003):**
 
-- Introduction of Blood Castle (BC) 1-6.<sup><a id="cite24"></a>[[24]](#ref24), <a id="cite25"></a>[[25]](#ref25), <a id="cite26"></a>[[26]](#ref26), <a id="cite37"></a>[[37]](#ref37), <a id="cite450"></a>[[450]](#ref450)</sup>
+- Introduction of Blood Castle (BC) 1-6.<sup><a id="cite26"></a>[[26]](#ref26), <a id="cite25"></a>[[25]](#ref25), <a id="cite24"></a>[[24]](#ref24), <a id="cite37"></a>[[37]](#ref37), <a id="cite450"></a>[[450]](#ref450)</sup>
   - Webzen were inspired by the movie 'The Lord of the Rings: The Two Towers' when they developed Blood Castle (BC). Full story can be read in the reference link.<sup><a id="cite450"></a>[[450]](#ref450)</sup>
+  - Jewel of Chaos is the prize for successfully finishing Blood Castle (BC).<sup><a id="cite26"></a>[[26]](#ref26), <a id="cite24"></a>[[24]](#ref24)</sup>
   
-- Added Divine Archangel weapons: Divine Sword of Archangel, Divine Staff of Archangel and Divine Crossbow of Archangel.<sup><a id="cite24"></a>[[24]](#ref24), <a id="cite25"></a>[[25]](#ref25), <a id="cite26"></a>[[26]](#ref26)</sup>
+- Added Divine Archangel weapons: Divine Sword of Archangel, Divine Staff of Archangel and Divine Crossbow of Archangel.<sup><a id="cite26"></a>[[26]](#ref26), <a id="cite25"></a>[[25]](#ref25), <a id="cite24"></a>[[24]](#ref24), <a id="cite450"></a>[[450]](#ref450)</sup>
 
 **06.10.2003:**
 
