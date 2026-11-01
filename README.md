@@ -382,7 +382,7 @@ Created and compiled by **Demiurgs**
   
 **0.95.? (06.08.2003):**
 
-- Added Counterattack of the Golden Elite Troop (Box of Kundun) event. A Box of Kundun could drop either Zen, a jewel, or a normal or excellent item.<sup><a id="cite59"></a>[[59]](#ref59), <a id="cite449"></a>[[449]](#ref449)</sup>
+- Added Counterattack of the Golden Elite Troop (Box of Kundun) event. A Box of Kundun could drop either Zen, a jewel, or a normal or excellent item. The event ran from 6 August 2003 to 2 September 2003.<sup><a id="cite59"></a>[[59]](#ref59), <a id="cite449"></a>[[449]](#ref449), <a id="cite495"></a>[[495]](#ref495)</sup>
   - Golden Goblin (Lorencia, Noria; Box of Kundun +1)
   - Golden Titan & Golden Soldier (Devias; Box of Kundun +2)
   - Golden Dercon (Dragon) (Lorencia, Noria, Devias; Box of Kundun +3)
@@ -2770,5 +2770,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 493. <a id="ref493"></a>[^](#cite493) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/64643?category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 
 494. <a id="ref494"></a>[^](#cite494) https://web.archive.org/web/20040308104232/http://www.muonline.co.kr/news/news/read.asp?ann__guid=1379&f_keyWord=&f_sekey=
+
+495. <a id="ref495"></a>[^](#cite495) https://web.archive.org/web/20030825224847/http://www.muonline.co.kr/news/news/read.asp?ann__guid=1357&f_keyWord=&f_sekey=
      
 [⬆ Back to Top](#references)
