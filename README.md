@@ -1626,12 +1626,12 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 <a id="S22E1-2"></a>
 # **Season 22 Part 1-2 (13.10.2026 - Present)**
 
-- Introduction of map Arcana Library bosses Specter Knight, Specter Side and Specter Sorcerer. Entry level requirement of 1700.<sup><a id="cite490"></a>[[490]](#ref490), <a id="cite491"></a>[[491]](#ref491), <a id="cite494"></a>[[494]](#ref494)</sup>
-- Maximum level cap raised from 1800 to 1850 (Master Level 1450).<sup><a id="cite490"></a>[[490]](#ref490), <a id="cite492"></a>[[492]](#ref492), <a id="cite494"></a>[[494]](#ref494)</sup>
-- Introduction of 2 new Muun Items: Gun Crusher, Slayer.<sup><a id="cite490"></a>[[490]](#ref490), <a id="cite492"></a>[[492]](#ref492), <a id="cite494"></a>[[494]](#ref494)</sup>
-- Minor adjustments to Blood Castle (BC) gate and statue HP.<sup><a id="cite490"></a>[[490]](#ref490), <a id="cite493"></a>[[493]](#ref493), <a id="cite494"></a>[[494]](#ref494)</sup>
-- Minor adjustments to Monster Soul Conversion system.<sup><a id="cite490"></a>[[490]](#ref490), <a id="cite493"></a>[[493]](#ref493), <a id="cite494"></a>[[494]](#ref494)</sup>
-- Minor adjustments to Boss Battle Together event boss level and HP.<sup><a id="cite490"></a>[[490]](#ref490), <a id="cite493"></a>[[493]](#ref493), <a id="cite494"></a>[[494]](#ref494)</sup>
+- Introduction of map Arcana Library bosses Specter Knight, Specter Side and Specter Sorcerer. Entry level requirement of 1700.<sup><a id="cite490"></a>[[490]](#ref490), <a id="cite491"></a>[[491]](#ref491), <a id="cite73"></a>[[73]](#ref73)</sup>
+- Maximum level cap raised from 1800 to 1850 (Master Level 1450).<sup><a id="cite490"></a>[[490]](#ref490), <a id="cite492"></a>[[492]](#ref492), <a id="cite73"></a>[[73]](#ref73)</sup>
+- Introduction of 2 new Muun Items: Gun Crusher, Slayer.<sup><a id="cite490"></a>[[490]](#ref490), <a id="cite492"></a>[[492]](#ref492), <a id="cite73"></a>[[73]](#ref73)</sup>
+- Minor adjustments to Blood Castle (BC) gate and statue HP.<sup><a id="cite490"></a>[[490]](#ref490), <a id="cite493"></a>[[493]](#ref493), <a id="cite73"></a>[[73]](#ref73)</sup>
+- Minor adjustments to Monster Soul Conversion system.<sup><a id="cite490"></a>[[490]](#ref490), <a id="cite493"></a>[[493]](#ref493), <a id="cite73"></a>[[73]](#ref73)</sup>
+- Minor adjustments to Boss Battle Together event boss level and HP.<sup><a id="cite490"></a>[[490]](#ref490), <a id="cite493"></a>[[493]](#ref493), <a id="cite73"></a>[[73]](#ref73)</sup>
 
 [⬆ Back to Top](#content)
 
@@ -1792,7 +1792,9 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 - Wayback Machine - Internet Archive: https://web.archive.org/web/20260414133637/https://www.newswire.co.kr/newsRead.php?no=72939
 
-73. <a id="ref73"></a>[^](#cite73) https://web.archive.org/web/20040129000024/http://www.muonline.co.kr/news/news/read.asp?ann__guid=915&f_keyWord=&f_sekey=
+73. <a id="ref73"></a>[^](#cite73) https://company.webzen.com/ko/presscenter/press/pressview?page=1&seq=6985
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20261013070020/https://company.webzen.com/ko/presscenter/press/pressview?page=1&seq=6985
 
 74. <a id="ref74"></a>[^](#cite74) https://web.archive.org/web/20040127210510/http://www.muonline.co.kr/news/news/read.asp?ann__guid=961&f_keyWord=&f_sekey=
 
@@ -2761,9 +2763,5 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 492. <a id="ref492"></a>[^](#cite492) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/64642?category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 
 493. <a id="ref493"></a>[^](#cite493) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/64643?category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
-
-494. <a id="ref494"></a>[^](#cite494) https://company.webzen.com/ko/presscenter/press/pressview?page=1&seq=6985
-
-- Wayback Machine - Internet Archive: https://web.archive.org/web/20261013070020/https://company.webzen.com/ko/presscenter/press/pressview?page=1&seq=6985
      
 [⬆ Back to Top](#references)
