@@ -395,7 +395,11 @@ Created and compiled by **Demiurgs**
 
 **0.95k aka 0.95.11 (26.08.2003):**
 
-- The number of spawning 'Counterattack of the Golden Elite Troop' monsters increased from 2 to 3 in each map.<sup><a id="cite494"></a>[[494]](#ref494)</sup>
+- The number of spawning 'Counterattack of the Golden Elite Troop' Dercons increased from 2 (in separate maps) to 3 (same map).<sup><a id="cite494"></a>[[494]](#ref494)</sup>
+
+- Atlans map expansion in relation to original layout.<sup><a id="cite494"></a>[[494]](#ref494)</sup>
+
+- Arrows and bolts reduced to taking up 1 slot in inventory.<sup><a id="cite494"></a>[[494]](#ref494)</sup>
 
 - Introduction of 2<sup>nd</sup> Level Wings (Wings of Dragon, Wings of Soul, Wings of Spirit, Wings of Darkness).<sup><a id="cite494"></a>[[494]](#ref494), <a id="cite23"></a>[[23]](#ref23), <a id="cite63"></a>[[63]](#ref63)</sup>
 
@@ -421,7 +425,7 @@ Created and compiled by **Demiurgs**
 
 - Added Fire Breath skill (Horn of Dinorant skill).<sup><a id="cite494"></a>[[494]](#ref494), <a id="cite23"></a>[[23]](#ref23)</sup>
 
-- Added Impale skill (Horn of Uniria + Spear weapon for Dark Knight).<sup><a id="cite494"></a>[[494]](#ref494), <a id="cite23"></a>[[23]](#ref23), <a id="cite63"></a>[[63]](#ref63)</sup>
+- Added Impale skill (Horn of Uniria/Dinorant + Spear weapon for Dark Knight).<sup><a id="cite494"></a>[[494]](#ref494), <a id="cite23"></a>[[23]](#ref23), <a id="cite63"></a>[[63]](#ref63)</sup>
 
 **0.96.? (08.09.2003):**
 
