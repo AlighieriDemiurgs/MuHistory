@@ -433,7 +433,7 @@ Created and compiled by **Demiurgs**
   - Webzen were inspired by the movie 'The Lord of the Rings: The Two Towers' when they developed Blood Castle (BC). Full story can be read in the reference link.<sup><a id="cite450"></a>[[450]](#ref450)</sup>
   - Jewel of Chaos is the prize for successfully finishing Blood Castle (BC).<sup><a id="cite26"></a>[[26]](#ref26), <a id="cite24"></a>[[24]](#ref24)</sup>
   
-- Added Divine Archangel weapons: Divine Sword of Archangel, Divine Staff of Archangel and Divine Crossbow of Archangel.<sup><a id="cite26"></a>[[26]](#ref26), <a id="cite25"></a>[[25]](#ref25), <a id="cite24"></a>[[24]](#ref24), <a id="cite450"></a>[[450]](#ref450)</sup>
+- Added Divine Archangel weapons: Divine Sword of Archangel, Divine Staff of Archangel and Divine Crossbow of Archangel.<sup><a id="cite24"></a>[[24]](#ref24)</sup>
 
 **06.10.2003:**
 
