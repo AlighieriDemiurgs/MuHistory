@@ -364,9 +364,9 @@ Created and compiled by **Demiurgs**
   - Tama-chan seal was added to Atlans on 20.07.2003.<sup><a id="cite28"></a>[[28]](#ref28)</sup>
   - Tama-chan seal is based on a real story about a male bearded seal which was first spotted on August 7, 2002 near Maruko Bridge on Tama River in Tokyo. It became a national celebrity in Japan.<sup><a id="cite432"></a>[[432]](#ref432)</sup>
 
-**0.9? (15.07.2003):**
+**0.95d (15.07.2003):**
 
-- Added map Icarus. Entry level requirement of 160.<sup><a id="cite21"></a>[[21]](#ref21), <a id="cite448"></a>[[448]](#ref448), <a id="cite19"></a>[[19]](#ref19), <a id="cite20"></a>[[20]](#ref20), <a id="cite74"></a>[[74]](#ref74), <a id="cite62"></a>[[62]](#ref62), <a id="cite36"></a>[[36]](#ref36)</sup>
+- Added map Icarus. Entry level requirement of 160.<sup><a id="cite21"></a>[[21]](#ref21), <a id="cite448"></a>[[496]](#ref496), <a id="cite496"></a>[[448]](#ref448), <a id="cite19"></a>[[19]](#ref19), <a id="cite20"></a>[[20]](#ref20), <a id="cite74"></a>[[74]](#ref74), <a id="cite62"></a>[[62]](#ref62), <a id="cite36"></a>[[36]](#ref36)</sup>
 
 - Introduction of 2<sup>nd</sup> Class Quest (Blade Knight, Soul Master, Muse Elf). Level requirement of 150.<sup><a id="cite21"></a>[[21]](#ref21), <a id="cite448"></a>[[448]](#ref448), <a id="cite20"></a>[[20]](#ref20)<a id="cite74"></a>[[74]](#ref74), <a id="cite36"></a>[[36]](#ref36)</sup>
 
@@ -2776,5 +2776,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 494. <a id="ref494"></a>[^](#cite494) https://web.archive.org/web/20040308104232/http://www.muonline.co.kr/news/news/read.asp?ann__guid=1379&f_keyWord=&f_sekey=
 
 495. <a id="ref495"></a>[^](#cite495) https://web.archive.org/web/20030825224847/http://www.muonline.co.kr/news/news/read.asp?ann__guid=1357&f_keyWord=&f_sekey=
+
+496. <a id="ref496"></a>[^](#cite496) https://web.archive.org/web/20040509170439/http://www.muonline.co.kr/news/news/read.asp?ann__guid=1294&f_keyWord=&f_sekey=
      
 [⬆ Back to Top](#references)
