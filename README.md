@@ -434,6 +434,7 @@ Created and compiled by **Demiurgs**
   - Jewel of Chaos is the prize for successfully finishing Blood Castle (BC).<sup><a id="cite26"></a>[[26]](#ref26), <a id="cite24"></a>[[24]](#ref24)</sup>
   
 - Added Divine Archangel weapons: Divine Sword of Archangel, Divine Staff of Archangel and Divine Crossbow of Archangel.<sup><a id="cite24"></a>[[24]](#ref24)</sup>
+  - They were added as rewards for top-ranked Blood Castle (BC) players in each server.<sup><a id="cite497"></a>[[497]](#ref497)</sup>
 
 **06.10.2003:**
 
@@ -2778,5 +2779,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 495. <a id="ref495"></a>[^](#cite495) https://web.archive.org/web/20030825224847/http://www.muonline.co.kr/news/news/read.asp?ann__guid=1357&f_keyWord=&f_sekey=
 
 496. <a id="ref496"></a>[^](#cite496) https://web.archive.org/web/20040509170439/http://www.muonline.co.kr/news/news/read.asp?ann__guid=1294&f_keyWord=&f_sekey=
+
+497. <a id="ref497"></a>[^](#cite497) https://web.archive.org/web/20040111130423/http://www.muonline.co.kr/news/news/read.asp?ann__guid=1361&f_keyWord=&f_sekey=
      
 [⬆ Back to Top](#references)
