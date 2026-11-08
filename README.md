@@ -238,7 +238,7 @@ Created and compiled by **Demiurgs**
 
 - Added map Arena and Battle Soccer stadium.<sup><a id="cite38"></a>[[38]](#ref38)</sup>
   - Interestingly, Battle Soccer was introduced to commemorate the 2002 FIFA World Cup, which took place in South Korea and Japan.<sup><a id="cite434"></a>[[434]](#ref434)</sup>
-  - Interestingly, Webzen had planned to release 'Dark Wolf', a unique pet for the Dark Knight (DK). However, it was never implemented. Traces of it still exist in decompiled code from early game versions. Some speculate it was later reworked into Fenrir, the pet released for the Dark Lord (DL).<sup><a id="cite445"></a>[[445]](#ref445)</sup>
+  - Interestingly, Webzen had planned to release 'Dark Wolf', a unique pet for the Dark Knight (DK). However, it was never implemented. Traces of it still exist in decompiled code from early game versions. Some speculate it was later reworked into Fenrir.<sup><a id="cite445"></a>[[445]](#ref445)</sup>
   
 - Added macro function /1 /….<sup><a id="cite38"></a>[[38]](#ref38)</sup>
 
