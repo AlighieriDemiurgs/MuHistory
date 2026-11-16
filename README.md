@@ -13,6 +13,8 @@ Live links were preserved via **Wayback Machine - Internet Archive** if the link
 # **ADDITIONAL INFORMATION**
 - For **Global MU Online (GMO)** history use: **https://www.muonline.com/** and **https://company.webzen.com/en/pr** and **https://muonline.webzen.com/en**
   - The content of seasons matches the corresponding seasons of MU Korea. Global MU Online (GMO) follows a delayed release schedule of seasons.
+- For **MU Online Private Server** history use: **https://web.archive.org/web/20071011044049/http://forum.ragezone.com/f82/index963.html**
+  - Contains the first MU Online server file leak-release threads from January 2004.
 
 # **AUTHOR**
 Created and compiled by **Demiurgs**
