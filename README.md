@@ -226,8 +226,8 @@ Created and compiled by **Demiurgs**
 
 - Added Scroll of Aqua Beam.<sup><a id="cite13"></a>[[13]](#ref13)</sup>
 
-- Added Unicorn (Storm Crow) Gloves, Unicorn (Storm Crow) Boots. Unicorn (Storm Crow) Pants and Unicorn (Storm Crow) Armor were not a part of the initial release. A likely explanation is that Unicorn (Storm Crow) Armor has Item level 80, Unicorn (Storm Crow) Pants have Item level 74. The strongest monster in Atlans is Hydra with Monster level 74.<sup><a id="cite13"></a>[[13]](#ref13)</sup>
-  - However, on test server and test patch Hydra was level 72.<sup><a id="cite106"></a>[[106]](#ref106)</sup> Therefore, it could not drop Unicorn (Storm Crow) pants with an Item level 74. Likely Hydra's drop table was not adjusted initially even though it was released as a level 74 monster on the main server.
+- Added Atlans (Storm Crow/Unicorn) Gloves, Atlans (Storm Crow/Unicorn) Boots. Atlans (Storm Crow/Unicorn) Pants and Atlans (Storm Crow/Unicorn) Armor were not a part of the initial release. A likely explanation is that Atlans (Storm Crow/Unicorn) Armor has Item level 80, Atlans (Storm Crow/Unicorn) Pants have Item level 74. The strongest monster in Atlans is Hydra with Monster level 74.<sup><a id="cite13"></a>[[13]](#ref13)</sup>
+  - However, on test server and test patch Hydra was level 72.<sup><a id="cite106"></a>[[106]](#ref106)</sup> Therefore, it could not drop Atlans (Storm Crow/Unicorn) pants with an Item level 74. Likely Hydra's drop table was not adjusted initially even though it was released as a level 74 monster on the main server.
 
 - Maximum level limit increased from 255 to 298.<sup><a id="cite13"></a>[[13]](#ref13)</sup>
   - Discrepancy exists since live evidence does not support the claim. The publicly available 0.75 KOR protocol client, while running on OpenMU server, still has the maximum level of 255.
