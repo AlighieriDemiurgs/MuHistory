@@ -13,6 +13,7 @@ Live links were preserved via **Wayback Machine - Internet Archive** if the link
 # **ADDITIONAL INFORMATION**
 - For **Global MU Online (GMO)** history use: **https://www.muonline.com/** and **https://company.webzen.com/en/pr** and **https://muonline.webzen.com/en**
   - The content of seasons matches the corresponding seasons of MU Korea. Global MU Online (GMO) follows a delayed release schedule of seasons.
+  - MuHQ (**https://muhq.com/**) can be additionally used for **Global MU Online (GMO) history**. Access it via **Wayback Machine - Internet Archive**. The forum dates back to late 2003. The website dates back to 2004.
 - For **MU Online Private Server** history use: **https://web.archive.org/web/20071011044049/http://forum.ragezone.com/f82/index963.html**
   - Contains the first MU Online server file release threads from January 2004. Including by Akaruz, the 'Godfather' of MU Online private servers.
 
