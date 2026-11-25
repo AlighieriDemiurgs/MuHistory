@@ -101,7 +101,8 @@ Created and compiled by **Demiurgs**
 - **[Season 21 Part 2-2 (12.05.2026 - 09.06.2026)](#S21E2-2)**
 - **[Season 21 Part 2-3 (09.06.2026 - 15.09.2026)](#S21E2-3)**
 - **[Season 22 Part 1-1 (15.09.2026 - 13.10.2026)](#S22E1-1)**
-- **[Season 22 Part 1-2 (13.10.2026 - Present)](#S22E1-2)**
+- **[Season 22 Part 1-2 (13.10.2026 - 24.11.2026)](#S22E1-2)**
+- **[Season 22 Part 1-3 (24.11.2026 - Present)](#S22E1-3)**
 
 [⬆ Back to Top](#content)
 
@@ -1633,14 +1634,26 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 [⬆ Back to Top](#content)
 
 <a id="S22E1-2"></a>
-# **Season 22 Part 1-2 (13.10.2026 - Present)**
+# **Season 22 Part 1-2 (13.10.2026 - 24.11.2026)**
 
-- Introduction of map Arcana Library bosses Specter Knight, Specter Side and Specter Sorcerer. Entry level requirement of 1700.<sup><a id="cite490"></a>[[490]](#ref490), <a id="cite491"></a>[[491]](#ref491), <a id="cite73"></a>[[73]](#ref73)</sup>
+- Introduction of map Arcana Library. Entry level requirement of 1700.<sup><a id="cite490"></a>[[490]](#ref490), <a id="cite491"></a>[[491]](#ref491), <a id="cite73"></a>[[73]](#ref73)</sup>
 - Maximum level cap raised from 1800 to 1850 (Master Level 1450).<sup><a id="cite490"></a>[[490]](#ref490), <a id="cite492"></a>[[492]](#ref492), <a id="cite73"></a>[[73]](#ref73)</sup>
 - Introduction of 2 new Muun Items: Gun Crusher, Slayer.<sup><a id="cite490"></a>[[490]](#ref490), <a id="cite492"></a>[[492]](#ref492), <a id="cite73"></a>[[73]](#ref73)</sup>
 - Minor adjustments to Blood Castle (BC) gate and statue HP.<sup><a id="cite490"></a>[[490]](#ref490), <a id="cite493"></a>[[493]](#ref493), <a id="cite73"></a>[[73]](#ref73)</sup>
 - Minor adjustments to Monster Soul Conversion system.<sup><a id="cite490"></a>[[490]](#ref490), <a id="cite493"></a>[[493]](#ref493), <a id="cite73"></a>[[73]](#ref73)</sup>
 - Minor adjustments to Boss Battle Together event boss level and HP.<sup><a id="cite490"></a>[[490]](#ref490), <a id="cite493"></a>[[493]](#ref493), <a id="cite73"></a>[[73]](#ref73)</sup>
+
+[⬆ Back to Top](#content)
+
+<a id="S22E1-3"></a>
+# **Season 22 Part 1-3 (24.11.2026 - Present)**
+
+- Added Elite Zone in map Arcana Library and Elite monsters Specter Knight, Specter Side and Specter Sorcerer.<sup><a id="cite498"></a>[[498]](#ref498), <a id="cite499"></a>[[499]](#ref499), <a id="cite502"></a>[[502]](#ref502)</sup>
+- Removal of Elite Zone in map Lacleon of Oblivion (Raklion of Oblivion).<sup><a id="cite498"></a>[[498]](#ref498), <a id="cite499"></a>[[499]](#ref499)</sup>
+- Reduction of size of map Swamp of Destruction and map Aquilas Temple size.<sup><a id="cite498"></a>[[498]](#ref498), <a id="cite499"></a>[[499]](#ref499)</sup>
+- Introduction of 3<sup>rd</sup> Legendary Weapon and Shield - Dominion of Execution (level 1700) for all characters except Dark Wizard, Summoner, Rune Mage, Gun Crusher, White Wizard, Mage and Alchemist.<sup><a id="cite498"></a>[[498]](#ref498), <a id="cite500"></a>[[500]](#ref500)</sup>
+- Introduction of 3<sup>rd</sup> Legendary Set - Dominion of Execution (level 1700) for all characters except Dark Wizard, Summoner, Rune Mage, Gun Crusher, White Wizard, Mage and Alchemist.<sup><a id="cite498"></a>[[498]](#ref498), <a id="cite500"></a>[[500]](#ref500), <a id="cite502"></a>[[502]](#ref502)</sup>
+- Overhaul of NPC shops in-game.<sup><a id="cite498"></a>[[498]](#ref498), <a id="cite501"></a>[[501]](#ref501), <a id="cite502"></a>[[502]](#ref502)</sup>
 
 [⬆ Back to Top](#content)
 
@@ -2780,5 +2793,17 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 496. <a id="ref496"></a>[^](#cite496) https://web.archive.org/web/20040509170439/http://www.muonline.co.kr/news/news/read.asp?ann__guid=1294&f_keyWord=&f_sekey=
 
 497. <a id="ref497"></a>[^](#cite497) https://web.archive.org/web/20040111130423/http://www.muonline.co.kr/news/news/read.asp?ann__guid=1361&f_keyWord=&f_sekey=
+
+498. <a id="ref498"></a>[^](#cite498) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/64836?category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
+    
+499. <a id="ref499"></a>[^](#cite499) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/64815?_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
+
+500. <a id="ref500"></a>[^](#cite500) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/64816?category=1702&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
+
+501. <a id="ref501"></a>[^](#cite501) https://www-muonline-co-kr.translate.goog/news/patch-note/detail/64814?_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
      
+502. <a id="ref502"></a>[^](#cite502) https://company.webzen.com/ko/presscenter/press/pressview?page=1&seq=7002
+
+- Wayback Machine - Internet Archive: https://web.archive.org/web/20261125095538/https://company.webzen.com/ko/presscenter/press/pressview?page=1&seq=7002
+
 [⬆ Back to Top](#references)
