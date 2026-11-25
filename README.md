@@ -1650,7 +1650,7 @@ MU Korea (muonline.co.kr) did not use this terminology. This was just an update 
 
 - Added Elite Zone in map Arcana Library and Elite monsters Specter Knight, Specter Side and Specter Sorcerer.<sup><a id="cite498"></a>[[498]](#ref498), <a id="cite499"></a>[[499]](#ref499), <a id="cite502"></a>[[502]](#ref502)</sup>
 - Removal of Elite Zone in map Lacleon of Oblivion (Raklion of Oblivion).<sup><a id="cite498"></a>[[498]](#ref498), <a id="cite499"></a>[[499]](#ref499)</sup>
-- Reduction of size of map Swamp of Destruction and map Aquilas Temple size.<sup><a id="cite498"></a>[[498]](#ref498), <a id="cite499"></a>[[499]](#ref499)</sup>
+- Size reduction for the maps Swamp of Destruction and Aquilas Temple.<sup><a id="cite498"></a>[[498]](#ref498), <a id="cite499"></a>[[499]](#ref499)</sup>
 - Introduction of 3<sup>rd</sup> Legendary Weapon and Shield - Dominion of Execution (level 1700) for all characters except Dark Wizard, Summoner, Rune Mage, Gun Crusher, White Wizard, Mage and Alchemist.<sup><a id="cite498"></a>[[498]](#ref498), <a id="cite500"></a>[[500]](#ref500)</sup>
 - Introduction of 3<sup>rd</sup> Legendary Set - Dominion of Execution (level 1700) for all characters except Dark Wizard, Summoner, Rune Mage, Gun Crusher, White Wizard, Mage and Alchemist.<sup><a id="cite498"></a>[[498]](#ref498), <a id="cite500"></a>[[500]](#ref500), <a id="cite502"></a>[[502]](#ref502)</sup>
 - Overhaul of NPC shops in-game.<sup><a id="cite498"></a>[[498]](#ref498), <a id="cite501"></a>[[501]](#ref501), <a id="cite502"></a>[[502]](#ref502)</sup>
